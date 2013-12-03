@@ -151,6 +151,7 @@
         "jname": "\u3064\u308b\u304e\u306e\u307e\u3044", 
         "power": null, 
         "pp": 20, 
+        "tm": 75, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -503,6 +504,7 @@
         "jname": "\u307b\u3048\u308b", 
         "power": null, 
         "pp": 20, 
+        "tm": 5, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -580,6 +582,7 @@
         "jname": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083", 
         "power": 90, 
         "pp": 15, 
+        "tm": 35, 
         "type": "\u708e"
     }, 
     {
@@ -635,6 +638,7 @@
         "jname": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0", 
         "power": 90, 
         "pp": 10, 
+        "tm": 13, 
         "type": "\u51b0"
     }, 
     {
@@ -646,6 +650,7 @@
         "jname": "\u3075\u3076\u304d", 
         "power": 110, 
         "pp": 5, 
+        "tm": 14, 
         "type": "\u51b0"
     }, 
     {
@@ -690,6 +695,7 @@
         "jname": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093", 
         "power": 150, 
         "pp": 5, 
+        "tm": 15, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -833,6 +839,7 @@
         "jname": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0", 
         "power": 120, 
         "pp": 10, 
+        "tm": 22, 
         "type": "\u8349"
     }, 
     {
@@ -932,6 +939,7 @@
         "jname": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8", 
         "power": 90, 
         "pp": 15, 
+        "tm": 24, 
         "type": "\u7535"
     }, 
     {
@@ -943,6 +951,7 @@
         "jname": "\u3067\u3093\u3058\u306f", 
         "power": null, 
         "pp": 20, 
+        "tm": 73, 
         "type": "\u7535"
     }, 
     {
@@ -954,6 +963,7 @@
         "jname": "\u304b\u307f\u306a\u308a", 
         "power": 110, 
         "pp": 10, 
+        "tm": 25, 
         "type": "\u7535"
     }, 
     {
@@ -976,6 +986,7 @@
         "jname": "\u3058\u3057\u3093", 
         "power": 100, 
         "pp": 10, 
+        "tm": 26, 
         "type": "\u5730\u4e0a"
     }, 
     {
@@ -998,6 +1009,7 @@
         "jname": "\u3042\u306a\u3092\u307b\u308b", 
         "power": 80, 
         "pp": 10, 
+        "tm": 28, 
         "type": "\u5730\u4e0a"
     }, 
     {
@@ -1009,6 +1021,7 @@
         "jname": "\u3069\u304f\u3069\u304f", 
         "power": null, 
         "pp": 10, 
+        "tm": 6, 
         "type": "\u6bd2"
     }, 
     {
@@ -1031,6 +1044,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9", 
         "power": 90, 
         "pp": 10, 
+        "tm": 29, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -1141,6 +1155,7 @@
         "jname": "\u304b\u3052\u3076\u3093\u3057\u3093", 
         "power": null, 
         "pp": 15, 
+        "tm": 32, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -1240,6 +1255,7 @@
         "jname": "\u3072\u304b\u308a\u306e\u304b\u3079", 
         "power": null, 
         "pp": 30, 
+        "tm": 16, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -1262,6 +1278,7 @@
         "jname": "\u30ea\u30d5\u30ec\u30af\u30bf\u30fc", 
         "power": null, 
         "pp": 20, 
+        "tm": 33, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -1383,6 +1400,7 @@
         "jname": "\u3060\u3044\u3082\u3093\u3058", 
         "power": 110, 
         "pp": 5, 
+        "tm": 38, 
         "type": "\u708e"
     }, 
     {
@@ -1515,6 +1533,7 @@
         "jname": "\u3086\u3081\u304f\u3044", 
         "power": 100, 
         "pp": 15, 
+        "tm": 85, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -1625,6 +1644,7 @@
         "jname": "\u30d5\u30e9\u30c3\u30b7\u30e5", 
         "power": null, 
         "pp": 20, 
+        "tm": 70, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -1680,6 +1700,7 @@
         "jname": "\u3060\u3044\u3070\u304f\u306f\u3064", 
         "power": 250, 
         "pp": 5, 
+        "tm": 64, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -1713,6 +1734,7 @@
         "jname": "\u306d\u3080\u308b", 
         "power": null, 
         "pp": 10, 
+        "tm": 44, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -1724,6 +1746,7 @@
         "jname": "\u3044\u308f\u306a\u3060\u308c", 
         "power": 75, 
         "pp": 10, 
+        "tm": 80, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -1801,6 +1824,7 @@
         "jname": "\u307f\u304c\u308f\u308a", 
         "power": null, 
         "pp": 10, 
+        "tm": 90, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -1845,6 +1869,7 @@
         "jname": "\u3069\u308d\u307c\u3046", 
         "power": 60, 
         "pp": 10, 
+        "tm": 46, 
         "type": "\u6076"
     }, 
     {
@@ -1999,6 +2024,7 @@
         "jname": "\u307e\u3082\u308b", 
         "power": null, 
         "pp": 10, 
+        "tm": 17, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2065,6 +2091,7 @@
         "jname": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093", 
         "power": 90, 
         "pp": 10, 
+        "tm": 36, 
         "type": "\u6bd2"
     }, 
     {
@@ -2208,6 +2235,7 @@
         "jname": "\u3059\u306a\u3042\u3089\u3057", 
         "power": null, 
         "pp": 10, 
+        "tm": 37, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -2263,6 +2291,7 @@
         "jname": "\u307f\u306d\u3046\u3061", 
         "power": 40, 
         "pp": 40, 
+        "tm": 54, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2274,6 +2303,7 @@
         "jname": "\u3044\u3070\u308b", 
         "power": null, 
         "pp": 15, 
+        "tm": 87, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2318,6 +2348,7 @@
         "jname": "\u306f\u304c\u306d\u306e\u3064\u3070\u3055", 
         "power": 70, 
         "pp": 25, 
+        "tm": 51, 
         "type": "\u94a2"
     }, 
     {
@@ -2340,6 +2371,7 @@
         "jname": "\u30e1\u30ed\u30e1\u30ed", 
         "power": null, 
         "pp": 15, 
+        "tm": 45, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2351,6 +2383,7 @@
         "jname": "\u306d\u3054\u3068", 
         "power": null, 
         "pp": 10, 
+        "tm": 88, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2373,6 +2406,7 @@
         "jname": "\u304a\u3093\u304c\u3048\u3057", 
         "power": null, 
         "pp": 20, 
+        "tm": 27, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2395,6 +2429,7 @@
         "jname": "\u3084\u3064\u3042\u305f\u308a", 
         "power": null, 
         "pp": 20, 
+        "tm": 21, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2406,6 +2441,7 @@
         "jname": "\u3057\u3093\u3074\u306e\u307e\u3082\u308a", 
         "power": null, 
         "pp": 25, 
+        "tm": 20, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2604,6 +2640,7 @@
         "jname": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc", 
         "power": 60, 
         "pp": 15, 
+        "tm": 10, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2637,6 +2674,7 @@
         "jname": "\u3042\u307e\u3054\u3044", 
         "power": null, 
         "pp": 5, 
+        "tm": 18, 
         "type": "\u6c34"
     }, 
     {
@@ -2648,6 +2686,7 @@
         "jname": "\u306b\u307b\u3093\u3070\u308c", 
         "power": null, 
         "pp": 5, 
+        "tm": 11, 
         "type": "\u708e"
     }, 
     {
@@ -2681,6 +2720,7 @@
         "jname": "\u3058\u3053\u3042\u3093\u3058", 
         "power": null, 
         "pp": 10, 
+        "tm": 77, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2714,6 +2754,7 @@
         "jname": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb", 
         "power": 80, 
         "pp": 15, 
+        "tm": 30, 
         "type": "\u5e7d\u7075"
     }, 
     {
@@ -2736,6 +2777,7 @@
         "jname": "\u3044\u308f\u304f\u3060\u304d", 
         "power": 40, 
         "pp": 15, 
+        "tm": 94, 
         "type": "\u683c\u6597"
     }, 
     {
@@ -2835,6 +2877,7 @@
         "jname": "\u3042\u3089\u308c", 
         "power": null, 
         "pp": 10, 
+        "tm": 7, 
         "type": "\u51b0"
     }, 
     {
@@ -2846,6 +2889,7 @@
         "jname": "\u3044\u3061\u3083\u3082\u3093", 
         "power": null, 
         "pp": 15, 
+        "tm": 41, 
         "type": "\u6076"
     }, 
     {
@@ -2868,6 +2912,7 @@
         "jname": "\u304a\u306b\u3073", 
         "power": null, 
         "pp": 15, 
+        "tm": 61, 
         "type": "\u708e"
     }, 
     {
@@ -2890,6 +2935,7 @@
         "jname": "\u304b\u3089\u3052\u3093\u304d", 
         "power": 70, 
         "pp": 20, 
+        "tm": 42, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2934,6 +2980,7 @@
         "jname": "\u3057\u305c\u3093\u306e\u3061\u304b\u3089", 
         "power": null, 
         "pp": 20, 
+        "tm": 96, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -2956,6 +3003,7 @@
         "jname": "\u3061\u3087\u3046\u306f\u3064", 
         "power": null, 
         "pp": 20, 
+        "tm": 12, 
         "type": "\u6076"
     }, 
     {
@@ -3077,6 +3125,7 @@
         "jname": "\u304b\u308f\u3089\u308f\u308a", 
         "power": 75, 
         "pp": 15, 
+        "tm": 31, 
         "type": "\u683c\u6597"
     }, 
     {
@@ -3247,7 +3296,7 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u8584\u9727\u7403", 
+        "cname": "\u8584\u96fe\u7403", 
         "ename": "Mist Ball", 
         "id": 296, 
         "jname": "\u30df\u30b9\u30c8\u30dc\u30fc\u30eb", 
@@ -3462,6 +3511,7 @@
         "jname": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8", 
         "power": 130, 
         "pp": 5, 
+        "tm": 50, 
         "type": "\u708e"
     }, 
     {
@@ -3484,6 +3534,7 @@
         "jname": "\u304c\u3093\u305b\u304d\u3075\u3046\u3058", 
         "power": 60, 
         "pp": 15, 
+        "tm": 39, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -3649,6 +3700,7 @@
         "jname": "\u3064\u3070\u3081\u304c\u3048\u3057", 
         "power": 60, 
         "pp": 20, 
+        "tm": 40, 
         "type": "\u98de\u884c"
     }, 
     {
@@ -3704,6 +3756,7 @@
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30af\u30ed\u30fc", 
         "power": 80, 
         "pp": 15, 
+        "tm": 2, 
         "type": "\u9f99"
     }, 
     {
@@ -3726,6 +3779,7 @@
         "jname": "\u30d3\u30eb\u30c9\u30a2\u30c3\u30d7", 
         "power": null, 
         "pp": 20, 
+        "tm": 8, 
         "type": "\u683c\u6597"
     }, 
     {
@@ -3814,6 +3868,7 @@
         "jname": "\u3081\u3044\u305d\u3046", 
         "power": null, 
         "pp": 20, 
+        "tm": 4, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -3902,6 +3957,7 @@
         "jname": "\u306f\u306d\u3084\u3059\u3081", 
         "power": null, 
         "pp": 10, 
+        "tm": 19, 
         "type": "\u98de\u884c"
     }, 
     {
@@ -3957,6 +4013,7 @@
         "jname": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb", 
         "power": null, 
         "pp": 5, 
+        "tm": 74, 
         "type": "\u94a2"
     }, 
     {
@@ -4056,6 +4113,7 @@
         "jname": "\u3068\u3093\u307c\u304c\u3048\u308a", 
         "power": 70, 
         "pp": 20, 
+        "tm": 89, 
         "type": "\u866b"
     }, 
     {
@@ -4072,12 +4130,13 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u5831\u5fa9", 
+        "cname": "\u62a5\u590d", 
         "ename": "Payback", 
         "id": 371, 
         "jname": "\u3057\u3063\u307a\u304c\u3048\u3057", 
         "power": 50, 
         "pp": 10, 
+        "tm": 66, 
         "type": "\u6076"
     }, 
     {
@@ -4094,23 +4153,25 @@
     {
         "accuracy": 100, 
         "category": "\u53d8\u5316", 
-        "cname": "\u5fb5\u6536", 
+        "cname": "\u5f81\u6536", 
         "ename": "Embargo", 
         "id": 373, 
         "jname": "\u3055\u3057\u304a\u3055\u3048", 
         "power": null, 
         "pp": 15, 
+        "tm": 63, 
         "type": "\u6076"
     }, 
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u6295\u64f2", 
+        "cname": "\u6295\u63b7", 
         "ename": "Fling", 
         "id": 374, 
         "jname": "\u306a\u3052\u3064\u3051\u308b", 
         "power": null, 
         "pp": 10, 
+        "tm": 56, 
         "type": "\u6076"
     }, 
     {
@@ -4138,7 +4199,7 @@
     {
         "accuracy": 100, 
         "category": "\u53d8\u5316", 
-        "cname": "\u56de\u5fa9\u963b\u64cb", 
+        "cname": "\u56de\u590d\u963b\u6321", 
         "ename": "Heal Block", 
         "id": 377, 
         "jname": "\u304b\u3044\u3075\u304f\u3075\u3046\u3058", 
@@ -4226,7 +4287,7 @@
     {
         "accuracy": null, 
         "category": "\u53d8\u5316", 
-        "cname": "\u9632\u79a6\u4ea4\u63db", 
+        "cname": "\u9632\u5fa1\u4ea4\u6362", 
         "ename": "Guard Swap", 
         "id": 385, 
         "jname": "\u30ac\u30fc\u30c9\u30b9\u30ef\u30c3\u30d7", 
@@ -4237,7 +4298,7 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u61f2\u7f70", 
+        "cname": "\u60e9\u7f5a", 
         "ename": "Punishment", 
         "id": 386, 
         "jname": "\u304a\u3057\u304a\u304d", 
@@ -4364,6 +4425,7 @@
         "jname": "\u30ed\u30c3\u30af\u30ab\u30c3\u30c8", 
         "power": null, 
         "pp": 20, 
+        "tm": 69, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -4375,6 +4437,7 @@
         "jname": "\u3069\u304f\u3065\u304d", 
         "power": 80, 
         "pp": 20, 
+        "tm": 84, 
         "type": "\u6bd2"
     }, 
     {
@@ -4386,6 +4449,7 @@
         "jname": "\u3042\u304f\u306e\u306f\u3069\u3046", 
         "power": 80, 
         "pp": 15, 
+        "tm": 97, 
         "type": "\u6076"
     }, 
     {
@@ -4441,6 +4505,7 @@
         "jname": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9", 
         "power": 80, 
         "pp": 15, 
+        "tm": 81, 
         "type": "\u866b"
     }, 
     {
@@ -4518,6 +4583,7 @@
         "jname": "\u304d\u3042\u3044\u3060\u307e", 
         "power": 120, 
         "pp": 5, 
+        "tm": 52, 
         "type": "\u683c\u6597"
     }, 
     {
@@ -4529,6 +4595,7 @@
         "jname": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb", 
         "power": 90, 
         "pp": 10, 
+        "tm": 53, 
         "type": "\u8349"
     }, 
     {
@@ -4573,6 +4640,7 @@
         "jname": "\u30ae\u30ac\u30a4\u30f3\u30d1\u30af\u30c8", 
         "power": 150, 
         "pp": 5, 
+        "tm": 68, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -4628,6 +4696,7 @@
         "jname": "\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc", 
         "power": 70, 
         "pp": 15, 
+        "tm": 65, 
         "type": "\u5e7d\u7075"
     }, 
     {
@@ -4727,6 +4796,7 @@
         "jname": "\u30e9\u30b9\u30bf\u30fc\u30ab\u30ce\u30f3", 
         "power": 80, 
         "pp": 10, 
+        "tm": 91, 
         "type": "\u94a2"
     }, 
     {
@@ -4760,6 +4830,7 @@
         "jname": "\u30c8\u30ea\u30c3\u30af\u30eb\u30fc\u30e0", 
         "power": null, 
         "pp": 5, 
+        "tm": 92, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
@@ -4881,6 +4952,7 @@
         "jname": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8", 
         "power": 100, 
         "pp": 5, 
+        "tm": 71, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -4914,6 +4986,7 @@
         "jname": "\u304f\u3055\u3080\u3059\u3073", 
         "power": null, 
         "pp": 20, 
+        "tm": 86, 
         "type": "\u8349"
     }, 
     {
@@ -4958,6 +5031,7 @@
         "jname": "\u30c1\u30e3\u30fc\u30b8\u30d3\u30fc\u30e0", 
         "power": 50, 
         "pp": 10, 
+        "tm": 57, 
         "type": "\u7535"
     }, 
     {
@@ -5145,6 +5219,7 @@
         "jname": "\u3064\u3081\u3068\u304e", 
         "power": null, 
         "pp": 15, 
+        "tm": 1, 
         "type": "\u6076"
     }, 
     {
@@ -5194,23 +5269,25 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u5e7b\u8c61\u653b\u64ca", 
+        "cname": "\u5e7b\u8c61\u653b\u51fb", 
         "ename": "Psyshock", 
         "id": 473, 
         "jname": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af", 
         "power": 80, 
         "pp": 10, 
+        "tm": 3, 
         "type": "\u8d85\u80fd\u529b"
     }, 
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u6bd2\u6db2\u653b\u64ca", 
+        "cname": "\u6bd2\u6db2\u653b\u51fb", 
         "ename": "Venoshock", 
         "id": 474, 
         "jname": "\u30d9\u30ce\u30e0\u30b7\u30e7\u30c3\u30af", 
         "power": 65, 
         "pp": 10, 
+        "tm": 9, 
         "type": "\u6bd2"
     }, 
     {
@@ -5227,7 +5304,7 @@
     {
         "accuracy": null, 
         "category": "\u53d8\u5316", 
-        "cname": "\u61a4\u6012\u4e4b\u7c89", 
+        "cname": "\u6124\u6012\u4e4b\u7c89", 
         "ename": "Rage Powder", 
         "id": 476, 
         "jname": "\u3044\u304b\u308a\u306e\u3053\u306a", 
@@ -5266,6 +5343,7 @@
         "jname": "\u3046\u3061\u304a\u3068\u3059", 
         "power": 50, 
         "pp": 15, 
+        "tm": 23, 
         "type": "\u5ca9\u77f3"
     }, 
     {
@@ -5293,12 +5371,13 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u6ce5\u6f3f\u6ce2", 
+        "cname": "\u6ce5\u6d46\u6ce2", 
         "ename": "Sludge Wave", 
         "id": 482, 
         "jname": "\u30d8\u30c9\u30ed\u30a6\u30a7\u30fc\u30d6", 
         "power": 95, 
         "pp": 10, 
+        "tm": 34, 
         "type": "\u6bd2"
     }, 
     {
@@ -5326,7 +5405,7 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u540c\u6b65\u5e72\u64fe", 
+        "cname": "\u540c\u6b65\u5e72\u6270", 
         "ename": "Synchronoise", 
         "id": 485, 
         "jname": "\u30b7\u30f3\u30af\u30ed\u30ce\u30a4\u30ba", 
@@ -5359,18 +5438,19 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u706b\u7130\u8972\u64ca", 
+        "cname": "\u706b\u7130\u88ad\u51fb", 
         "ename": "Flame Charge", 
         "id": 488, 
         "jname": "\u30cb\u30c8\u30ed\u30c1\u30e3\u30fc\u30b8", 
         "power": 50, 
         "pp": 20, 
+        "tm": 43, 
         "type": "\u708e"
     }, 
     {
         "accuracy": null, 
         "category": "\u53d8\u5316", 
-        "cname": "\u76e4\u5377", 
+        "cname": "\u76d8\u5377", 
         "ename": "Coil", 
         "id": 489, 
         "jname": "\u3068\u3050\u308d\u3092\u307e\u304f", 
@@ -5387,6 +5467,7 @@
         "jname": "\u30ed\u30fc\u30ad\u30c3\u30af", 
         "power": 65, 
         "pp": 20, 
+        "tm": 47, 
         "type": "\u683c\u6597"
     }, 
     {
@@ -5403,7 +5484,7 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u8a50\u6b3a", 
+        "cname": "\u8bc8\u6b3a", 
         "ename": "Foul Play", 
         "id": 492, 
         "jname": "\u30a4\u30ab\u30b5\u30de", 
@@ -5436,7 +5517,7 @@
     {
         "accuracy": null, 
         "category": "\u53d8\u5316", 
-        "cname": "\u4f60\u5148\u8acb", 
+        "cname": "\u4f60\u5148\u8bf7", 
         "ename": "After You", 
         "id": 495, 
         "jname": "\u304a\u3055\u304d\u306b\u3069\u3046\u305e", 
@@ -5453,17 +5534,19 @@
         "jname": "\u308a\u3093\u3057\u3087\u3046", 
         "power": 60, 
         "pp": 15, 
+        "tm": 48, 
         "type": "\u4e00\u822c"
     }, 
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u8ff4\u97f3", 
+        "cname": "\u56de\u97f3", 
         "ename": "Echoed Voice", 
         "id": 497, 
         "jname": "\u30a8\u30b3\u30fc\u30dc\u30a4\u30b9", 
         "power": 40, 
         "pp": 15, 
+        "tm": 49, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -5480,7 +5563,7 @@
     {
         "accuracy": null, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u6e05\u9664\u8ff7\u9727", 
+        "cname": "\u6e05\u9664\u8ff7\u96fe", 
         "ename": "Clear Smog", 
         "id": 499, 
         "jname": "\u30af\u30ea\u30a2\u30b9\u30e2\u30c3\u30b0", 
@@ -5530,6 +5613,7 @@
         "jname": "\u306d\u3063\u3068\u3046", 
         "power": 80, 
         "pp": 15, 
+        "tm": 55, 
         "type": "\u6c34"
     }, 
     {
@@ -5574,6 +5658,7 @@
         "jname": "\u30d5\u30ea\u30fc\u30d5\u30a9\u30fc\u30eb", 
         "power": 60, 
         "pp": 10, 
+        "tm": 58, 
         "type": "\u98de\u884c"
     }, 
     {
@@ -5607,28 +5692,31 @@
         "jname": "\u3084\u304d\u3064\u304f\u3059", 
         "power": 60, 
         "pp": 15, 
+        "tm": 59, 
         "type": "\u708e"
     }, 
     {
         "accuracy": 100, 
         "category": "\u53d8\u5316", 
-        "cname": "\u5ef6\u5f8c", 
+        "cname": "\u5ef6\u540e", 
         "ename": "Quash", 
         "id": 511, 
         "jname": "\u3055\u304d\u304a\u304f\u308a", 
         "power": null, 
         "pp": 15, 
+        "tm": 60, 
         "type": "\u6076"
     }, 
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u7279\u6280\u6f14\u54e1", 
+        "cname": "\u7279\u6280\u6f14\u5458", 
         "ename": "Acrobatics", 
         "id": 512, 
         "jname": "\u30a2\u30af\u30ed\u30d0\u30c3\u30c8", 
         "power": 55, 
         "pp": 15, 
+        "tm": 62, 
         "type": "\u98de\u884c"
     }, 
     {
@@ -5645,12 +5733,13 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u8a0e\u6575", 
+        "cname": "\u8ba8\u654c", 
         "ename": "Retaliate", 
         "id": 514, 
         "jname": "\u304b\u305f\u304d\u3046\u3061", 
         "power": 70, 
         "pp": 5, 
+        "tm": 67, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -5700,7 +5789,7 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u708e\u7684\u8a93\u7d04", 
+        "cname": "\u708e\u7684\u8a93\u7ea6", 
         "ename": "Fire Pledge", 
         "id": 519, 
         "jname": "\u307b\u306e\u304a\u306e\u3061\u304b\u3044", 
@@ -5728,6 +5817,7 @@
         "jname": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8", 
         "power": 70, 
         "pp": 20, 
+        "tm": 72, 
         "type": "\u7535"
     }, 
     {
@@ -5739,6 +5829,7 @@
         "jname": "\u3080\u3057\u306e\u3066\u3044\u3053\u3046", 
         "power": 50, 
         "pp": 20, 
+        "tm": 76, 
         "type": "\u866b"
     }, 
     {
@@ -5750,6 +5841,7 @@
         "jname": "\u3058\u306a\u3089\u3057", 
         "power": 60, 
         "pp": 20, 
+        "tm": 78, 
         "type": "\u5730\u4e0a"
     }, 
     {
@@ -5761,6 +5853,7 @@
         "jname": "\u3053\u304a\u308a\u306e\u3044\u3076\u304d", 
         "power": 60, 
         "pp": 10, 
+        "tm": 79, 
         "type": "\u51b0"
     }, 
     {
@@ -5772,6 +5865,7 @@
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb", 
         "power": 60, 
         "pp": 10, 
+        "tm": 82, 
         "type": "\u9f99"
     }, 
     {
@@ -5799,12 +5893,13 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u760b\u72c2\u4f0f\u7279", 
+        "cname": "\u75af\u72c2\u4f0f\u7279", 
         "ename": "Wild Charge", 
         "id": 528, 
         "jname": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8", 
         "power": 90, 
         "pp": 15, 
+        "tm": 93, 
         "type": "\u7535"
     }, 
     {
@@ -5832,7 +5927,7 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u611b\u5fc3\u6417\u64ca", 
+        "cname": "\u7231\u5fc3\u6363\u51fb", 
         "ename": "Heart Stamp", 
         "id": 531, 
         "jname": "\u30cf\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7", 
@@ -5876,7 +5971,7 @@
     {
         "accuracy": 100, 
         "category": "\u7269\u7406", 
-        "cname": "\u9ad8\u6eab\u6417\u64ca", 
+        "cname": "\u9ad8\u6e29\u6363\u51fb", 
         "ename": "Heat Crash", 
         "id": 535, 
         "jname": "\u30d2\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7", 
@@ -5942,7 +6037,7 @@
     {
         "accuracy": 85, 
         "category": "\u7269\u7406", 
-        "cname": "\u6383\u5df4\u638c", 
+        "cname": "\u626b\u5df4\u638c", 
         "ename": "Tail Slap", 
         "id": 541, 
         "jname": "\u30b9\u30a4\u30fc\u30d7\u30d3\u30f3\u30bf", 
@@ -5997,7 +6092,7 @@
     {
         "accuracy": 100, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u7834\u58de\u6280\u8853", 
+        "cname": "\u7834\u574f\u6280\u672f", 
         "ename": "Techno Blast", 
         "id": 546, 
         "jname": "\u30c6\u30af\u30ce\u30d0\u30b9\u30bf\u30fc", 
@@ -6030,7 +6125,7 @@
     {
         "accuracy": 95, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u51b0\u51cd\u4e16\u754c", 
+        "cname": "\u51b0\u51bb\u4e16\u754c", 
         "ename": "Glaciate", 
         "id": 549, 
         "jname": "\u3053\u3054\u3048\u308b\u305b\u304b\u3044", 
@@ -6085,7 +6180,7 @@
     {
         "accuracy": 90, 
         "category": "\u7279\u6b8a", 
-        "cname": "\u5bd2\u51b7\u9583\u5149", 
+        "cname": "\u5bd2\u51b7\u95ea\u5149", 
         "ename": "Ice Burn", 
         "id": 554, 
         "jname": "\u30b3\u30fc\u30eb\u30c9\u30d5\u30ec\u30a2", 
@@ -6102,6 +6197,7 @@
         "jname": "\u30d0\u30fc\u30af\u30a2\u30a6\u30c8", 
         "power": 55, 
         "pp": 15, 
+        "tm": 95, 
         "type": "\u6076"
     }, 
     {
@@ -6118,7 +6214,7 @@
     {
         "accuracy": 95, 
         "category": "\u7269\u7406", 
-        "cname": "\u52dd\u5229V\u71b1\u708e", 
+        "cname": "\u80dc\u5229V\u70ed\u708e", 
         "ename": "V-create", 
         "id": 557, 
         "jname": "\uff36\u30b8\u30a7\u30cd\u30ec\u30fc\u30c8", 
@@ -6245,6 +6341,7 @@
         "jname": "\u30b0\u30ed\u30a6\u30d1\u30f3\u30c1", 
         "power": 40, 
         "pp": 30, 
+        "tm": 98, 
         "type": "\u683c\u9b25"
     }, 
     {
@@ -6377,6 +6474,7 @@
         "jname": "\u306a\u3044\u3057\u3087\u3070\u306a\u3057", 
         "power": null, 
         "pp": 20, 
+        "tm": 100, 
         "type": "\u4e00\u822c"
     }, 
     {
@@ -6426,7 +6524,7 @@
     {
         "accuracy": 100, 
         "category": "\u53d8\u5316", 
-        "cname": "\u82b3\u9999\u8584\u9727", 
+        "cname": "\u82b3\u9999\u8584\u96fe", 
         "ename": "Aromatic Mist", 
         "id": null, 
         "jname": "\u30a2\u30ed\u30de\u30df\u30b9\u30c8", 
@@ -6481,7 +6579,7 @@
     {
         "accuracy": null, 
         "category": "\u53d8\u5316", 
-        "cname": "\u5996\u7cbe\u4e4b\u9396", 
+        "cname": "\u5996\u7cbe\u4e4b\u9501", 
         "ename": "Fairy Lock", 
         "id": null, 
         "jname": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30ed\u30c3\u30af", 
@@ -6514,7 +6612,7 @@
     {
         "accuracy": 100, 
         "category": "\u53d8\u5316", 
-        "cname": "\u68ee\u6797\u8a5b\u5492", 
+        "cname": "\u68ee\u6797\u8bc5\u5492", 
         "ename": "Forest's Curse", 
         "id": null, 
         "jname": "\u3082\u308a\u306e\u306e\u308d\u3044", 
@@ -6553,6 +6651,7 @@
         "jname": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3", 
         "power": 80, 
         "pp": 10, 
+        "tm": 99, 
         "type": "\u5996\u7cbe"
     }, 
     {
@@ -6663,6 +6762,7 @@
         "jname": "\u307e\u3068\u308f\u308a\u3064\u304f", 
         "power": 20, 
         "pp": 35, 
+        "tm": 83,
         "type": "\u866b"
     }, 
     {

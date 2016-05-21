@@ -2388,6 +2388,7 @@
         }, 
         "cname": "\u5c3c\u591a\u5170", 
         "ename": "Nidoran\u2640", 
+        "flatName": "Nidoran",
         "id": "029", 
         "jname": "\u30cb\u30c9\u30e9\u30f3\u2640", 
         "skills": {
@@ -2710,6 +2711,7 @@
         }, 
         "cname": "\u5c3c\u591a\u6717", 
         "ename": "Nidoran\u2642", 
+        "flatName": "Nidoran",
         "id": "032", 
         "jname": "\u30cb\u30c9\u30e9\u30f3\u2642", 
         "skills": {
@@ -11670,6 +11672,7 @@
         }, 
         "cname": "\u5438\u76d8\u9b54\u5076", 
         "ename": "Mr. Mime", 
+        "flatName": "Mr_Mime",
         "id": "122", 
         "jname": "\u30d0\u30ea\u30e4\u30fc\u30c9", 
         "skills": {
@@ -38199,6 +38202,7 @@
         }, 
         "cname": "\u9b54\u5c3c\u5c3c", 
         "ename": "Mime Jr.", 
+        "flatName": "Mime_Jr",
         "id": "439", 
         "jname": "\u30de\u30cd\u30cd", 
         "skills": {
@@ -54647,7 +54651,7 @@
             "Speed": 90
         }, 
         "cname": "\u6377\u514b\u7f57\u59c6", 
-        "ename": "Zekrom ", 
+        "ename": "Zekrom", 
         "id": "644", 
         "jname": "\u30bc\u30af\u30ed\u30e0", 
         "skills": {}, 
@@ -56323,6 +56327,7 @@
         }, 
         "cname": "\u30d5\u30e9\u30d9\u30d9", 
         "ename": "Flab\u00e9b\u00e9", 
+        "flatName": "Flabebe",
         "id": "669", 
         "jname": "\u30d5\u30e9\u30d9\u30d9", 
         "skills": {
@@ -60428,6 +60433,104 @@
         "type": [
             "\u9f99", 
             "\u5730\u4e0a"
+        ]
+    }, 
+    {
+        "base": {
+            "Attack": 100, 
+            "Defense": 150, 
+            "HP": 50, 
+            "Sp.Atk": 100, 
+            "Sp.Def": 150, 
+            "Speed": 50
+        }, 
+        "cname": "", 
+        "ename": "Diancie", 
+        "id": "719", 
+        "jname": "\u30C7\u30A3\u30A2\u30F3\u30B7\u30FC", 
+        "skills": {
+            "level_up": [
+                33,
+                106,
+                88,
+                159,
+                479,
+                115,
+                446,
+                470,
+                246,
+                175,
+                285,
+                433,
+                444,
+                585,
+                617,
+                113,
+                219
+            ], 
+            "tm": [
+
+            ], 
+            "tutor": [
+            ]
+        }, 
+        "type": [
+            "\u5ca9\u77f3", 
+            "\u5996\u7cbe"
+        ]
+    }, 
+    {
+        "base": {
+            "Attack": 110, 
+            "Defense": 60, 
+            "HP": 80, 
+            "Sp.Atk": 150, 
+            "Sp.Def": 130, 
+            "Speed": 70
+        },
+        "cname": "", 
+        "ename": "Hoopa", 
+        "id": "720", 
+        "jname": "\u30D5\u30FC\u30D1", 
+        "skills": {
+            "level_up": [
+            ], 
+            "tm": [
+
+            ], 
+            "tutor": [
+            ]
+        }, 
+        "type": [
+            "\u8d85\u80fd", 
+            "\u5e7d\u7075"
+        ]
+    }, 
+    {
+        "base": {
+            "Attack": 100, 
+            "Defense": 120, 
+            "HP": 80, 
+            "Sp.Atk": 130, 
+            "Sp.Def": 90, 
+            "Speed": 70
+        },
+        "cname": "", 
+        "ename": "Volcanion", 
+        "id": "721", 
+        "jname": "\u30DC\u30EB\u30B1\u30CB\u30AA\u30F3", 
+        "skills": {
+            "level_up": [
+            ], 
+            "tm": [
+
+            ], 
+            "tutor": [
+            ]
+        }, 
+        "type": [
+            "\u708e", 
+            "\u6c34"
         ]
     }
 ]

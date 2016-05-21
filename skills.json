@@ -6797,5 +6797,17 @@
         "power": 90, 
         "pp": 10, 
         "type": "\u5730\u4e0a"
+    },
+    {
+        "accuracy": 95, 
+        "category": "\u7269\u7406", 
+        "cname": "", 
+        "ename": "Diamond Storm", 
+        "id": 617, 
+        "jname": "\u30c0\u30a4\u30e4\u30b9\u30c8\u30fc\u30e0", 
+        "power": 100, 
+        "pp": 5,
+        "max_pp": 8, 
+        "type": "\u5ca9\u77f3"
     }
 ]

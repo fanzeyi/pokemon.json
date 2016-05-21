@@ -6809,5 +6809,29 @@
         "pp": 5,
         "max_pp": 8, 
         "type": "\u5ca9\u77f3"
+    },
+    {
+        "accuracy": null, 
+        "category": "\u7279\u6b8a", 
+        "cname": "", 
+        "ename": "Hyperspace Hole", 
+        "id": 618, 
+        "jname": "\u3044\u3058\u3052\u3093\u30DB\u30FC\u30EB", 
+        "power": 80, 
+        "pp": 5,
+        "max_pp": 8, 
+        "type": "\u8d85\u80fd\u529b"
+    },
+    {
+        "accuracy": 95, 
+        "category": "\u7279\u6b8a", 
+        "cname": "", 
+        "ename": "Steam Eruption", 
+        "id": 619, 
+        "jname": "\u30B9\u30C1\u30FC\u30E0\u30D0\u30FC\u30B9\u30C8", 
+        "power": 110, 
+        "pp": 5,
+        "max_pp": 8, 
+        "type": "\u6c34"
     }
 ]

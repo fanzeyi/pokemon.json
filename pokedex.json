@@ -7860,7 +7860,8 @@
             "Speed": 60
         }, 
         "cname": "\u5927\u8471\u9e2d", 
-        "ename": "Farfetch'd", 
+        "ename": "Farfetch'd",
+        "flatName": "Farfetchd",
         "id": "083", 
         "jname": "\u30ab\u30e2\u30cd\u30ae", 
         "skills": {

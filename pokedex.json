@@ -1,1 +1,9306 @@
-[{"id": 1, "name": {"english": "Bulbasaur"}, "type": ["Grass", "Poison"]}, {"id": 2, "name": {"english": "Ivysaur"}, "type": ["Grass", "Poison"]}, {"id": 3, "name": {"english": "Venusaur"}, "type": ["Grass", "Poison"]}, {"id": 4, "name": {"english": "Charmander"}, "type": ["Fire"]}, {"id": 5, "name": {"english": "Charmeleon"}, "type": ["Fire"]}, {"id": 6, "name": {"english": "Charizard"}, "type": ["Fire", "Flying"]}, {"id": 7, "name": {"english": "Squirtle"}, "type": ["Water"]}, {"id": 8, "name": {"english": "Wartortle"}, "type": ["Water"]}, {"id": 9, "name": {"english": "Blastoise"}, "type": ["Water"]}, {"id": 10, "name": {"english": "Caterpie"}, "type": ["Bug"]}, {"id": 11, "name": {"english": "Metapod"}, "type": ["Bug"]}, {"id": 12, "name": {"english": "Butterfree"}, "type": ["Bug", "Flying"]}, {"id": 13, "name": {"english": "Weedle"}, "type": ["Bug", "Poison"]}, {"id": 14, "name": {"english": "Kakuna"}, "type": ["Bug", "Poison"]}, {"id": 15, "name": {"english": "Beedrill"}, "type": ["Bug", "Poison"]}, {"id": 16, "name": {"english": "Pidgey"}, "type": ["Normal", "Flying"]}, {"id": 17, "name": {"english": "Pidgeotto"}, "type": ["Normal", "Flying"]}, {"id": 18, "name": {"english": "Pidgeot"}, "type": ["Normal", "Flying"]}, {"id": 19, "name": {"english": "Rattata"}, "type": ["Normal"]}, {"id": 20, "name": {"english": "Raticate"}, "type": ["Normal"]}, {"id": 21, "name": {"english": "Spearow"}, "type": ["Normal", "Flying"]}, {"id": 22, "name": {"english": "Fearow"}, "type": ["Normal", "Flying"]}, {"id": 23, "name": {"english": "Ekans"}, "type": ["Poison"]}, {"id": 24, "name": {"english": "Arbok"}, "type": ["Poison"]}, {"id": 25, "name": {"english": "Pikachu"}, "type": ["Electric"]}, {"id": 26, "name": {"english": "Raichu"}, "type": ["Electric"]}, {"id": 27, "name": {"english": "Sandshrew"}, "type": ["Ground"]}, {"id": 28, "name": {"english": "Sandslash"}, "type": ["Ground"]}, {"id": 29, "name": {"english": "Nidoran\u2640"}, "type": ["Poison"]}, {"id": 30, "name": {"english": "Nidorina"}, "type": ["Poison"]}, {"id": 31, "name": {"english": "Nidoqueen"}, "type": ["Poison", "Ground"]}, {"id": 32, "name": {"english": "Nidoran\u2642"}, "type": ["Poison"]}, {"id": 33, "name": {"english": "Nidorino"}, "type": ["Poison"]}, {"id": 34, "name": {"english": "Nidoking"}, "type": ["Poison", "Ground"]}, {"id": 35, "name": {"english": "Clefairy"}, "type": ["Fairy"]}, {"id": 36, "name": {"english": "Clefable"}, "type": ["Fairy"]}, {"id": 37, "name": {"english": "Vulpix"}, "type": ["Fire"]}, {"id": 38, "name": {"english": "Ninetales"}, "type": ["Fire"]}, {"id": 39, "name": {"english": "Jigglypuff"}, "type": ["Normal", "Fairy"]}, {"id": 40, "name": {"english": "Wigglytuff"}, "type": ["Normal", "Fairy"]}, {"id": 41, "name": {"english": "Zubat"}, "type": ["Poison", "Flying"]}, {"id": 42, "name": {"english": "Golbat"}, "type": ["Poison", "Flying"]}, {"id": 43, "name": {"english": "Oddish"}, "type": ["Grass", "Poison"]}, {"id": 44, "name": {"english": "Gloom"}, "type": ["Grass", "Poison"]}, {"id": 45, "name": {"english": "Vileplume"}, "type": ["Grass", "Poison"]}, {"id": 46, "name": {"english": "Paras"}, "type": ["Bug", "Grass"]}, {"id": 47, "name": {"english": "Parasect"}, "type": ["Bug", "Grass"]}, {"id": 48, "name": {"english": "Venonat"}, "type": ["Bug", "Poison"]}, {"id": 49, "name": {"english": "Venomoth"}, "type": ["Bug", "Poison"]}, {"id": 50, "name": {"english": "Diglett"}, "type": ["Ground"]}, {"id": 51, "name": {"english": "Dugtrio"}, "type": ["Ground"]}, {"id": 52, "name": {"english": "Meowth"}, "type": ["Normal"]}, {"id": 53, "name": {"english": "Persian"}, "type": ["Normal"]}, {"id": 54, "name": {"english": "Psyduck"}, "type": ["Water"]}, {"id": 55, "name": {"english": "Golduck"}, "type": ["Water"]}, {"id": 56, "name": {"english": "Mankey"}, "type": ["Fighting"]}, {"id": 57, "name": {"english": "Primeape"}, "type": ["Fighting"]}, {"id": 58, "name": {"english": "Growlithe"}, "type": ["Fire"]}, {"id": 59, "name": {"english": "Arcanine"}, "type": ["Fire"]}, {"id": 60, "name": {"english": "Poliwag"}, "type": ["Water"]}, {"id": 61, "name": {"english": "Poliwhirl"}, "type": ["Water"]}, {"id": 62, "name": {"english": "Poliwrath"}, "type": ["Water", "Fighting"]}, {"id": 63, "name": {"english": "Abra"}, "type": ["Psychic"]}, {"id": 64, "name": {"english": "Kadabra"}, "type": ["Psychic"]}, {"id": 65, "name": {"english": "Alakazam"}, "type": ["Psychic"]}, {"id": 66, "name": {"english": "Machop"}, "type": ["Fighting"]}, {"id": 67, "name": {"english": "Machoke"}, "type": ["Fighting"]}, {"id": 68, "name": {"english": "Machamp"}, "type": ["Fighting"]}, {"id": 69, "name": {"english": "Bellsprout"}, "type": ["Grass", "Poison"]}, {"id": 70, "name": {"english": "Weepinbell"}, "type": ["Grass", "Poison"]}, {"id": 71, "name": {"english": "Victreebel"}, "type": ["Grass", "Poison"]}, {"id": 72, "name": {"english": "Tentacool"}, "type": ["Water", "Poison"]}, {"id": 73, "name": {"english": "Tentacruel"}, "type": ["Water", "Poison"]}, {"id": 74, "name": {"english": "Geodude"}, "type": ["Rock", "Ground"]}, {"id": 75, "name": {"english": "Graveler"}, "type": ["Rock", "Ground"]}, {"id": 76, "name": {"english": "Golem"}, "type": ["Rock", "Ground"]}, {"id": 77, "name": {"english": "Ponyta"}, "type": ["Fire"]}, {"id": 78, "name": {"english": "Rapidash"}, "type": ["Fire"]}, {"id": 79, "name": {"english": "Slowpoke"}, "type": ["Water", "Psychic"]}, {"id": 80, "name": {"english": "Slowbro"}, "type": ["Water", "Psychic"]}, {"id": 81, "name": {"english": "Magnemite"}, "type": ["Electric", "Steel"]}, {"id": 82, "name": {"english": "Magneton"}, "type": ["Electric", "Steel"]}, {"id": 83, "name": {"english": "Farfetch'd"}, "type": ["Normal", "Flying"]}, {"id": 84, "name": {"english": "Doduo"}, "type": ["Normal", "Flying"]}, {"id": 85, "name": {"english": "Dodrio"}, "type": ["Normal", "Flying"]}, {"id": 86, "name": {"english": "Seel"}, "type": ["Water"]}, {"id": 87, "name": {"english": "Dewgong"}, "type": ["Water", "Ice"]}, {"id": 88, "name": {"english": "Grimer"}, "type": ["Poison"]}, {"id": 89, "name": {"english": "Muk"}, "type": ["Poison"]}, {"id": 90, "name": {"english": "Shellder"}, "type": ["Water"]}, {"id": 91, "name": {"english": "Cloyster"}, "type": ["Water", "Ice"]}, {"id": 92, "name": {"english": "Gastly"}, "type": ["Ghost", "Poison"]}, {"id": 93, "name": {"english": "Haunter"}, "type": ["Ghost", "Poison"]}, {"id": 94, "name": {"english": "Gengar"}, "type": ["Ghost", "Poison"]}, {"id": 95, "name": {"english": "Onix"}, "type": ["Rock", "Ground"]}, {"id": 96, "name": {"english": "Drowzee"}, "type": ["Psychic"]}, {"id": 97, "name": {"english": "Hypno"}, "type": ["Psychic"]}, {"id": 98, "name": {"english": "Krabby"}, "type": ["Water"]}, {"id": 99, "name": {"english": "Kingler"}, "type": ["Water"]}, {"id": 100, "name": {"english": "Voltorb"}, "type": ["Electric"]}, {"id": 101, "name": {"english": "Electrode"}, "type": ["Electric"]}, {"id": 102, "name": {"english": "Exeggcute"}, "type": ["Grass", "Psychic"]}, {"id": 103, "name": {"english": "Exeggutor"}, "type": ["Grass", "Psychic"]}, {"id": 104, "name": {"english": "Cubone"}, "type": ["Ground"]}, {"id": 105, "name": {"english": "Marowak"}, "type": ["Ground"]}, {"id": 106, "name": {"english": "Hitmonlee"}, "type": ["Fighting"]}, {"id": 107, "name": {"english": "Hitmonchan"}, "type": ["Fighting"]}, {"id": 108, "name": {"english": "Lickitung"}, "type": ["Normal"]}, {"id": 109, "name": {"english": "Koffing"}, "type": ["Poison"]}, {"id": 110, "name": {"english": "Weezing"}, "type": ["Poison"]}, {"id": 111, "name": {"english": "Rhyhorn"}, "type": ["Ground", "Rock"]}, {"id": 112, "name": {"english": "Rhydon"}, "type": ["Ground", "Rock"]}, {"id": 113, "name": {"english": "Chansey"}, "type": ["Normal"]}, {"id": 114, "name": {"english": "Tangela"}, "type": ["Grass"]}, {"id": 115, "name": {"english": "Kangaskhan"}, "type": ["Normal"]}, {"id": 116, "name": {"english": "Horsea"}, "type": ["Water"]}, {"id": 117, "name": {"english": "Seadra"}, "type": ["Water"]}, {"id": 118, "name": {"english": "Goldeen"}, "type": ["Water"]}, {"id": 119, "name": {"english": "Seaking"}, "type": ["Water"]}, {"id": 120, "name": {"english": "Staryu"}, "type": ["Water"]}, {"id": 121, "name": {"english": "Starmie"}, "type": ["Water", "Psychic"]}, {"id": 122, "name": {"english": "Mr. Mime"}, "type": ["Psychic", "Fairy"]}, {"id": 123, "name": {"english": "Scyther"}, "type": ["Bug", "Flying"]}, {"id": 124, "name": {"english": "Jynx"}, "type": ["Ice", "Psychic"]}, {"id": 125, "name": {"english": "Electabuzz"}, "type": ["Electric"]}, {"id": 126, "name": {"english": "Magmar"}, "type": ["Fire"]}, {"id": 127, "name": {"english": "Pinsir"}, "type": ["Bug"]}, {"id": 128, "name": {"english": "Tauros"}, "type": ["Normal"]}, {"id": 129, "name": {"english": "Magikarp"}, "type": ["Water"]}, {"id": 130, "name": {"english": "Gyarados"}, "type": ["Water", "Flying"]}, {"id": 131, "name": {"english": "Lapras"}, "type": ["Water", "Ice"]}, {"id": 132, "name": {"english": "Ditto"}, "type": ["Normal"]}, {"id": 133, "name": {"english": "Eevee"}, "type": ["Normal"]}, {"id": 134, "name": {"english": "Vaporeon"}, "type": ["Water"]}, {"id": 135, "name": {"english": "Jolteon"}, "type": ["Electric"]}, {"id": 136, "name": {"english": "Flareon"}, "type": ["Fire"]}, {"id": 137, "name": {"english": "Porygon"}, "type": ["Normal"]}, {"id": 138, "name": {"english": "Omanyte"}, "type": ["Rock", "Water"]}, {"id": 139, "name": {"english": "Omastar"}, "type": ["Rock", "Water"]}, {"id": 140, "name": {"english": "Kabuto"}, "type": ["Rock", "Water"]}, {"id": 141, "name": {"english": "Kabutops"}, "type": ["Rock", "Water"]}, {"id": 142, "name": {"english": "Aerodactyl"}, "type": ["Rock", "Flying"]}, {"id": 143, "name": {"english": "Snorlax"}, "type": ["Normal"]}, {"id": 144, "name": {"english": "Articuno"}, "type": ["Ice", "Flying"]}, {"id": 145, "name": {"english": "Zapdos"}, "type": ["Electric", "Flying"]}, {"id": 146, "name": {"english": "Moltres"}, "type": ["Fire", "Flying"]}, {"id": 147, "name": {"english": "Dratini"}, "type": ["Dragon"]}, {"id": 148, "name": {"english": "Dragonair"}, "type": ["Dragon"]}, {"id": 149, "name": {"english": "Dragonite"}, "type": ["Dragon", "Flying"]}, {"id": 150, "name": {"english": "Mewtwo"}, "type": ["Psychic"]}, {"id": 151, "name": {"english": "Mew"}, "type": ["Psychic"]}, {"id": 152, "name": {"english": "Chikorita"}, "type": ["Grass"]}, {"id": 153, "name": {"english": "Bayleef"}, "type": ["Grass"]}, {"id": 154, "name": {"english": "Meganium"}, "type": ["Grass"]}, {"id": 155, "name": {"english": "Cyndaquil"}, "type": ["Fire"]}, {"id": 156, "name": {"english": "Quilava"}, "type": ["Fire"]}, {"id": 157, "name": {"english": "Typhlosion"}, "type": ["Fire"]}, {"id": 158, "name": {"english": "Totodile"}, "type": ["Water"]}, {"id": 159, "name": {"english": "Croconaw"}, "type": ["Water"]}, {"id": 160, "name": {"english": "Feraligatr"}, "type": ["Water"]}, {"id": 161, "name": {"english": "Sentret"}, "type": ["Normal"]}, {"id": 162, "name": {"english": "Furret"}, "type": ["Normal"]}, {"id": 163, "name": {"english": "Hoothoot"}, "type": ["Normal", "Flying"]}, {"id": 164, "name": {"english": "Noctowl"}, "type": ["Normal", "Flying"]}, {"id": 165, "name": {"english": "Ledyba"}, "type": ["Bug", "Flying"]}, {"id": 166, "name": {"english": "Ledian"}, "type": ["Bug", "Flying"]}, {"id": 167, "name": {"english": "Spinarak"}, "type": ["Bug", "Poison"]}, {"id": 168, "name": {"english": "Ariados"}, "type": ["Bug", "Poison"]}, {"id": 169, "name": {"english": "Crobat"}, "type": ["Poison", "Flying"]}, {"id": 170, "name": {"english": "Chinchou"}, "type": ["Water", "Electric"]}, {"id": 171, "name": {"english": "Lanturn"}, "type": ["Water", "Electric"]}, {"id": 172, "name": {"english": "Pichu"}, "type": ["Electric"]}, {"id": 173, "name": {"english": "Cleffa"}, "type": ["Fairy"]}, {"id": 174, "name": {"english": "Igglybuff"}, "type": ["Normal", "Fairy"]}, {"id": 175, "name": {"english": "Togepi"}, "type": ["Fairy"]}, {"id": 176, "name": {"english": "Togetic"}, "type": ["Fairy", "Flying"]}, {"id": 177, "name": {"english": "Natu"}, "type": ["Psychic", "Flying"]}, {"id": 178, "name": {"english": "Xatu"}, "type": ["Psychic", "Flying"]}, {"id": 179, "name": {"english": "Mareep"}, "type": ["Electric"]}, {"id": 180, "name": {"english": "Flaaffy"}, "type": ["Electric"]}, {"id": 181, "name": {"english": "Ampharos"}, "type": ["Electric"]}, {"id": 182, "name": {"english": "Bellossom"}, "type": ["Grass"]}, {"id": 183, "name": {"english": "Marill"}, "type": ["Water", "Fairy"]}, {"id": 184, "name": {"english": "Azumarill"}, "type": ["Water", "Fairy"]}, {"id": 185, "name": {"english": "Sudowoodo"}, "type": ["Rock"]}, {"id": 186, "name": {"english": "Politoed"}, "type": ["Water"]}, {"id": 187, "name": {"english": "Hoppip"}, "type": ["Grass", "Flying"]}, {"id": 188, "name": {"english": "Skiploom"}, "type": ["Grass", "Flying"]}, {"id": 189, "name": {"english": "Jumpluff"}, "type": ["Grass", "Flying"]}, {"id": 190, "name": {"english": "Aipom"}, "type": ["Normal"]}, {"id": 191, "name": {"english": "Sunkern"}, "type": ["Grass"]}, {"id": 192, "name": {"english": "Sunflora"}, "type": ["Grass"]}, {"id": 193, "name": {"english": "Yanma"}, "type": ["Bug", "Flying"]}, {"id": 194, "name": {"english": "Wooper"}, "type": ["Water", "Ground"]}, {"id": 195, "name": {"english": "Quagsire"}, "type": ["Water", "Ground"]}, {"id": 196, "name": {"english": "Espeon"}, "type": ["Psychic"]}, {"id": 197, "name": {"english": "Umbreon"}, "type": ["Dark"]}, {"id": 198, "name": {"english": "Murkrow"}, "type": ["Dark", "Flying"]}, {"id": 199, "name": {"english": "Slowking"}, "type": ["Water", "Psychic"]}, {"id": 200, "name": {"english": "Misdreavus"}, "type": ["Ghost"]}, {"id": 201, "name": {"english": "Unown"}, "type": ["Psychic"]}, {"id": 202, "name": {"english": "Wobbuffet"}, "type": ["Psychic"]}, {"id": 203, "name": {"english": "Girafarig"}, "type": ["Normal", "Psychic"]}, {"id": 204, "name": {"english": "Pineco"}, "type": ["Bug"]}, {"id": 205, "name": {"english": "Forretress"}, "type": ["Bug", "Steel"]}, {"id": 206, "name": {"english": "Dunsparce"}, "type": ["Normal"]}, {"id": 207, "name": {"english": "Gligar"}, "type": ["Ground", "Flying"]}, {"id": 208, "name": {"english": "Steelix"}, "type": ["Steel", "Ground"]}, {"id": 209, "name": {"english": "Snubbull"}, "type": ["Fairy"]}, {"id": 210, "name": {"english": "Granbull"}, "type": ["Fairy"]}, {"id": 211, "name": {"english": "Qwilfish"}, "type": ["Water", "Poison"]}, {"id": 212, "name": {"english": "Scizor"}, "type": ["Bug", "Steel"]}, {"id": 213, "name": {"english": "Shuckle"}, "type": ["Bug", "Rock"]}, {"id": 214, "name": {"english": "Heracross"}, "type": ["Bug", "Fighting"]}, {"id": 215, "name": {"english": "Sneasel"}, "type": ["Dark", "Ice"]}, {"id": 216, "name": {"english": "Teddiursa"}, "type": ["Normal"]}, {"id": 217, "name": {"english": "Ursaring"}, "type": ["Normal"]}, {"id": 218, "name": {"english": "Slugma"}, "type": ["Fire"]}, {"id": 219, "name": {"english": "Magcargo"}, "type": ["Fire", "Rock"]}, {"id": 220, "name": {"english": "Swinub"}, "type": ["Ice", "Ground"]}, {"id": 221, "name": {"english": "Piloswine"}, "type": ["Ice", "Ground"]}, {"id": 222, "name": {"english": "Corsola"}, "type": ["Water", "Rock"]}, {"id": 223, "name": {"english": "Remoraid"}, "type": ["Water"]}, {"id": 224, "name": {"english": "Octillery"}, "type": ["Water"]}, {"id": 225, "name": {"english": "Delibird"}, "type": ["Ice", "Flying"]}, {"id": 226, "name": {"english": "Mantine"}, "type": ["Water", "Flying"]}, {"id": 227, "name": {"english": "Skarmory"}, "type": ["Steel", "Flying"]}, {"id": 228, "name": {"english": "Houndour"}, "type": ["Dark", "Fire"]}, {"id": 229, "name": {"english": "Houndoom"}, "type": ["Dark", "Fire"]}, {"id": 230, "name": {"english": "Kingdra"}, "type": ["Water", "Dragon"]}, {"id": 231, "name": {"english": "Phanpy"}, "type": ["Ground"]}, {"id": 232, "name": {"english": "Donphan"}, "type": ["Ground"]}, {"id": 233, "name": {"english": "Porygon2"}, "type": ["Normal"]}, {"id": 234, "name": {"english": "Stantler"}, "type": ["Normal"]}, {"id": 235, "name": {"english": "Smeargle"}, "type": ["Normal"]}, {"id": 236, "name": {"english": "Tyrogue"}, "type": ["Fighting"]}, {"id": 237, "name": {"english": "Hitmontop"}, "type": ["Fighting"]}, {"id": 238, "name": {"english": "Smoochum"}, "type": ["Ice", "Psychic"]}, {"id": 239, "name": {"english": "Elekid"}, "type": ["Electric"]}, {"id": 240, "name": {"english": "Magby"}, "type": ["Fire"]}, {"id": 241, "name": {"english": "Miltank"}, "type": ["Normal"]}, {"id": 242, "name": {"english": "Blissey"}, "type": ["Normal"]}, {"id": 243, "name": {"english": "Raikou"}, "type": ["Electric"]}, {"id": 244, "name": {"english": "Entei"}, "type": ["Fire"]}, {"id": 245, "name": {"english": "Suicune"}, "type": ["Water"]}, {"id": 246, "name": {"english": "Larvitar"}, "type": ["Rock", "Ground"]}, {"id": 247, "name": {"english": "Pupitar"}, "type": ["Rock", "Ground"]}, {"id": 248, "name": {"english": "Tyranitar"}, "type": ["Rock", "Dark"]}, {"id": 249, "name": {"english": "Lugia"}, "type": ["Psychic", "Flying"]}, {"id": 250, "name": {"english": "Ho-Oh"}, "type": ["Fire", "Flying"]}, {"id": 251, "name": {"english": "Celebi"}, "type": ["Psychic", "Grass"]}, {"id": 252, "name": {"english": "Treecko"}, "type": ["Grass"]}, {"id": 253, "name": {"english": "Grovyle"}, "type": ["Grass"]}, {"id": 254, "name": {"english": "Sceptile"}, "type": ["Grass"]}, {"id": 255, "name": {"english": "Torchic"}, "type": ["Fire"]}, {"id": 256, "name": {"english": "Combusken"}, "type": ["Fire", "Fighting"]}, {"id": 257, "name": {"english": "Blaziken"}, "type": ["Fire", "Fighting"]}, {"id": 258, "name": {"english": "Mudkip"}, "type": ["Water"]}, {"id": 259, "name": {"english": "Marshtomp"}, "type": ["Water", "Ground"]}, {"id": 260, "name": {"english": "Swampert"}, "type": ["Water", "Ground"]}, {"id": 261, "name": {"english": "Poochyena"}, "type": ["Dark"]}, {"id": 262, "name": {"english": "Mightyena"}, "type": ["Dark"]}, {"id": 263, "name": {"english": "Zigzagoon"}, "type": ["Normal"]}, {"id": 264, "name": {"english": "Linoone"}, "type": ["Normal"]}, {"id": 265, "name": {"english": "Wurmple"}, "type": ["Bug"]}, {"id": 266, "name": {"english": "Silcoon"}, "type": ["Bug"]}, {"id": 267, "name": {"english": "Beautifly"}, "type": ["Bug", "Flying"]}, {"id": 268, "name": {"english": "Cascoon"}, "type": ["Bug"]}, {"id": 269, "name": {"english": "Dustox"}, "type": ["Bug", "Poison"]}, {"id": 270, "name": {"english": "Lotad"}, "type": ["Water", "Grass"]}, {"id": 271, "name": {"english": "Lombre"}, "type": ["Water", "Grass"]}, {"id": 272, "name": {"english": "Ludicolo"}, "type": ["Water", "Grass"]}, {"id": 273, "name": {"english": "Seedot"}, "type": ["Grass"]}, {"id": 274, "name": {"english": "Nuzleaf"}, "type": ["Grass", "Dark"]}, {"id": 275, "name": {"english": "Shiftry"}, "type": ["Grass", "Dark"]}, {"id": 276, "name": {"english": "Taillow"}, "type": ["Normal", "Flying"]}, {"id": 277, "name": {"english": "Swellow"}, "type": ["Normal", "Flying"]}, {"id": 278, "name": {"english": "Wingull"}, "type": ["Water", "Flying"]}, {"id": 279, "name": {"english": "Pelipper"}, "type": ["Water", "Flying"]}, {"id": 280, "name": {"english": "Ralts"}, "type": ["Psychic", "Fairy"]}, {"id": 281, "name": {"english": "Kirlia"}, "type": ["Psychic", "Fairy"]}, {"id": 282, "name": {"english": "Gardevoir"}, "type": ["Psychic", "Fairy"]}, {"id": 283, "name": {"english": "Surskit"}, "type": ["Bug", "Water"]}, {"id": 284, "name": {"english": "Masquerain"}, "type": ["Bug", "Flying"]}, {"id": 285, "name": {"english": "Shroomish"}, "type": ["Grass"]}, {"id": 286, "name": {"english": "Breloom"}, "type": ["Grass", "Fighting"]}, {"id": 287, "name": {"english": "Slakoth"}, "type": ["Normal"]}, {"id": 288, "name": {"english": "Vigoroth"}, "type": ["Normal"]}, {"id": 289, "name": {"english": "Slaking"}, "type": ["Normal"]}, {"id": 290, "name": {"english": "Nincada"}, "type": ["Bug", "Ground"]}, {"id": 291, "name": {"english": "Ninjask"}, "type": ["Bug", "Flying"]}, {"id": 292, "name": {"english": "Shedinja"}, "type": ["Bug", "Ghost"]}, {"id": 293, "name": {"english": "Whismur"}, "type": ["Normal"]}, {"id": 294, "name": {"english": "Loudred"}, "type": ["Normal"]}, {"id": 295, "name": {"english": "Exploud"}, "type": ["Normal"]}, {"id": 296, "name": {"english": "Makuhita"}, "type": ["Fighting"]}, {"id": 297, "name": {"english": "Hariyama"}, "type": ["Fighting"]}, {"id": 298, "name": {"english": "Azurill"}, "type": ["Normal", "Fairy"]}, {"id": 299, "name": {"english": "Nosepass"}, "type": ["Rock"]}, {"id": 300, "name": {"english": "Skitty"}, "type": ["Normal"]}, {"id": 301, "name": {"english": "Delcatty"}, "type": ["Normal"]}, {"id": 302, "name": {"english": "Sableye"}, "type": ["Dark", "Ghost"]}, {"id": 303, "name": {"english": "Mawile"}, "type": ["Steel", "Fairy"]}, {"id": 304, "name": {"english": "Aron"}, "type": ["Steel", "Rock"]}, {"id": 305, "name": {"english": "Lairon"}, "type": ["Steel", "Rock"]}, {"id": 306, "name": {"english": "Aggron"}, "type": ["Steel", "Rock"]}, {"id": 307, "name": {"english": "Meditite"}, "type": ["Fighting", "Psychic"]}, {"id": 308, "name": {"english": "Medicham"}, "type": ["Fighting", "Psychic"]}, {"id": 309, "name": {"english": "Electrike"}, "type": ["Electric"]}, {"id": 310, "name": {"english": "Manectric"}, "type": ["Electric"]}, {"id": 311, "name": {"english": "Plusle"}, "type": ["Electric"]}, {"id": 312, "name": {"english": "Minun"}, "type": ["Electric"]}, {"id": 313, "name": {"english": "Volbeat"}, "type": ["Bug"]}, {"id": 314, "name": {"english": "Illumise"}, "type": ["Bug"]}, {"id": 315, "name": {"english": "Roselia"}, "type": ["Grass", "Poison"]}, {"id": 316, "name": {"english": "Gulpin"}, "type": ["Poison"]}, {"id": 317, "name": {"english": "Swalot"}, "type": ["Poison"]}, {"id": 318, "name": {"english": "Carvanha"}, "type": ["Water", "Dark"]}, {"id": 319, "name": {"english": "Sharpedo"}, "type": ["Water", "Dark"]}, {"id": 320, "name": {"english": "Wailmer"}, "type": ["Water"]}, {"id": 321, "name": {"english": "Wailord"}, "type": ["Water"]}, {"id": 322, "name": {"english": "Numel"}, "type": ["Fire", "Ground"]}, {"id": 323, "name": {"english": "Camerupt"}, "type": ["Fire", "Ground"]}, {"id": 324, "name": {"english": "Torkoal"}, "type": ["Fire"]}, {"id": 325, "name": {"english": "Spoink"}, "type": ["Psychic"]}, {"id": 326, "name": {"english": "Grumpig"}, "type": ["Psychic"]}, {"id": 327, "name": {"english": "Spinda"}, "type": ["Normal"]}, {"id": 328, "name": {"english": "Trapinch"}, "type": ["Ground"]}, {"id": 329, "name": {"english": "Vibrava"}, "type": ["Ground", "Dragon"]}, {"id": 330, "name": {"english": "Flygon"}, "type": ["Ground", "Dragon"]}, {"id": 331, "name": {"english": "Cacnea"}, "type": ["Grass"]}, {"id": 332, "name": {"english": "Cacturne"}, "type": ["Grass", "Dark"]}, {"id": 333, "name": {"english": "Swablu"}, "type": ["Normal", "Flying"]}, {"id": 334, "name": {"english": "Altaria"}, "type": ["Dragon", "Flying"]}, {"id": 335, "name": {"english": "Zangoose"}, "type": ["Normal"]}, {"id": 336, "name": {"english": "Seviper"}, "type": ["Poison"]}, {"id": 337, "name": {"english": "Lunatone"}, "type": ["Rock", "Psychic"]}, {"id": 338, "name": {"english": "Solrock"}, "type": ["Rock", "Psychic"]}, {"id": 339, "name": {"english": "Barboach"}, "type": ["Water", "Ground"]}, {"id": 340, "name": {"english": "Whiscash"}, "type": ["Water", "Ground"]}, {"id": 341, "name": {"english": "Corphish"}, "type": ["Water"]}, {"id": 342, "name": {"english": "Crawdaunt"}, "type": ["Water", "Dark"]}, {"id": 343, "name": {"english": "Baltoy"}, "type": ["Ground", "Psychic"]}, {"id": 344, "name": {"english": "Claydol"}, "type": ["Ground", "Psychic"]}, {"id": 345, "name": {"english": "Lileep"}, "type": ["Rock", "Grass"]}, {"id": 346, "name": {"english": "Cradily"}, "type": ["Rock", "Grass"]}, {"id": 347, "name": {"english": "Anorith"}, "type": ["Rock", "Bug"]}, {"id": 348, "name": {"english": "Armaldo"}, "type": ["Rock", "Bug"]}, {"id": 349, "name": {"english": "Feebas"}, "type": ["Water"]}, {"id": 350, "name": {"english": "Milotic"}, "type": ["Water"]}, {"id": 351, "name": {"english": "Castform"}, "type": ["Normal"]}, {"id": 352, "name": {"english": "Kecleon"}, "type": ["Normal"]}, {"id": 353, "name": {"english": "Shuppet"}, "type": ["Ghost"]}, {"id": 354, "name": {"english": "Banette"}, "type": ["Ghost"]}, {"id": 355, "name": {"english": "Duskull"}, "type": ["Ghost"]}, {"id": 356, "name": {"english": "Dusclops"}, "type": ["Ghost"]}, {"id": 357, "name": {"english": "Tropius"}, "type": ["Grass", "Flying"]}, {"id": 358, "name": {"english": "Chimecho"}, "type": ["Psychic"]}, {"id": 359, "name": {"english": "Absol"}, "type": ["Dark"]}, {"id": 360, "name": {"english": "Wynaut"}, "type": ["Psychic"]}, {"id": 361, "name": {"english": "Snorunt"}, "type": ["Ice"]}, {"id": 362, "name": {"english": "Glalie"}, "type": ["Ice"]}, {"id": 363, "name": {"english": "Spheal"}, "type": ["Ice", "Water"]}, {"id": 364, "name": {"english": "Sealeo"}, "type": ["Ice", "Water"]}, {"id": 365, "name": {"english": "Walrein"}, "type": ["Ice", "Water"]}, {"id": 366, "name": {"english": "Clamperl"}, "type": ["Water"]}, {"id": 367, "name": {"english": "Huntail"}, "type": ["Water"]}, {"id": 368, "name": {"english": "Gorebyss"}, "type": ["Water"]}, {"id": 369, "name": {"english": "Relicanth"}, "type": ["Water", "Rock"]}, {"id": 370, "name": {"english": "Luvdisc"}, "type": ["Water"]}, {"id": 371, "name": {"english": "Bagon"}, "type": ["Dragon"]}, {"id": 372, "name": {"english": "Shelgon"}, "type": ["Dragon"]}, {"id": 373, "name": {"english": "Salamence"}, "type": ["Dragon", "Flying"]}, {"id": 374, "name": {"english": "Beldum"}, "type": ["Steel", "Psychic"]}, {"id": 375, "name": {"english": "Metang"}, "type": ["Steel", "Psychic"]}, {"id": 376, "name": {"english": "Metagross"}, "type": ["Steel", "Psychic"]}, {"id": 377, "name": {"english": "Regirock"}, "type": ["Rock"]}, {"id": 378, "name": {"english": "Regice"}, "type": ["Ice"]}, {"id": 379, "name": {"english": "Registeel"}, "type": ["Steel"]}, {"id": 380, "name": {"english": "Latias"}, "type": ["Dragon", "Psychic"]}, {"id": 381, "name": {"english": "Latios"}, "type": ["Dragon", "Psychic"]}, {"id": 382, "name": {"english": "Kyogre"}, "type": ["Water"]}, {"id": 383, "name": {"english": "Groudon"}, "type": ["Ground"]}, {"id": 384, "name": {"english": "Rayquaza"}, "type": ["Dragon", "Flying"]}, {"id": 385, "name": {"english": "Jirachi"}, "type": ["Steel", "Psychic"]}, {"id": 386, "name": {"english": "Deoxys"}, "type": ["Psychic"]}, {"id": 387, "name": {"english": "Turtwig"}, "type": ["Grass"]}, {"id": 388, "name": {"english": "Grotle"}, "type": ["Grass"]}, {"id": 389, "name": {"english": "Torterra"}, "type": ["Grass", "Ground"]}, {"id": 390, "name": {"english": "Chimchar"}, "type": ["Fire"]}, {"id": 391, "name": {"english": "Monferno"}, "type": ["Fire", "Fighting"]}, {"id": 392, "name": {"english": "Infernape"}, "type": ["Fire", "Fighting"]}, {"id": 393, "name": {"english": "Piplup"}, "type": ["Water"]}, {"id": 394, "name": {"english": "Prinplup"}, "type": ["Water"]}, {"id": 395, "name": {"english": "Empoleon"}, "type": ["Water", "Steel"]}, {"id": 396, "name": {"english": "Starly"}, "type": ["Normal", "Flying"]}, {"id": 397, "name": {"english": "Staravia"}, "type": ["Normal", "Flying"]}, {"id": 398, "name": {"english": "Staraptor"}, "type": ["Normal", "Flying"]}, {"id": 399, "name": {"english": "Bidoof"}, "type": ["Normal"]}, {"id": 400, "name": {"english": "Bibarel"}, "type": ["Normal", "Water"]}, {"id": 401, "name": {"english": "Kricketot"}, "type": ["Bug"]}, {"id": 402, "name": {"english": "Kricketune"}, "type": ["Bug"]}, {"id": 403, "name": {"english": "Shinx"}, "type": ["Electric"]}, {"id": 404, "name": {"english": "Luxio"}, "type": ["Electric"]}, {"id": 405, "name": {"english": "Luxray"}, "type": ["Electric"]}, {"id": 406, "name": {"english": "Budew"}, "type": ["Grass", "Poison"]}, {"id": 407, "name": {"english": "Roserade"}, "type": ["Grass", "Poison"]}, {"id": 408, "name": {"english": "Cranidos"}, "type": ["Rock"]}, {"id": 409, "name": {"english": "Rampardos"}, "type": ["Rock"]}, {"id": 410, "name": {"english": "Shieldon"}, "type": ["Rock", "Steel"]}, {"id": 411, "name": {"english": "Bastiodon"}, "type": ["Rock", "Steel"]}, {"id": 412, "name": {"english": "Burmy"}, "type": ["Bug"]}, {"id": 413, "name": {"english": "Wormadam"}, "type": ["Bug", "Grass"]}, {"id": 414, "name": {"english": "Mothim"}, "type": ["Bug", "Flying"]}, {"id": 415, "name": {"english": "Combee"}, "type": ["Bug", "Flying"]}, {"id": 416, "name": {"english": "Vespiquen"}, "type": ["Bug", "Flying"]}, {"id": 417, "name": {"english": "Pachirisu"}, "type": ["Electric"]}, {"id": 418, "name": {"english": "Buizel"}, "type": ["Water"]}, {"id": 419, "name": {"english": "Floatzel"}, "type": ["Water"]}, {"id": 420, "name": {"english": "Cherubi"}, "type": ["Grass"]}, {"id": 421, "name": {"english": "Cherrim"}, "type": ["Grass"]}, {"id": 422, "name": {"english": "Shellos"}, "type": ["Water"]}, {"id": 423, "name": {"english": "Gastrodon"}, "type": ["Water", "Ground"]}, {"id": 424, "name": {"english": "Ambipom"}, "type": ["Normal"]}, {"id": 425, "name": {"english": "Drifloon"}, "type": ["Ghost", "Flying"]}, {"id": 426, "name": {"english": "Drifblim"}, "type": ["Ghost", "Flying"]}, {"id": 427, "name": {"english": "Buneary"}, "type": ["Normal"]}, {"id": 428, "name": {"english": "Lopunny"}, "type": ["Normal"]}, {"id": 429, "name": {"english": "Mismagius"}, "type": ["Ghost"]}, {"id": 430, "name": {"english": "Honchkrow"}, "type": ["Dark", "Flying"]}, {"id": 431, "name": {"english": "Glameow"}, "type": ["Normal"]}, {"id": 432, "name": {"english": "Purugly"}, "type": ["Normal"]}, {"id": 433, "name": {"english": "Chingling"}, "type": ["Psychic"]}, {"id": 434, "name": {"english": "Stunky"}, "type": ["Poison", "Dark"]}, {"id": 435, "name": {"english": "Skuntank"}, "type": ["Poison", "Dark"]}, {"id": 436, "name": {"english": "Bronzor"}, "type": ["Steel", "Psychic"]}, {"id": 437, "name": {"english": "Bronzong"}, "type": ["Steel", "Psychic"]}, {"id": 438, "name": {"english": "Bonsly"}, "type": ["Rock"]}, {"id": 439, "name": {"english": "Mime Jr."}, "type": ["Psychic", "Fairy"]}, {"id": 440, "name": {"english": "Happiny"}, "type": ["Normal"]}, {"id": 441, "name": {"english": "Chatot"}, "type": ["Normal", "Flying"]}, {"id": 442, "name": {"english": "Spiritomb"}, "type": ["Ghost", "Dark"]}, {"id": 443, "name": {"english": "Gible"}, "type": ["Dragon", "Ground"]}, {"id": 444, "name": {"english": "Gabite"}, "type": ["Dragon", "Ground"]}, {"id": 445, "name": {"english": "Garchomp"}, "type": ["Dragon", "Ground"]}, {"id": 446, "name": {"english": "Munchlax"}, "type": ["Normal"]}, {"id": 447, "name": {"english": "Riolu"}, "type": ["Fighting"]}, {"id": 448, "name": {"english": "Lucario"}, "type": ["Fighting", "Steel"]}, {"id": 449, "name": {"english": "Hippopotas"}, "type": ["Ground"]}, {"id": 450, "name": {"english": "Hippowdon"}, "type": ["Ground"]}, {"id": 451, "name": {"english": "Skorupi"}, "type": ["Poison", "Bug"]}, {"id": 452, "name": {"english": "Drapion"}, "type": ["Poison", "Dark"]}, {"id": 453, "name": {"english": "Croagunk"}, "type": ["Poison", "Fighting"]}, {"id": 454, "name": {"english": "Toxicroak"}, "type": ["Poison", "Fighting"]}, {"id": 455, "name": {"english": "Carnivine"}, "type": ["Grass"]}, {"id": 456, "name": {"english": "Finneon"}, "type": ["Water"]}, {"id": 457, "name": {"english": "Lumineon"}, "type": ["Water"]}, {"id": 458, "name": {"english": "Mantyke"}, "type": ["Water", "Flying"]}, {"id": 459, "name": {"english": "Snover"}, "type": ["Grass", "Ice"]}, {"id": 460, "name": {"english": "Abomasnow"}, "type": ["Grass", "Ice"]}, {"id": 461, "name": {"english": "Weavile"}, "type": ["Dark", "Ice"]}, {"id": 462, "name": {"english": "Magnezone"}, "type": ["Electric", "Steel"]}, {"id": 463, "name": {"english": "Lickilicky"}, "type": ["Normal"]}, {"id": 464, "name": {"english": "Rhyperior"}, "type": ["Ground", "Rock"]}, {"id": 465, "name": {"english": "Tangrowth"}, "type": ["Grass"]}, {"id": 466, "name": {"english": "Electivire"}, "type": ["Electric"]}, {"id": 467, "name": {"english": "Magmortar"}, "type": ["Fire"]}, {"id": 468, "name": {"english": "Togekiss"}, "type": ["Fairy", "Flying"]}, {"id": 469, "name": {"english": "Yanmega"}, "type": ["Bug", "Flying"]}, {"id": 470, "name": {"english": "Leafeon"}, "type": ["Grass"]}, {"id": 471, "name": {"english": "Glaceon"}, "type": ["Ice"]}, {"id": 472, "name": {"english": "Gliscor"}, "type": ["Ground", "Flying"]}, {"id": 473, "name": {"english": "Mamoswine"}, "type": ["Ice", "Ground"]}, {"id": 474, "name": {"english": "Porygon-Z"}, "type": ["Normal"]}, {"id": 475, "name": {"english": "Gallade"}, "type": ["Psychic", "Fighting"]}, {"id": 476, "name": {"english": "Probopass"}, "type": ["Rock", "Steel"]}, {"id": 477, "name": {"english": "Dusknoir"}, "type": ["Ghost"]}, {"id": 478, "name": {"english": "Froslass"}, "type": ["Ice", "Ghost"]}, {"id": 479, "name": {"english": "Rotom"}, "type": ["Electric", "Ghost"]}, {"id": 480, "name": {"english": "Uxie"}, "type": ["Psychic"]}, {"id": 481, "name": {"english": "Mesprit"}, "type": ["Psychic"]}, {"id": 482, "name": {"english": "Azelf"}, "type": ["Psychic"]}, {"id": 483, "name": {"english": "Dialga"}, "type": ["Steel", "Dragon"]}, {"id": 484, "name": {"english": "Palkia"}, "type": ["Water", "Dragon"]}, {"id": 485, "name": {"english": "Heatran"}, "type": ["Fire", "Steel"]}, {"id": 486, "name": {"english": "Regigigas"}, "type": ["Normal"]}, {"id": 487, "name": {"english": "Giratina"}, "type": ["Ghost", "Dragon"]}, {"id": 488, "name": {"english": "Cresselia"}, "type": ["Psychic"]}, {"id": 489, "name": {"english": "Phione"}, "type": ["Water"]}, {"id": 490, "name": {"english": "Manaphy"}, "type": ["Water"]}, {"id": 491, "name": {"english": "Darkrai"}, "type": ["Dark"]}, {"id": 492, "name": {"english": "Shaymin"}, "type": ["Grass"]}, {"id": 493, "name": {"english": "Arceus"}, "type": ["Normal"]}, {"id": 494, "name": {"english": "Victini"}, "type": ["Psychic", "Fire"]}, {"id": 495, "name": {"english": "Snivy"}, "type": ["Grass"]}, {"id": 496, "name": {"english": "Servine"}, "type": ["Grass"]}, {"id": 497, "name": {"english": "Serperior"}, "type": ["Grass"]}, {"id": 498, "name": {"english": "Tepig"}, "type": ["Fire"]}, {"id": 499, "name": {"english": "Pignite"}, "type": ["Fire", "Fighting"]}, {"id": 500, "name": {"english": "Emboar"}, "type": ["Fire", "Fighting"]}, {"id": 501, "name": {"english": "Oshawott"}, "type": ["Water"]}, {"id": 502, "name": {"english": "Dewott"}, "type": ["Water"]}, {"id": 503, "name": {"english": "Samurott"}, "type": ["Water"]}, {"id": 504, "name": {"english": "Patrat"}, "type": ["Normal"]}, {"id": 505, "name": {"english": "Watchog"}, "type": ["Normal"]}, {"id": 506, "name": {"english": "Lillipup"}, "type": ["Normal"]}, {"id": 507, "name": {"english": "Herdier"}, "type": ["Normal"]}, {"id": 508, "name": {"english": "Stoutland"}, "type": ["Normal"]}, {"id": 509, "name": {"english": "Purrloin"}, "type": ["Dark"]}, {"id": 510, "name": {"english": "Liepard"}, "type": ["Dark"]}, {"id": 511, "name": {"english": "Pansage"}, "type": ["Grass"]}, {"id": 512, "name": {"english": "Simisage"}, "type": ["Grass"]}, {"id": 513, "name": {"english": "Pansear"}, "type": ["Fire"]}, {"id": 514, "name": {"english": "Simisear"}, "type": ["Fire"]}, {"id": 515, "name": {"english": "Panpour"}, "type": ["Water"]}, {"id": 516, "name": {"english": "Simipour"}, "type": ["Water"]}, {"id": 517, "name": {"english": "Munna"}, "type": ["Psychic"]}, {"id": 518, "name": {"english": "Musharna"}, "type": ["Psychic"]}, {"id": 519, "name": {"english": "Pidove"}, "type": ["Normal", "Flying"]}, {"id": 520, "name": {"english": "Tranquill"}, "type": ["Normal", "Flying"]}, {"id": 521, "name": {"english": "Unfezant"}, "type": ["Normal", "Flying"]}, {"id": 522, "name": {"english": "Blitzle"}, "type": ["Electric"]}, {"id": 523, "name": {"english": "Zebstrika"}, "type": ["Electric"]}, {"id": 524, "name": {"english": "Roggenrola"}, "type": ["Rock"]}, {"id": 525, "name": {"english": "Boldore"}, "type": ["Rock"]}, {"id": 526, "name": {"english": "Gigalith"}, "type": ["Rock"]}, {"id": 527, "name": {"english": "Woobat"}, "type": ["Psychic", "Flying"]}, {"id": 528, "name": {"english": "Swoobat"}, "type": ["Psychic", "Flying"]}, {"id": 529, "name": {"english": "Drilbur"}, "type": ["Ground"]}, {"id": 530, "name": {"english": "Excadrill"}, "type": ["Ground", "Steel"]}, {"id": 531, "name": {"english": "Audino"}, "type": ["Normal"]}, {"id": 532, "name": {"english": "Timburr"}, "type": ["Fighting"]}, {"id": 533, "name": {"english": "Gurdurr"}, "type": ["Fighting"]}, {"id": 534, "name": {"english": "Conkeldurr"}, "type": ["Fighting"]}, {"id": 535, "name": {"english": "Tympole"}, "type": ["Water"]}, {"id": 536, "name": {"english": "Palpitoad"}, "type": ["Water", "Ground"]}, {"id": 537, "name": {"english": "Seismitoad"}, "type": ["Water", "Ground"]}, {"id": 538, "name": {"english": "Throh"}, "type": ["Fighting"]}, {"id": 539, "name": {"english": "Sawk"}, "type": ["Fighting"]}, {"id": 540, "name": {"english": "Sewaddle"}, "type": ["Bug", "Grass"]}, {"id": 541, "name": {"english": "Swadloon"}, "type": ["Bug", "Grass"]}, {"id": 542, "name": {"english": "Leavanny"}, "type": ["Bug", "Grass"]}, {"id": 543, "name": {"english": "Venipede"}, "type": ["Bug", "Poison"]}, {"id": 544, "name": {"english": "Whirlipede"}, "type": ["Bug", "Poison"]}, {"id": 545, "name": {"english": "Scolipede"}, "type": ["Bug", "Poison"]}, {"id": 546, "name": {"english": "Cottonee"}, "type": ["Grass", "Fairy"]}, {"id": 547, "name": {"english": "Whimsicott"}, "type": ["Grass", "Fairy"]}, {"id": 548, "name": {"english": "Petilil"}, "type": ["Grass"]}, {"id": 549, "name": {"english": "Lilligant"}, "type": ["Grass"]}, {"id": 550, "name": {"english": "Basculin"}, "type": ["Water"]}, {"id": 551, "name": {"english": "Sandile"}, "type": ["Ground", "Dark"]}, {"id": 552, "name": {"english": "Krokorok"}, "type": ["Ground", "Dark"]}, {"id": 553, "name": {"english": "Krookodile"}, "type": ["Ground", "Dark"]}, {"id": 554, "name": {"english": "Darumaka"}, "type": ["Fire"]}, {"id": 555, "name": {"english": "Darmanitan"}, "type": ["Fire"]}, {"id": 556, "name": {"english": "Maractus"}, "type": ["Grass"]}, {"id": 557, "name": {"english": "Dwebble"}, "type": ["Bug", "Rock"]}, {"id": 558, "name": {"english": "Crustle"}, "type": ["Bug", "Rock"]}, {"id": 559, "name": {"english": "Scraggy"}, "type": ["Dark", "Fighting"]}, {"id": 560, "name": {"english": "Scrafty"}, "type": ["Dark", "Fighting"]}, {"id": 561, "name": {"english": "Sigilyph"}, "type": ["Psychic", "Flying"]}, {"id": 562, "name": {"english": "Yamask"}, "type": ["Ghost"]}, {"id": 563, "name": {"english": "Cofagrigus"}, "type": ["Ghost"]}, {"id": 564, "name": {"english": "Tirtouga"}, "type": ["Water", "Rock"]}, {"id": 565, "name": {"english": "Carracosta"}, "type": ["Water", "Rock"]}, {"id": 566, "name": {"english": "Archen"}, "type": ["Rock", "Flying"]}, {"id": 567, "name": {"english": "Archeops"}, "type": ["Rock", "Flying"]}, {"id": 568, "name": {"english": "Trubbish"}, "type": ["Poison"]}, {"id": 569, "name": {"english": "Garbodor"}, "type": ["Poison"]}, {"id": 570, "name": {"english": "Zorua"}, "type": ["Dark"]}, {"id": 571, "name": {"english": "Zoroark"}, "type": ["Dark"]}, {"id": 572, "name": {"english": "Minccino"}, "type": ["Normal"]}, {"id": 573, "name": {"english": "Cinccino"}, "type": ["Normal"]}, {"id": 574, "name": {"english": "Gothita"}, "type": ["Psychic"]}, {"id": 575, "name": {"english": "Gothorita"}, "type": ["Psychic"]}, {"id": 576, "name": {"english": "Gothitelle"}, "type": ["Psychic"]}, {"id": 577, "name": {"english": "Solosis"}, "type": ["Psychic"]}, {"id": 578, "name": {"english": "Duosion"}, "type": ["Psychic"]}, {"id": 579, "name": {"english": "Reuniclus"}, "type": ["Psychic"]}, {"id": 580, "name": {"english": "Ducklett"}, "type": ["Water", "Flying"]}, {"id": 581, "name": {"english": "Swanna"}, "type": ["Water", "Flying"]}, {"id": 582, "name": {"english": "Vanillite"}, "type": ["Ice"]}, {"id": 583, "name": {"english": "Vanillish"}, "type": ["Ice"]}, {"id": 584, "name": {"english": "Vanilluxe"}, "type": ["Ice"]}, {"id": 585, "name": {"english": "Deerling"}, "type": ["Normal", "Grass"]}, {"id": 586, "name": {"english": "Sawsbuck"}, "type": ["Normal", "Grass"]}, {"id": 587, "name": {"english": "Emolga"}, "type": ["Electric", "Flying"]}, {"id": 588, "name": {"english": "Karrablast"}, "type": ["Bug"]}, {"id": 589, "name": {"english": "Escavalier"}, "type": ["Bug", "Steel"]}, {"id": 590, "name": {"english": "Foongus"}, "type": ["Grass", "Poison"]}, {"id": 591, "name": {"english": "Amoonguss"}, "type": ["Grass", "Poison"]}, {"id": 592, "name": {"english": "Frillish"}, "type": ["Water", "Ghost"]}, {"id": 593, "name": {"english": "Jellicent"}, "type": ["Water", "Ghost"]}, {"id": 594, "name": {"english": "Alomomola"}, "type": ["Water"]}, {"id": 595, "name": {"english": "Joltik"}, "type": ["Bug", "Electric"]}, {"id": 596, "name": {"english": "Galvantula"}, "type": ["Bug", "Electric"]}, {"id": 597, "name": {"english": "Ferroseed"}, "type": ["Grass", "Steel"]}, {"id": 598, "name": {"english": "Ferrothorn"}, "type": ["Grass", "Steel"]}, {"id": 599, "name": {"english": "Klink"}, "type": ["Steel"]}, {"id": 600, "name": {"english": "Klang"}, "type": ["Steel"]}, {"id": 601, "name": {"english": "Klinklang"}, "type": ["Steel"]}, {"id": 602, "name": {"english": "Tynamo"}, "type": ["Electric"]}, {"id": 603, "name": {"english": "Eelektrik"}, "type": ["Electric"]}, {"id": 604, "name": {"english": "Eelektross"}, "type": ["Electric"]}, {"id": 605, "name": {"english": "Elgyem"}, "type": ["Psychic"]}, {"id": 606, "name": {"english": "Beheeyem"}, "type": ["Psychic"]}, {"id": 607, "name": {"english": "Litwick"}, "type": ["Ghost", "Fire"]}, {"id": 608, "name": {"english": "Lampent"}, "type": ["Ghost", "Fire"]}, {"id": 609, "name": {"english": "Chandelure"}, "type": ["Ghost", "Fire"]}, {"id": 610, "name": {"english": "Axew"}, "type": ["Dragon"]}, {"id": 611, "name": {"english": "Fraxure"}, "type": ["Dragon"]}, {"id": 612, "name": {"english": "Haxorus"}, "type": ["Dragon"]}, {"id": 613, "name": {"english": "Cubchoo"}, "type": ["Ice"]}, {"id": 614, "name": {"english": "Beartic"}, "type": ["Ice"]}, {"id": 615, "name": {"english": "Cryogonal"}, "type": ["Ice"]}, {"id": 616, "name": {"english": "Shelmet"}, "type": ["Bug"]}, {"id": 617, "name": {"english": "Accelgor"}, "type": ["Bug"]}, {"id": 618, "name": {"english": "Stunfisk"}, "type": ["Ground", "Electric"]}, {"id": 619, "name": {"english": "Mienfoo"}, "type": ["Fighting"]}, {"id": 620, "name": {"english": "Mienshao"}, "type": ["Fighting"]}, {"id": 621, "name": {"english": "Druddigon"}, "type": ["Dragon"]}, {"id": 622, "name": {"english": "Golett"}, "type": ["Ground", "Ghost"]}, {"id": 623, "name": {"english": "Golurk"}, "type": ["Ground", "Ghost"]}, {"id": 624, "name": {"english": "Pawniard"}, "type": ["Dark", "Steel"]}, {"id": 625, "name": {"english": "Bisharp"}, "type": ["Dark", "Steel"]}, {"id": 626, "name": {"english": "Bouffalant"}, "type": ["Normal"]}, {"id": 627, "name": {"english": "Rufflet"}, "type": ["Normal", "Flying"]}, {"id": 628, "name": {"english": "Braviary"}, "type": ["Normal", "Flying"]}, {"id": 629, "name": {"english": "Vullaby"}, "type": ["Dark", "Flying"]}, {"id": 630, "name": {"english": "Mandibuzz"}, "type": ["Dark", "Flying"]}, {"id": 631, "name": {"english": "Heatmor"}, "type": ["Fire"]}, {"id": 632, "name": {"english": "Durant"}, "type": ["Bug", "Steel"]}, {"id": 633, "name": {"english": "Deino"}, "type": ["Dark", "Dragon"]}, {"id": 634, "name": {"english": "Zweilous"}, "type": ["Dark", "Dragon"]}, {"id": 635, "name": {"english": "Hydreigon"}, "type": ["Dark", "Dragon"]}, {"id": 636, "name": {"english": "Larvesta"}, "type": ["Bug", "Fire"]}, {"id": 637, "name": {"english": "Volcarona"}, "type": ["Bug", "Fire"]}, {"id": 638, "name": {"english": "Cobalion"}, "type": ["Steel", "Fighting"]}, {"id": 639, "name": {"english": "Terrakion"}, "type": ["Rock", "Fighting"]}, {"id": 640, "name": {"english": "Virizion"}, "type": ["Grass", "Fighting"]}, {"id": 641, "name": {"english": "Tornadus"}, "type": ["Flying"]}, {"id": 642, "name": {"english": "Thundurus"}, "type": ["Electric", "Flying"]}, {"id": 643, "name": {"english": "Reshiram"}, "type": ["Dragon", "Fire"]}, {"id": 644, "name": {"english": "Zekrom "}, "type": ["Dragon", "Electric"]}, {"id": 645, "name": {"english": "Landorus"}, "type": ["Ground", "Flying"]}, {"id": 646, "name": {"english": "Kyurem"}, "type": ["Dragon", "Ice"]}, {"id": 647, "name": {"english": "Keldeo"}, "type": ["Water", "Fighting"]}, {"id": 648, "name": {"english": "Meloetta"}, "type": ["Normal", "Psychic"]}, {"id": 649, "name": {"english": "Genesect"}, "type": ["Bug", "Steel"]}, {"id": 650, "name": {"english": "Chespin"}, "type": ["Grass"]}, {"id": 651, "name": {"english": "Quilladin"}, "type": ["Grass"]}, {"id": 652, "name": {"english": "Chesnaught"}, "type": ["Grass", "Fighting"]}, {"id": 653, "name": {"english": "Fennekin"}, "type": ["Fire"]}, {"id": 654, "name": {"english": "Braixen"}, "type": ["Fire"]}, {"id": 655, "name": {"english": "Delphox"}, "type": ["Fire", "Psychic"]}, {"id": 656, "name": {"english": "Froakie"}, "type": ["Water"]}, {"id": 657, "name": {"english": "Frogadier"}, "type": ["Water"]}, {"id": 658, "name": {"english": "Greninja"}, "type": ["Water", "Dark"]}, {"id": 659, "name": {"english": "Bunnelby"}, "type": ["Normal"]}, {"id": 660, "name": {"english": "Diggersby"}, "type": ["Normal", "Ground"]}, {"id": 661, "name": {"english": "Fletchling"}, "type": ["Normal", "Flying"]}, {"id": 662, "name": {"english": "Fletchinder"}, "type": ["Fire", "Flying"]}, {"id": 663, "name": {"english": "Talonflame"}, "type": ["Fire", "Flying"]}, {"id": 664, "name": {"english": "Scatterbug"}, "type": ["Bug"]}, {"id": 665, "name": {"english": "Spewpa"}, "type": ["Bug"]}, {"id": 666, "name": {"english": "Vivillon"}, "type": ["Bug", "Flying"]}, {"id": 667, "name": {"english": "Litleo"}, "type": ["Fire", "Normal"]}, {"id": 668, "name": {"english": "Pyroar"}, "type": ["Fire", "Normal"]}, {"id": 669, "name": {"english": "Flab\u00e9b\u00e9"}, "type": ["Fairy"]}, {"id": 670, "name": {"english": "Floette"}, "type": ["Fairy"]}, {"id": 671, "name": {"english": "Florges"}, "type": ["Fairy"]}, {"id": 672, "name": {"english": "Skiddo"}, "type": ["Grass"]}, {"id": 673, "name": {"english": "Gogoat"}, "type": ["Grass"]}, {"id": 674, "name": {"english": "Pancham"}, "type": ["Fighting"]}, {"id": 675, "name": {"english": "Pangoro"}, "type": ["Fighting", "Dark"]}, {"id": 676, "name": {"english": "Furfrou"}, "type": ["Normal"]}, {"id": 677, "name": {"english": "Espurr"}, "type": ["Psychic"]}, {"id": 678, "name": {"english": "Meowstic"}, "type": ["Psychic"]}, {"id": 679, "name": {"english": "Honedge"}, "type": ["Steel", "Ghost"]}, {"id": 680, "name": {"english": "Doublade"}, "type": ["Steel", "Ghost"]}, {"id": 681, "name": {"english": "Aegislash"}, "type": ["Steel", "Ghost"]}, {"id": 682, "name": {"english": "Spritzee"}, "type": ["Fairy"]}, {"id": 683, "name": {"english": "Aromatisse"}, "type": ["Fairy"]}, {"id": 684, "name": {"english": "Swirlix"}, "type": ["Fairy"]}, {"id": 685, "name": {"english": "Slurpuff"}, "type": ["Fairy"]}, {"id": 686, "name": {"english": "Inkay"}, "type": ["Dark", "Psychic"]}, {"id": 687, "name": {"english": "Malamar"}, "type": ["Dark", "Psychic"]}, {"id": 688, "name": {"english": "Binacle"}, "type": ["Rock", "Water"]}, {"id": 689, "name": {"english": "Barbaracle"}, "type": ["Rock", "Water"]}, {"id": 690, "name": {"english": "Skrelp"}, "type": ["Poison", "Water"]}, {"id": 691, "name": {"english": "Dragalge"}, "type": ["Poison", "Dragon"]}, {"id": 692, "name": {"english": "Clauncher"}, "type": ["Water"]}, {"id": 693, "name": {"english": "Clawitzer"}, "type": ["Water"]}, {"id": 694, "name": {"english": "Helioptile"}, "type": ["Electric", "Normal"]}, {"id": 695, "name": {"english": "Heliolisk"}, "type": ["Electric", "Normal"]}, {"id": 696, "name": {"english": "Tyrunt"}, "type": ["Rock", "Dragon"]}, {"id": 697, "name": {"english": "Tyrantrum"}, "type": ["Rock", "Dragon"]}, {"id": 698, "name": {"english": "Amaura"}, "type": ["Rock", "Ice"]}, {"id": 699, "name": {"english": "Aurorus"}, "type": ["Rock", "Ice"]}, {"id": 700, "name": {"english": "Sylveon"}, "type": ["Fairy"]}, {"id": 701, "name": {"english": "Hawlucha"}, "type": ["Fighting", "Flying"]}, {"id": 702, "name": {"english": "Dedenne"}, "type": ["Electric", "Fairy"]}, {"id": 703, "name": {"english": "Carbink"}, "type": ["Rock", "Fairy"]}, {"id": 704, "name": {"english": "Goomy"}, "type": ["Dragon"]}, {"id": 705, "name": {"english": "Sliggoo"}, "type": ["Dragon"]}, {"id": 706, "name": {"english": "Goodra"}, "type": ["Dragon"]}, {"id": 707, "name": {"english": "Klefki"}, "type": ["Steel", "Fairy"]}, {"id": 708, "name": {"english": "Phantump"}, "type": ["Ghost", "Grass"]}, {"id": 709, "name": {"english": "Trevenant"}, "type": ["Ghost", "Grass"]}, {"id": 710, "name": {"english": "Pumpkaboo"}, "type": ["Ghost", "Grass"]}, {"id": 711, "name": {"english": "Gourgeist"}, "type": ["Ghost", "Grass"]}, {"id": 712, "name": {"english": "Bergmite"}, "type": ["Ice"]}, {"id": 713, "name": {"english": "Avalugg"}, "type": ["Ice"]}, {"id": 714, "name": {"english": "Noibat"}, "type": ["Flying", "Dragon"]}, {"id": 715, "name": {"english": "Noivern"}, "type": ["Flying", "Dragon"]}, {"id": 716, "name": {"english": "Xerneas"}, "type": ["Fairy"]}, {"id": 717, "name": {"english": "Yveltal"}, "type": ["Dark", "Flying"]}, {"id": 718, "name": {"english": "Zygarde"}, "type": ["Dragon", "Ground"]}, {"id": 719, "name": {"english": "Diancie"}, "type": ["Rock", "Fairy"]}, {"id": 720, "name": {"english": "Hoopa"}, "type": ["Psychic", "Ghost"]}, {"id": 721, "name": {"english": "Volcanion"}, "type": ["Fire", "Water"]}, {"id": 722, "name": {"english": "Rowlet"}, "type": ["Grass", "Flying"]}, {"id": 723, "name": {"english": "Dartrix"}, "type": ["Grass", "Flying"]}, {"id": 724, "name": {"english": "Decidueye"}, "type": ["Grass", "Ghost"]}, {"id": 725, "name": {"english": "Litten"}, "type": ["Fire"]}, {"id": 726, "name": {"english": "Torracat"}, "type": ["Fire"]}, {"id": 727, "name": {"english": "Incineroar"}, "type": ["Fire", "Dark"]}, {"id": 728, "name": {"english": "Popplio"}, "type": ["Water"]}, {"id": 729, "name": {"english": "Brionne"}, "type": ["Water"]}, {"id": 730, "name": {"english": "Primarina"}, "type": ["Water", "Fairy"]}, {"id": 731, "name": {"english": "Pikipek"}, "type": ["Normal", "Flying"]}, {"id": 732, "name": {"english": "Trumbeak"}, "type": ["Normal", "Flying"]}, {"id": 733, "name": {"english": "Toucannon"}, "type": ["Normal", "Flying"]}, {"id": 734, "name": {"english": "Yungoos"}, "type": ["Normal"]}, {"id": 735, "name": {"english": "Gumshoos"}, "type": ["Normal"]}, {"id": 736, "name": {"english": "Grubbin"}, "type": ["Bug"]}, {"id": 737, "name": {"english": "Charjabug"}, "type": ["Bug", "Electric"]}, {"id": 738, "name": {"english": "Vikavolt"}, "type": ["Bug", "Electric"]}, {"id": 739, "name": {"english": "Crabrawler"}, "type": ["Fighting"]}, {"id": 740, "name": {"english": "Crabominable"}, "type": ["Fighting", "Ice"]}, {"id": 741, "name": {"english": "Oricorio"}, "type": ["Fire", "Flying"]}, {"id": 742, "name": {"english": "Cutiefly"}, "type": ["Bug", "Fairy"]}, {"id": 743, "name": {"english": "Ribombee"}, "type": ["Bug", "Fairy"]}, {"id": 744, "name": {"english": "Rockruff"}, "type": ["Rock"]}, {"id": 745, "name": {"english": "Lycanroc"}, "type": ["Rock"]}, {"id": 746, "name": {"english": "Wishiwashi"}, "type": ["Water"]}, {"id": 747, "name": {"english": "Mareanie"}, "type": ["Poison", "Water"]}, {"id": 748, "name": {"english": "Toxapex"}, "type": ["Poison", "Water"]}, {"id": 749, "name": {"english": "Mudbray"}, "type": ["Ground"]}, {"id": 750, "name": {"english": "Mudsdale"}, "type": ["Ground"]}, {"id": 751, "name": {"english": "Dewpider"}, "type": ["Water", "Bug"]}, {"id": 752, "name": {"english": "Araquanid"}, "type": ["Water", "Bug"]}, {"id": 753, "name": {"english": "Fomantis"}, "type": ["Grass"]}, {"id": 754, "name": {"english": "Lurantis"}, "type": ["Grass"]}, {"id": 755, "name": {"english": "Morelull"}, "type": ["Grass", "Fairy"]}, {"id": 756, "name": {"english": "Shiinotic"}, "type": ["Grass", "Fairy"]}, {"id": 757, "name": {"english": "Salandit"}, "type": ["Poison", "Fire"]}, {"id": 758, "name": {"english": "Salazzle"}, "type": ["Poison", "Fire"]}, {"id": 759, "name": {"english": "Stufful"}, "type": ["Normal", "Fighting"]}, {"id": 760, "name": {"english": "Bewear"}, "type": ["Normal", "Fighting"]}, {"id": 761, "name": {"english": "Bounsweet"}, "type": ["Grass"]}, {"id": 762, "name": {"english": "Steenee"}, "type": ["Grass"]}, {"id": 763, "name": {"english": "Tsareena"}, "type": ["Grass"]}, {"id": 764, "name": {"english": "Comfey"}, "type": ["Fairy"]}, {"id": 765, "name": {"english": "Oranguru"}, "type": ["Normal", "Psychic"]}, {"id": 766, "name": {"english": "Passimian"}, "type": ["Fighting"]}, {"id": 767, "name": {"english": "Wimpod"}, "type": ["Bug", "Water"]}, {"id": 768, "name": {"english": "Golisopod"}, "type": ["Bug", "Water"]}, {"id": 769, "name": {"english": "Sandygast"}, "type": ["Ghost", "Ground"]}, {"id": 770, "name": {"english": "Palossand"}, "type": ["Ghost", "Ground"]}, {"id": 771, "name": {"english": "Pyukumuku"}, "type": ["Water"]}, {"id": 772, "name": {"english": "Type: Null"}, "type": ["Normal"]}, {"id": 773, "name": {"english": "Silvally"}, "type": ["Normal"]}, {"id": 774, "name": {"english": "Minior"}, "type": ["Rock", "Flying"]}, {"id": 775, "name": {"english": "Komala"}, "type": ["Normal"]}, {"id": 776, "name": {"english": "Turtonator"}, "type": ["Fire", "Dragon"]}, {"id": 777, "name": {"english": "Togedemaru"}, "type": ["Electric", "Steel"]}, {"id": 778, "name": {"english": "Mimikyu"}, "type": ["Ghost", "Fairy"]}, {"id": 779, "name": {"english": "Bruxish"}, "type": ["Water", "Psychic"]}, {"id": 780, "name": {"english": "Drampa"}, "type": ["Normal", "Dragon"]}, {"id": 781, "name": {"english": "Dhelmise"}, "type": ["Ghost", "Grass"]}, {"id": 782, "name": {"english": "Jangmo-o"}, "type": ["Dragon"]}, {"id": 783, "name": {"english": "Hakamo-o"}, "type": ["Dragon", "Fighting"]}, {"id": 784, "name": {"english": "Kommo-o"}, "type": ["Dragon", "Fighting"]}, {"id": 785, "name": {"english": "Tapu Koko"}, "type": ["Electric", "Fairy"]}, {"id": 786, "name": {"english": "Tapu Lele"}, "type": ["Psychic", "Fairy"]}, {"id": 787, "name": {"english": "Tapu Bulu"}, "type": ["Grass", "Fairy"]}, {"id": 788, "name": {"english": "Tapu Fini"}, "type": ["Water", "Fairy"]}, {"id": 789, "name": {"english": "Cosmog"}, "type": ["Psychic"]}, {"id": 790, "name": {"english": "Cosmoem"}, "type": ["Psychic"]}, {"id": 791, "name": {"english": "Solgaleo"}, "type": ["Psychic", "Steel"]}, {"id": 792, "name": {"english": "Lunala"}, "type": ["Psychic", "Ghost"]}, {"id": 793, "name": {"english": "Nihilego"}, "type": ["Rock", "Poison"]}, {"id": 794, "name": {"english": "Buzzwole"}, "type": ["Bug", "Fighting"]}, {"id": 795, "name": {"english": "Pheromosa"}, "type": ["Bug", "Fighting"]}, {"id": 796, "name": {"english": "Xurkitree"}, "type": ["Electric"]}, {"id": 797, "name": {"english": "Celesteela"}, "type": ["Steel", "Flying"]}, {"id": 798, "name": {"english": "Kartana"}, "type": ["Grass", "Steel"]}, {"id": 799, "name": {"english": "Guzzlord"}, "type": ["Dark", "Dragon"]}, {"id": 800, "name": {"english": "Necrozma"}, "type": ["Psychic"]}, {"id": 801, "name": {"english": "Magearna"}, "type": ["Steel", "Fairy"]}, {"id": 802, "name": {"english": "Marshadow"}, "type": ["Fighting", "Ghost"]}, {"id": 803, "name": {"english": "Poipole"}, "type": ["Poison"]}, {"id": 804, "name": {"english": "Naganadel"}, "type": ["Poison", "Dragon"]}, {"id": 805, "name": {"english": "Stakataka"}, "type": ["Rock", "Steel"]}, {"id": 806, "name": {"english": "Blacephalon"}, "type": ["Fire", "Ghost"]}, {"id": 807, "name": {"english": "Zeraora"}, "type": ["Electric"]}, {"id": 808, "name": {"english": "Meltan"}, "type": ["Steel"]}, {"id": 809, "name": {"english": "Melmetal"}, "type": ["Steel"]}]
+[
+  {
+    "id": 1,
+    "name": {
+      "english": "Bulbasaur",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "english": "Ivysaur",
+      "japanese": "フシギソウ",
+      "chinese": "妙蛙草"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "english": "Venusaur",
+      "japanese": "フシギバナ",
+      "chinese": "妙蛙花"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "english": "Charmander",
+      "japanese": "ヒトカゲ",
+      "chinese": "小火龙"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "english": "Charmeleon",
+      "japanese": "リザード",
+      "chinese": "火恐龙"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "english": "Charizard",
+      "japanese": "リザードン",
+      "chinese": "喷火龙"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 7,
+    "name": {
+      "english": "Squirtle",
+      "japanese": "ゼニガメ",
+      "chinese": "杰尼龟"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 8,
+    "name": {
+      "english": "Wartortle",
+      "japanese": "カメール",
+      "chinese": "卡咪龟"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 9,
+    "name": {
+      "english": "Blastoise",
+      "japanese": "カメックス",
+      "chinese": "水箭龟"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "english": "Caterpie",
+      "japanese": "キャタピー",
+      "chinese": "绿毛虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 11,
+    "name": {
+      "english": "Metapod",
+      "japanese": "トランセル",
+      "chinese": "铁甲蛹"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 12,
+    "name": {
+      "english": "Butterfree",
+      "japanese": "バタフリー",
+      "chinese": "巴大蝶"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 13,
+    "name": {
+      "english": "Weedle",
+      "japanese": "ビードル",
+      "chinese": "独角虫"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 14,
+    "name": {
+      "english": "Kakuna",
+      "japanese": "コクーン",
+      "chinese": "铁壳蛹"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 15,
+    "name": {
+      "english": "Beedrill",
+      "japanese": "スピアー",
+      "chinese": "大针蜂"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 16,
+    "name": {
+      "english": "Pidgey",
+      "japanese": "ポッポ",
+      "chinese": "波波"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 17,
+    "name": {
+      "english": "Pidgeotto",
+      "japanese": "ピジョン",
+      "chinese": "比比鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 18,
+    "name": {
+      "english": "Pidgeot",
+      "japanese": "ピジョット",
+      "chinese": "大比鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "english": "Rattata",
+      "japanese": "コラッタ",
+      "chinese": "小拉达"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 20,
+    "name": {
+      "english": "Raticate",
+      "japanese": "ラッタ",
+      "chinese": "拉达"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 21,
+    "name": {
+      "english": "Spearow",
+      "japanese": "オニスズメ",
+      "chinese": "烈雀"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 22,
+    "name": {
+      "english": "Fearow",
+      "japanese": "オニドリル",
+      "chinese": "大嘴雀"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 23,
+    "name": {
+      "english": "Ekans",
+      "japanese": "アーボ",
+      "chinese": "阿柏蛇"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 24,
+    "name": {
+      "english": "Arbok",
+      "japanese": "アーボック",
+      "chinese": "阿柏怪"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 25,
+    "name": {
+      "english": "Pikachu",
+      "japanese": "ピカチュウ",
+      "chinese": "皮卡丘"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "english": "Raichu",
+      "japanese": "ライチュウ",
+      "chinese": "雷丘"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 27,
+    "name": {
+      "english": "Sandshrew",
+      "japanese": "サンド",
+      "chinese": "穿山鼠"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 28,
+    "name": {
+      "english": "Sandslash",
+      "japanese": "サンドパン",
+      "chinese": "穿山王"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 29,
+    "name": {
+      "english": "Nidoran♀",
+      "japanese": "ニドラン♀",
+      "chinese": "尼多兰"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 30,
+    "name": {
+      "english": "Nidorina",
+      "japanese": "ニドリーナ",
+      "chinese": "尼多娜"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 31,
+    "name": {
+      "english": "Nidoqueen",
+      "japanese": "ニドクイン",
+      "chinese": "尼多后"
+    },
+    "type": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
+    "id": 32,
+    "name": {
+      "english": "Nidoran♂",
+      "japanese": "ニドラン♂",
+      "chinese": "尼多朗"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 33,
+    "name": {
+      "english": "Nidorino",
+      "japanese": "ニドリーノ",
+      "chinese": "尼多力诺"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 34,
+    "name": {
+      "english": "Nidoking",
+      "japanese": "ニドキング",
+      "chinese": "尼多王"
+    },
+    "type": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
+    "id": 35,
+    "name": {
+      "english": "Clefairy",
+      "japanese": "ピッピ",
+      "chinese": "皮皮"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 36,
+    "name": {
+      "english": "Clefable",
+      "japanese": "ピクシー",
+      "chinese": "皮可西"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 37,
+    "name": {
+      "english": "Vulpix",
+      "japanese": "ロコン",
+      "chinese": "六尾"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 38,
+    "name": {
+      "english": "Ninetales",
+      "japanese": "キュウコン",
+      "chinese": "九尾"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 39,
+    "name": {
+      "english": "Jigglypuff",
+      "japanese": "プリン",
+      "chinese": "胖丁"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 40,
+    "name": {
+      "english": "Wigglytuff",
+      "japanese": "プクリン",
+      "chinese": "胖可丁"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 41,
+    "name": {
+      "english": "Zubat",
+      "japanese": "ズバット",
+      "chinese": "超音蝠"
+    },
+    "type": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "id": 42,
+    "name": {
+      "english": "Golbat",
+      "japanese": "ゴルバット",
+      "chinese": "大嘴蝠"
+    },
+    "type": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "id": 43,
+    "name": {
+      "english": "Oddish",
+      "japanese": "ナゾノクサ",
+      "chinese": "走路草"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 44,
+    "name": {
+      "english": "Gloom",
+      "japanese": "クサイハナ",
+      "chinese": "臭臭花"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 45,
+    "name": {
+      "english": "Vileplume",
+      "japanese": "ラフレシア",
+      "chinese": "霸王花"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 46,
+    "name": {
+      "english": "Paras",
+      "japanese": "パラス",
+      "chinese": "派拉斯"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 47,
+    "name": {
+      "english": "Parasect",
+      "japanese": "パラセクト",
+      "chinese": "派拉斯特"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 48,
+    "name": {
+      "english": "Venonat",
+      "japanese": "コンパン",
+      "chinese": "毛球"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 49,
+    "name": {
+      "english": "Venomoth",
+      "japanese": "モルフォン",
+      "chinese": "摩鲁蛾"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 50,
+    "name": {
+      "english": "Diglett",
+      "japanese": "ディグダ",
+      "chinese": "地鼠"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 51,
+    "name": {
+      "english": "Dugtrio",
+      "japanese": "ダグトリオ",
+      "chinese": "三地鼠"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 52,
+    "name": {
+      "english": "Meowth",
+      "japanese": "ニャース",
+      "chinese": "喵喵"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "english": "Persian",
+      "japanese": "ペルシアン",
+      "chinese": "猫老大"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 54,
+    "name": {
+      "english": "Psyduck",
+      "japanese": "コダック",
+      "chinese": "可达鸭"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 55,
+    "name": {
+      "english": "Golduck",
+      "japanese": "ゴルダック",
+      "chinese": "哥达鸭"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 56,
+    "name": {
+      "english": "Mankey",
+      "japanese": "マンキー",
+      "chinese": "猴怪"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 57,
+    "name": {
+      "english": "Primeape",
+      "japanese": "オコリザル",
+      "chinese": "火暴猴"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 58,
+    "name": {
+      "english": "Growlithe",
+      "japanese": "ガーディ",
+      "chinese": "卡蒂狗"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 59,
+    "name": {
+      "english": "Arcanine",
+      "japanese": "ウインディ",
+      "chinese": "风速狗"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 60,
+    "name": {
+      "english": "Poliwag",
+      "japanese": "ニョロモ",
+      "chinese": "蚊香蝌蚪"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 61,
+    "name": {
+      "english": "Poliwhirl",
+      "japanese": "ニョロゾ",
+      "chinese": "蚊香君"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 62,
+    "name": {
+      "english": "Poliwrath",
+      "japanese": "ニョロボン",
+      "chinese": "蚊香泳士"
+    },
+    "type": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 63,
+    "name": {
+      "english": "Abra",
+      "japanese": "ケーシィ",
+      "chinese": "凯西"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 64,
+    "name": {
+      "english": "Kadabra",
+      "japanese": "ユンゲラー",
+      "chinese": "勇基拉"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 65,
+    "name": {
+      "english": "Alakazam",
+      "japanese": "フーディン",
+      "chinese": "胡地"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 66,
+    "name": {
+      "english": "Machop",
+      "japanese": "ワンリキー",
+      "chinese": "腕力"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 67,
+    "name": {
+      "english": "Machoke",
+      "japanese": "ゴーリキー",
+      "chinese": "豪力"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 68,
+    "name": {
+      "english": "Machamp",
+      "japanese": "カイリキー",
+      "chinese": "怪力"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 69,
+    "name": {
+      "english": "Bellsprout",
+      "japanese": "マダツボミ",
+      "chinese": "喇叭芽"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 70,
+    "name": {
+      "english": "Weepinbell",
+      "japanese": "ウツドン",
+      "chinese": "口呆花"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 71,
+    "name": {
+      "english": "Victreebel",
+      "japanese": "ウツボット",
+      "chinese": "大食花"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 72,
+    "name": {
+      "english": "Tentacool",
+      "japanese": "メノクラゲ",
+      "chinese": "玛瑙水母"
+    },
+    "type": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "id": 73,
+    "name": {
+      "english": "Tentacruel",
+      "japanese": "ドククラゲ",
+      "chinese": "毒刺水母"
+    },
+    "type": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "id": 74,
+    "name": {
+      "english": "Geodude",
+      "japanese": "イシツブテ",
+      "chinese": "小拳石"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 75,
+    "name": {
+      "english": "Graveler",
+      "japanese": "ゴローン",
+      "chinese": "隆隆石"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 76,
+    "name": {
+      "english": "Golem",
+      "japanese": "ゴローニャ",
+      "chinese": "隆隆岩"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 77,
+    "name": {
+      "english": "Ponyta",
+      "japanese": "ポニータ",
+      "chinese": "小火马"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 78,
+    "name": {
+      "english": "Rapidash",
+      "japanese": "ギャロップ",
+      "chinese": "烈焰马"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 79,
+    "name": {
+      "english": "Slowpoke",
+      "japanese": "ヤドン",
+      "chinese": "呆呆兽"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 80,
+    "name": {
+      "english": "Slowbro",
+      "japanese": "ヤドラン",
+      "chinese": "呆壳兽"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 81,
+    "name": {
+      "english": "Magnemite",
+      "japanese": "コイル",
+      "chinese": "小磁怪"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": 82,
+    "name": {
+      "english": "Magneton",
+      "japanese": "レアコイル",
+      "chinese": "三合一磁怪"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": 83,
+    "name": {
+      "english": "Farfetch'd",
+      "japanese": "カモネギ",
+      "chinese": "大葱鸭"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 84,
+    "name": {
+      "english": "Doduo",
+      "japanese": "ドードー",
+      "chinese": "嘟嘟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 85,
+    "name": {
+      "english": "Dodrio",
+      "japanese": "ドードリオ",
+      "chinese": "嘟嘟利"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 86,
+    "name": {
+      "english": "Seel",
+      "japanese": "パウワウ",
+      "chinese": "小海狮"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 87,
+    "name": {
+      "english": "Dewgong",
+      "japanese": "ジュゴン",
+      "chinese": "白海狮"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": 88,
+    "name": {
+      "english": "Grimer",
+      "japanese": "ベトベター",
+      "chinese": "臭泥"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 89,
+    "name": {
+      "english": "Muk",
+      "japanese": "ベトベトン",
+      "chinese": "臭臭泥"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 90,
+    "name": {
+      "english": "Shellder",
+      "japanese": "シェルダー",
+      "chinese": "大舌贝"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 91,
+    "name": {
+      "english": "Cloyster",
+      "japanese": "パルシェン",
+      "chinese": "刺甲贝"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": 92,
+    "name": {
+      "english": "Gastly",
+      "japanese": "ゴース",
+      "chinese": "鬼斯"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": 93,
+    "name": {
+      "english": "Haunter",
+      "japanese": "ゴースト",
+      "chinese": "鬼斯通"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": 94,
+    "name": {
+      "english": "Gengar",
+      "japanese": "ゲンガー",
+      "chinese": "耿鬼"
+    },
+    "type": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "id": 95,
+    "name": {
+      "english": "Onix",
+      "japanese": "イワーク",
+      "chinese": "大岩蛇"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 96,
+    "name": {
+      "english": "Drowzee",
+      "japanese": "スリープ",
+      "chinese": "催眠貘"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 97,
+    "name": {
+      "english": "Hypno",
+      "japanese": "スリーパー",
+      "chinese": "引梦貘人"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 98,
+    "name": {
+      "english": "Krabby",
+      "japanese": "クラブ",
+      "chinese": "大钳蟹"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 99,
+    "name": {
+      "english": "Kingler",
+      "japanese": "キングラー",
+      "chinese": "巨钳蟹"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 100,
+    "name": {
+      "english": "Voltorb",
+      "japanese": "ビリリダマ",
+      "chinese": "霹雳电球"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 101,
+    "name": {
+      "english": "Electrode",
+      "japanese": "マルマイン",
+      "chinese": "顽皮雷弹"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 102,
+    "name": {
+      "english": "Exeggcute",
+      "japanese": "タマタマ",
+      "chinese": "蛋蛋"
+    },
+    "type": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 103,
+    "name": {
+      "english": "Exeggutor",
+      "japanese": "ナッシー",
+      "chinese": "椰蛋树"
+    },
+    "type": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 104,
+    "name": {
+      "english": "Cubone",
+      "japanese": "カラカラ",
+      "chinese": "卡拉卡拉"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 105,
+    "name": {
+      "english": "Marowak",
+      "japanese": "ガラガラ",
+      "chinese": "嘎啦嘎啦"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 106,
+    "name": {
+      "english": "Hitmonlee",
+      "japanese": "サワムラー",
+      "chinese": "飞腿郎"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 107,
+    "name": {
+      "english": "Hitmonchan",
+      "japanese": "エビワラー",
+      "chinese": "快拳郎"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 108,
+    "name": {
+      "english": "Lickitung",
+      "japanese": "ベロリンガ",
+      "chinese": "大舌头"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 109,
+    "name": {
+      "english": "Koffing",
+      "japanese": "ドガース",
+      "chinese": "瓦斯弹"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 110,
+    "name": {
+      "english": "Weezing",
+      "japanese": "マタドガス",
+      "chinese": "双弹瓦斯"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 111,
+    "name": {
+      "english": "Rhyhorn",
+      "japanese": "サイホーン",
+      "chinese": "独角犀牛"
+    },
+    "type": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 112,
+    "name": {
+      "english": "Rhydon",
+      "japanese": "サイドン",
+      "chinese": "钻角犀兽"
+    },
+    "type": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 113,
+    "name": {
+      "english": "Chansey",
+      "japanese": "ラッキー",
+      "chinese": "吉利蛋"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 114,
+    "name": {
+      "english": "Tangela",
+      "japanese": "モンジャラ",
+      "chinese": "蔓藤怪"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 115,
+    "name": {
+      "english": "Kangaskhan",
+      "japanese": "ガルーラ",
+      "chinese": "袋兽"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 116,
+    "name": {
+      "english": "Horsea",
+      "japanese": "タッツー",
+      "chinese": "墨海马"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 117,
+    "name": {
+      "english": "Seadra",
+      "japanese": "シードラ",
+      "chinese": "海刺龙"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 118,
+    "name": {
+      "english": "Goldeen",
+      "japanese": "トサキント",
+      "chinese": "角金鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 119,
+    "name": {
+      "english": "Seaking",
+      "japanese": "アズマオウ",
+      "chinese": "金鱼王"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 120,
+    "name": {
+      "english": "Staryu",
+      "japanese": "ヒトデマン",
+      "chinese": "海星星"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 121,
+    "name": {
+      "english": "Starmie",
+      "japanese": "スターミー",
+      "chinese": "宝石海星"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 122,
+    "name": {
+      "english": "Mr. Mime",
+      "japanese": "バリヤード",
+      "chinese": "魔墙人偶"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 123,
+    "name": {
+      "english": "Scyther",
+      "japanese": "ストライク",
+      "chinese": "飞天螳螂"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 124,
+    "name": {
+      "english": "Jynx",
+      "japanese": "ルージュラ",
+      "chinese": "迷唇姐"
+    },
+    "type": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 125,
+    "name": {
+      "english": "Electabuzz",
+      "japanese": "エレブー",
+      "chinese": "电击兽"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 126,
+    "name": {
+      "english": "Magmar",
+      "japanese": "ブーバー",
+      "chinese": "鸭嘴火兽"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 127,
+    "name": {
+      "english": "Pinsir",
+      "japanese": "カイロス",
+      "chinese": "凯罗斯"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 128,
+    "name": {
+      "english": "Tauros",
+      "japanese": "ケンタロス",
+      "chinese": "肯泰罗"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 129,
+    "name": {
+      "english": "Magikarp",
+      "japanese": "コイキング",
+      "chinese": "鲤鱼王"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 130,
+    "name": {
+      "english": "Gyarados",
+      "japanese": "ギャラドス",
+      "chinese": "暴鲤龙"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 131,
+    "name": {
+      "english": "Lapras",
+      "japanese": "ラプラス",
+      "chinese": "拉普拉斯"
+    },
+    "type": [
+      "Water",
+      "Ice"
+    ]
+  },
+  {
+    "id": 132,
+    "name": {
+      "english": "Ditto",
+      "japanese": "メタモン",
+      "chinese": "百变怪"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 133,
+    "name": {
+      "english": "Eevee",
+      "japanese": "イーブイ",
+      "chinese": "伊布"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 134,
+    "name": {
+      "english": "Vaporeon",
+      "japanese": "シャワーズ",
+      "chinese": "水伊布"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 135,
+    "name": {
+      "english": "Jolteon",
+      "japanese": "サンダース",
+      "chinese": "雷伊布"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 136,
+    "name": {
+      "english": "Flareon",
+      "japanese": "ブースター",
+      "chinese": "火伊布"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 137,
+    "name": {
+      "english": "Porygon",
+      "japanese": "ポリゴン",
+      "chinese": "多边兽"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 138,
+    "name": {
+      "english": "Omanyte",
+      "japanese": "オムナイト",
+      "chinese": "菊石兽"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 139,
+    "name": {
+      "english": "Omastar",
+      "japanese": "オムスター",
+      "chinese": "多刺菊石兽"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 140,
+    "name": {
+      "english": "Kabuto",
+      "japanese": "カブト",
+      "chinese": "化石盔"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 141,
+    "name": {
+      "english": "Kabutops",
+      "japanese": "カブトプス",
+      "chinese": "镰刀盔"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 142,
+    "name": {
+      "english": "Aerodactyl",
+      "japanese": "プテラ",
+      "chinese": "化石翼龙"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "id": 143,
+    "name": {
+      "english": "Snorlax",
+      "japanese": "カビゴン",
+      "chinese": "卡比兽"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 144,
+    "name": {
+      "english": "Articuno",
+      "japanese": "フリーザー",
+      "chinese": "急冻鸟"
+    },
+    "type": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  {
+    "id": 145,
+    "name": {
+      "english": "Zapdos",
+      "japanese": "サンダー",
+      "chinese": "闪电鸟"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "id": 146,
+    "name": {
+      "english": "Moltres",
+      "japanese": "ファイヤー",
+      "chinese": "火焰鸟"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 147,
+    "name": {
+      "english": "Dratini",
+      "japanese": "ミニリュウ",
+      "chinese": "迷你龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 148,
+    "name": {
+      "english": "Dragonair",
+      "japanese": "ハクリュー",
+      "chinese": "哈克龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 149,
+    "name": {
+      "english": "Dragonite",
+      "japanese": "カイリュー",
+      "chinese": "快龙"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "id": 150,
+    "name": {
+      "english": "Mewtwo",
+      "japanese": "ミュウツー",
+      "chinese": "超梦"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 151,
+    "name": {
+      "english": "Mew",
+      "japanese": "ミュウ",
+      "chinese": "梦幻"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 152,
+    "name": {
+      "english": "Chikorita",
+      "japanese": "チコリータ",
+      "chinese": "菊草叶"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 153,
+    "name": {
+      "english": "Bayleef",
+      "japanese": "ベイリーフ",
+      "chinese": "月桂叶"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 154,
+    "name": {
+      "english": "Meganium",
+      "japanese": "メガニウム",
+      "chinese": "大竺葵"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 155,
+    "name": {
+      "english": "Cyndaquil",
+      "japanese": "ヒノアラシ",
+      "chinese": "火球鼠"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 156,
+    "name": {
+      "english": "Quilava",
+      "japanese": "マグマラシ",
+      "chinese": "火岩鼠"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 157,
+    "name": {
+      "english": "Typhlosion",
+      "japanese": "バクフーン",
+      "chinese": "火暴兽"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 158,
+    "name": {
+      "english": "Totodile",
+      "japanese": "ワニノコ",
+      "chinese": "小锯鳄"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 159,
+    "name": {
+      "english": "Croconaw",
+      "japanese": "アリゲイツ",
+      "chinese": "蓝鳄"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 160,
+    "name": {
+      "english": "Feraligatr",
+      "japanese": "オーダイル",
+      "chinese": "大力鳄"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 161,
+    "name": {
+      "english": "Sentret",
+      "japanese": "オタチ",
+      "chinese": "尾立"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 162,
+    "name": {
+      "english": "Furret",
+      "japanese": "オオタチ",
+      "chinese": "大尾立"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 163,
+    "name": {
+      "english": "Hoothoot",
+      "japanese": "ホーホー",
+      "chinese": "咕咕"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 164,
+    "name": {
+      "english": "Noctowl",
+      "japanese": "ヨルノズク",
+      "chinese": "猫头夜鹰"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 165,
+    "name": {
+      "english": "Ledyba",
+      "japanese": "レディバ",
+      "chinese": "芭瓢虫"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 166,
+    "name": {
+      "english": "Ledian",
+      "japanese": "レディアン",
+      "chinese": "安瓢虫"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 167,
+    "name": {
+      "english": "Spinarak",
+      "japanese": "イトマル",
+      "chinese": "圆丝蛛"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 168,
+    "name": {
+      "english": "Ariados",
+      "japanese": "アリアドス",
+      "chinese": "阿利多斯"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 169,
+    "name": {
+      "english": "Crobat",
+      "japanese": "クロバット",
+      "chinese": "叉字蝠"
+    },
+    "type": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "id": 170,
+    "name": {
+      "english": "Chinchou",
+      "japanese": "チョンチー",
+      "chinese": "灯笼鱼"
+    },
+    "type": [
+      "Water",
+      "Electric"
+    ]
+  },
+  {
+    "id": 171,
+    "name": {
+      "english": "Lanturn",
+      "japanese": "ランターン",
+      "chinese": "电灯怪"
+    },
+    "type": [
+      "Water",
+      "Electric"
+    ]
+  },
+  {
+    "id": 172,
+    "name": {
+      "english": "Pichu",
+      "japanese": "ピチュー",
+      "chinese": "皮丘"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 173,
+    "name": {
+      "english": "Cleffa",
+      "japanese": "ピィ",
+      "chinese": "皮宝宝"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 174,
+    "name": {
+      "english": "Igglybuff",
+      "japanese": "ププリン",
+      "chinese": "宝宝丁"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 175,
+    "name": {
+      "english": "Togepi",
+      "japanese": "トゲピー",
+      "chinese": "波克比"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 176,
+    "name": {
+      "english": "Togetic",
+      "japanese": "トゲチック",
+      "chinese": "波克基古"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "id": 177,
+    "name": {
+      "english": "Natu",
+      "japanese": "ネイティ",
+      "chinese": "天然雀"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 178,
+    "name": {
+      "english": "Xatu",
+      "japanese": "ネイティオ",
+      "chinese": "天然鸟"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 179,
+    "name": {
+      "english": "Mareep",
+      "japanese": "メリープ",
+      "chinese": "咩利羊"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 180,
+    "name": {
+      "english": "Flaaffy",
+      "japanese": "モココ",
+      "chinese": "茸茸羊"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 181,
+    "name": {
+      "english": "Ampharos",
+      "japanese": "デンリュウ",
+      "chinese": "电龙"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 182,
+    "name": {
+      "english": "Bellossom",
+      "japanese": "キレイハナ",
+      "chinese": "美丽花"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 183,
+    "name": {
+      "english": "Marill",
+      "japanese": "マリル",
+      "chinese": "玛力露"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 184,
+    "name": {
+      "english": "Azumarill",
+      "japanese": "マリルリ",
+      "chinese": "玛力露丽"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 185,
+    "name": {
+      "english": "Sudowoodo",
+      "japanese": "ウソッキー",
+      "chinese": "树才怪‎"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 186,
+    "name": {
+      "english": "Politoed",
+      "japanese": "ニョロトノ",
+      "chinese": "蚊香蛙皇"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 187,
+    "name": {
+      "english": "Hoppip",
+      "japanese": "ハネッコ",
+      "chinese": "毽子草"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 188,
+    "name": {
+      "english": "Skiploom",
+      "japanese": "ポポッコ",
+      "chinese": "毽子花"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 189,
+    "name": {
+      "english": "Jumpluff",
+      "japanese": "ワタッコ",
+      "chinese": "毽子棉"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 190,
+    "name": {
+      "english": "Aipom",
+      "japanese": "エイパム",
+      "chinese": "长尾怪手"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 191,
+    "name": {
+      "english": "Sunkern",
+      "japanese": "ヒマナッツ",
+      "chinese": "向日种子"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 192,
+    "name": {
+      "english": "Sunflora",
+      "japanese": "キマワリ",
+      "chinese": "向日花怪"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 193,
+    "name": {
+      "english": "Yanma",
+      "japanese": "ヤンヤンマ",
+      "chinese": "蜻蜻蜓"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 194,
+    "name": {
+      "english": "Wooper",
+      "japanese": "ウパー",
+      "chinese": "乌波"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 195,
+    "name": {
+      "english": "Quagsire",
+      "japanese": "ヌオー",
+      "chinese": "沼王"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 196,
+    "name": {
+      "english": "Espeon",
+      "japanese": "エーフィ",
+      "chinese": "太阳伊布"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 197,
+    "name": {
+      "english": "Umbreon",
+      "japanese": "ブラッキー",
+      "chinese": "月亮伊布"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 198,
+    "name": {
+      "english": "Murkrow",
+      "japanese": "ヤミカラス",
+      "chinese": "黑暗鸦"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "id": 199,
+    "name": {
+      "english": "Slowking",
+      "japanese": "ヤドキング",
+      "chinese": "呆呆王"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 200,
+    "name": {
+      "english": "Misdreavus",
+      "japanese": "ムウマ",
+      "chinese": "梦妖"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 201,
+    "name": {
+      "english": "Unown",
+      "japanese": "アンノーン",
+      "chinese": "未知图腾"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 202,
+    "name": {
+      "english": "Wobbuffet",
+      "japanese": "ソーナンス",
+      "chinese": "果然翁"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 203,
+    "name": {
+      "english": "Girafarig",
+      "japanese": "キリンリキ",
+      "chinese": "麒麟奇"
+    },
+    "type": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 204,
+    "name": {
+      "english": "Pineco",
+      "japanese": "クヌギダマ",
+      "chinese": "榛果球"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 205,
+    "name": {
+      "english": "Forretress",
+      "japanese": "フォレトス",
+      "chinese": "佛烈托斯"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "id": 206,
+    "name": {
+      "english": "Dunsparce",
+      "japanese": "ノコッチ",
+      "chinese": "土龙弟弟"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 207,
+    "name": {
+      "english": "Gligar",
+      "japanese": "グライガー",
+      "chinese": "天蝎"
+    },
+    "type": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "id": 208,
+    "name": {
+      "english": "Steelix",
+      "japanese": "ハガネール",
+      "chinese": "大钢蛇"
+    },
+    "type": [
+      "Steel",
+      "Ground"
+    ]
+  },
+  {
+    "id": 209,
+    "name": {
+      "english": "Snubbull",
+      "japanese": "ブルー",
+      "chinese": "布鲁"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 210,
+    "name": {
+      "english": "Granbull",
+      "japanese": "グランブル",
+      "chinese": "布鲁皇"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 211,
+    "name": {
+      "english": "Qwilfish",
+      "japanese": "ハリーセン",
+      "chinese": "千针鱼"
+    },
+    "type": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "id": 212,
+    "name": {
+      "english": "Scizor",
+      "japanese": "ハッサム",
+      "chinese": "巨钳螳螂"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "id": 213,
+    "name": {
+      "english": "Shuckle",
+      "japanese": "ツボツボ",
+      "chinese": "壶壶"
+    },
+    "type": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "id": 214,
+    "name": {
+      "english": "Heracross",
+      "japanese": "ヘラクロス",
+      "chinese": "赫拉克罗斯"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 215,
+    "name": {
+      "english": "Sneasel",
+      "japanese": "ニューラ",
+      "chinese": "狃拉"
+    },
+    "type": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  {
+    "id": 216,
+    "name": {
+      "english": "Teddiursa",
+      "japanese": "ヒメグマ",
+      "chinese": "熊宝宝"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 217,
+    "name": {
+      "english": "Ursaring",
+      "japanese": "リングマ",
+      "chinese": "圈圈熊"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 218,
+    "name": {
+      "english": "Slugma",
+      "japanese": "マグマッグ",
+      "chinese": "熔岩虫"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 219,
+    "name": {
+      "english": "Magcargo",
+      "japanese": "マグカルゴ",
+      "chinese": "熔岩蜗牛"
+    },
+    "type": [
+      "Fire",
+      "Rock"
+    ]
+  },
+  {
+    "id": 220,
+    "name": {
+      "english": "Swinub",
+      "japanese": "ウリムー",
+      "chinese": "小山猪"
+    },
+    "type": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "id": 221,
+    "name": {
+      "english": "Piloswine",
+      "japanese": "イノムー",
+      "chinese": "长毛猪"
+    },
+    "type": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "id": 222,
+    "name": {
+      "english": "Corsola",
+      "japanese": "サニーゴ",
+      "chinese": "太阳珊瑚"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "id": 223,
+    "name": {
+      "english": "Remoraid",
+      "japanese": "テッポウオ",
+      "chinese": "铁炮鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 224,
+    "name": {
+      "english": "Octillery",
+      "japanese": "オクタン",
+      "chinese": "章鱼桶"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 225,
+    "name": {
+      "english": "Delibird",
+      "japanese": "デリバード",
+      "chinese": "信使鸟"
+    },
+    "type": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  {
+    "id": 226,
+    "name": {
+      "english": "Mantine",
+      "japanese": "マンタイン",
+      "chinese": "巨翅飞鱼"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 227,
+    "name": {
+      "english": "Skarmory",
+      "japanese": "エアームド",
+      "chinese": "盔甲鸟"
+    },
+    "type": [
+      "Steel",
+      "Flying"
+    ]
+  },
+  {
+    "id": 228,
+    "name": {
+      "english": "Houndour",
+      "japanese": "デルビル",
+      "chinese": "戴鲁比"
+    },
+    "type": [
+      "Dark",
+      "Fire"
+    ]
+  },
+  {
+    "id": 229,
+    "name": {
+      "english": "Houndoom",
+      "japanese": "ヘルガー",
+      "chinese": "黑鲁加"
+    },
+    "type": [
+      "Dark",
+      "Fire"
+    ]
+  },
+  {
+    "id": 230,
+    "name": {
+      "english": "Kingdra",
+      "japanese": "キングドラ",
+      "chinese": "刺龙王"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 231,
+    "name": {
+      "english": "Phanpy",
+      "japanese": "ゴマゾウ",
+      "chinese": "小小象"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 232,
+    "name": {
+      "english": "Donphan",
+      "japanese": "ドンファン",
+      "chinese": "顿甲"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 233,
+    "name": {
+      "english": "Porygon2",
+      "japanese": "ポリゴン２",
+      "chinese": "多边兽Ⅱ"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 234,
+    "name": {
+      "english": "Stantler",
+      "japanese": "オドシシ",
+      "chinese": "惊角鹿"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 235,
+    "name": {
+      "english": "Smeargle",
+      "japanese": "ドーブル",
+      "chinese": "图图犬"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 236,
+    "name": {
+      "english": "Tyrogue",
+      "japanese": "バルキー",
+      "chinese": "无畏小子"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 237,
+    "name": {
+      "english": "Hitmontop",
+      "japanese": "カポエラー",
+      "chinese": "战舞郎"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 238,
+    "name": {
+      "english": "Smoochum",
+      "japanese": "ムチュール",
+      "chinese": "迷唇娃"
+    },
+    "type": [
+      "Ice",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 239,
+    "name": {
+      "english": "Elekid",
+      "japanese": "エレキッド",
+      "chinese": "电击怪"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 240,
+    "name": {
+      "english": "Magby",
+      "japanese": "ブビィ",
+      "chinese": "鸭嘴宝宝"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 241,
+    "name": {
+      "english": "Miltank",
+      "japanese": "ミルタンク",
+      "chinese": "大奶罐"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 242,
+    "name": {
+      "english": "Blissey",
+      "japanese": "ハピナス",
+      "chinese": "幸福蛋"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 243,
+    "name": {
+      "english": "Raikou",
+      "japanese": "ライコウ",
+      "chinese": "雷公"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 244,
+    "name": {
+      "english": "Entei",
+      "japanese": "エンテイ",
+      "chinese": "炎帝"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 245,
+    "name": {
+      "english": "Suicune",
+      "japanese": "スイクン",
+      "chinese": "水君"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 246,
+    "name": {
+      "english": "Larvitar",
+      "japanese": "ヨーギラス",
+      "chinese": "幼基拉斯"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 247,
+    "name": {
+      "english": "Pupitar",
+      "japanese": "サナギラス",
+      "chinese": "沙基拉斯"
+    },
+    "type": [
+      "Rock",
+      "Ground"
+    ]
+  },
+  {
+    "id": 248,
+    "name": {
+      "english": "Tyranitar",
+      "japanese": "バンギラス",
+      "chinese": "班基拉斯"
+    },
+    "type": [
+      "Rock",
+      "Dark"
+    ]
+  },
+  {
+    "id": 249,
+    "name": {
+      "english": "Lugia",
+      "japanese": "ルギア",
+      "chinese": "洛奇亚"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 250,
+    "name": {
+      "english": "Ho-Oh",
+      "japanese": "ホウオウ",
+      "chinese": "凤王"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 251,
+    "name": {
+      "english": "Celebi",
+      "japanese": "セレビィ",
+      "chinese": "时拉比"
+    },
+    "type": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "id": 252,
+    "name": {
+      "english": "Treecko",
+      "japanese": "キモリ",
+      "chinese": "木守宫"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 253,
+    "name": {
+      "english": "Grovyle",
+      "japanese": "ジュプトル",
+      "chinese": "森林蜥蜴"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 254,
+    "name": {
+      "english": "Sceptile",
+      "japanese": "ジュカイン",
+      "chinese": "蜥蜴王"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 255,
+    "name": {
+      "english": "Torchic",
+      "japanese": "アチャモ",
+      "chinese": "火稚鸡"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 256,
+    "name": {
+      "english": "Combusken",
+      "japanese": "ワカシャモ",
+      "chinese": "力壮鸡"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 257,
+    "name": {
+      "english": "Blaziken",
+      "japanese": "バシャーモ",
+      "chinese": "火焰鸡"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 258,
+    "name": {
+      "english": "Mudkip",
+      "japanese": "ミズゴロウ",
+      "chinese": "水跃鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 259,
+    "name": {
+      "english": "Marshtomp",
+      "japanese": "ヌマクロー",
+      "chinese": "沼跃鱼"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 260,
+    "name": {
+      "english": "Swampert",
+      "japanese": "ラグラージ",
+      "chinese": "巨沼怪"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 261,
+    "name": {
+      "english": "Poochyena",
+      "japanese": "ポチエナ",
+      "chinese": "土狼犬"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 262,
+    "name": {
+      "english": "Mightyena",
+      "japanese": "グラエナ",
+      "chinese": "大狼犬"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 263,
+    "name": {
+      "english": "Zigzagoon",
+      "japanese": "ジグザグマ",
+      "chinese": "蛇纹熊"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 264,
+    "name": {
+      "english": "Linoone",
+      "japanese": "マッスグマ",
+      "chinese": "直冲熊"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 265,
+    "name": {
+      "english": "Wurmple",
+      "japanese": "ケムッソ",
+      "chinese": "刺尾虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 266,
+    "name": {
+      "english": "Silcoon",
+      "japanese": "カラサリス",
+      "chinese": "甲壳茧"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 267,
+    "name": {
+      "english": "Beautifly",
+      "japanese": "アゲハント",
+      "chinese": "狩猎凤蝶"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 268,
+    "name": {
+      "english": "Cascoon",
+      "japanese": "マユルド",
+      "chinese": "盾甲茧"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 269,
+    "name": {
+      "english": "Dustox",
+      "japanese": "ドクケイル",
+      "chinese": "毒粉蛾"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 270,
+    "name": {
+      "english": "Lotad",
+      "japanese": "ハスボー",
+      "chinese": "莲叶童子"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "id": 271,
+    "name": {
+      "english": "Lombre",
+      "japanese": "ハスブレロ",
+      "chinese": "莲帽小童"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "id": 272,
+    "name": {
+      "english": "Ludicolo",
+      "japanese": "ルンパッパ",
+      "chinese": "乐天河童"
+    },
+    "type": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "id": 273,
+    "name": {
+      "english": "Seedot",
+      "japanese": "タネボー",
+      "chinese": "橡实果"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 274,
+    "name": {
+      "english": "Nuzleaf",
+      "japanese": "コノハナ",
+      "chinese": "长鼻叶"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "id": 275,
+    "name": {
+      "english": "Shiftry",
+      "japanese": "ダーテング",
+      "chinese": "狡猾天狗"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "id": 276,
+    "name": {
+      "english": "Taillow",
+      "japanese": "スバメ",
+      "chinese": "傲骨燕"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 277,
+    "name": {
+      "english": "Swellow",
+      "japanese": "オオスバメ",
+      "chinese": "大王燕"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 278,
+    "name": {
+      "english": "Wingull",
+      "japanese": "キャモメ",
+      "chinese": "长翅鸥"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 279,
+    "name": {
+      "english": "Pelipper",
+      "japanese": "ペリッパー",
+      "chinese": "大嘴鸥"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 280,
+    "name": {
+      "english": "Ralts",
+      "japanese": "ラルトス",
+      "chinese": "拉鲁拉丝"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 281,
+    "name": {
+      "english": "Kirlia",
+      "japanese": "キルリア",
+      "chinese": "奇鲁莉安"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 282,
+    "name": {
+      "english": "Gardevoir",
+      "japanese": "サーナイト",
+      "chinese": "沙奈朵"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 283,
+    "name": {
+      "english": "Surskit",
+      "japanese": "アメタマ",
+      "chinese": "溜溜糖球"
+    },
+    "type": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "id": 284,
+    "name": {
+      "english": "Masquerain",
+      "japanese": "アメモース",
+      "chinese": "雨翅蛾"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 285,
+    "name": {
+      "english": "Shroomish",
+      "japanese": "キノココ",
+      "chinese": "蘑蘑菇"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 286,
+    "name": {
+      "english": "Breloom",
+      "japanese": "キノガッサ",
+      "chinese": "斗笠菇"
+    },
+    "type": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 287,
+    "name": {
+      "english": "Slakoth",
+      "japanese": "ナマケロ",
+      "chinese": "懒人獭"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 288,
+    "name": {
+      "english": "Vigoroth",
+      "japanese": "ヤルキモノ",
+      "chinese": "过动猿"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 289,
+    "name": {
+      "english": "Slaking",
+      "japanese": "ケッキング",
+      "chinese": "请假王"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 290,
+    "name": {
+      "english": "Nincada",
+      "japanese": "ツチニン",
+      "chinese": "土居忍士"
+    },
+    "type": [
+      "Bug",
+      "Ground"
+    ]
+  },
+  {
+    "id": 291,
+    "name": {
+      "english": "Ninjask",
+      "japanese": "テッカニン",
+      "chinese": "铁面忍者"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 292,
+    "name": {
+      "english": "Shedinja",
+      "japanese": "ヌケニン",
+      "chinese": "脱壳忍者"
+    },
+    "type": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 293,
+    "name": {
+      "english": "Whismur",
+      "japanese": "ゴニョニョ",
+      "chinese": "咕妞妞"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 294,
+    "name": {
+      "english": "Loudred",
+      "japanese": "ドゴーム",
+      "chinese": "吼爆弹"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 295,
+    "name": {
+      "english": "Exploud",
+      "japanese": "バクオング",
+      "chinese": "爆音怪"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 296,
+    "name": {
+      "english": "Makuhita",
+      "japanese": "マクノシタ",
+      "chinese": "幕下力士"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 297,
+    "name": {
+      "english": "Hariyama",
+      "japanese": "ハリテヤマ",
+      "chinese": "铁掌力士"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 298,
+    "name": {
+      "english": "Azurill",
+      "japanese": "ルリリ",
+      "chinese": "露力丽"
+    },
+    "type": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 299,
+    "name": {
+      "english": "Nosepass",
+      "japanese": "ノズパス",
+      "chinese": "朝北鼻"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 300,
+    "name": {
+      "english": "Skitty",
+      "japanese": "エネコ",
+      "chinese": "向尾喵"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 301,
+    "name": {
+      "english": "Delcatty",
+      "japanese": "エネコロロ",
+      "chinese": "优雅猫"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 302,
+    "name": {
+      "english": "Sableye",
+      "japanese": "ヤミラミ",
+      "chinese": "勾魂眼"
+    },
+    "type": [
+      "Dark",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 303,
+    "name": {
+      "english": "Mawile",
+      "japanese": "クチート",
+      "chinese": "大嘴娃"
+    },
+    "type": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 304,
+    "name": {
+      "english": "Aron",
+      "japanese": "ココドラ",
+      "chinese": "可可多拉"
+    },
+    "type": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "id": 305,
+    "name": {
+      "english": "Lairon",
+      "japanese": "コドラ",
+      "chinese": "可多拉"
+    },
+    "type": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "id": 306,
+    "name": {
+      "english": "Aggron",
+      "japanese": "ボスゴドラ",
+      "chinese": "波士可多拉"
+    },
+    "type": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "id": 307,
+    "name": {
+      "english": "Meditite",
+      "japanese": "アサナン",
+      "chinese": "玛沙那"
+    },
+    "type": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 308,
+    "name": {
+      "english": "Medicham",
+      "japanese": "チャーレム",
+      "chinese": "恰雷姆"
+    },
+    "type": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 309,
+    "name": {
+      "english": "Electrike",
+      "japanese": "ラクライ",
+      "chinese": "落雷兽"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 310,
+    "name": {
+      "english": "Manectric",
+      "japanese": "ライボルト",
+      "chinese": "雷电兽"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 311,
+    "name": {
+      "english": "Plusle",
+      "japanese": "プラスル",
+      "chinese": "正电拍拍"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 312,
+    "name": {
+      "english": "Minun",
+      "japanese": "マイナン",
+      "chinese": "负电拍拍"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 313,
+    "name": {
+      "english": "Volbeat",
+      "japanese": "バルビート",
+      "chinese": "电萤虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 314,
+    "name": {
+      "english": "Illumise",
+      "japanese": "イルミーゼ",
+      "chinese": "甜甜萤"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 315,
+    "name": {
+      "english": "Roselia",
+      "japanese": "ロゼリア",
+      "chinese": "毒蔷薇"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 316,
+    "name": {
+      "english": "Gulpin",
+      "japanese": "ゴクリン",
+      "chinese": "溶食兽"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 317,
+    "name": {
+      "english": "Swalot",
+      "japanese": "マルノーム",
+      "chinese": "吞食兽"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 318,
+    "name": {
+      "english": "Carvanha",
+      "japanese": "キバニア",
+      "chinese": "利牙鱼"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "id": 319,
+    "name": {
+      "english": "Sharpedo",
+      "japanese": "サメハダー",
+      "chinese": "巨牙鲨"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "id": 320,
+    "name": {
+      "english": "Wailmer",
+      "japanese": "ホエルコ",
+      "chinese": "吼吼鲸"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 321,
+    "name": {
+      "english": "Wailord",
+      "japanese": "ホエルオー",
+      "chinese": "吼鲸王"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 322,
+    "name": {
+      "english": "Numel",
+      "japanese": "ドンメル",
+      "chinese": "呆火驼"
+    },
+    "type": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "id": 323,
+    "name": {
+      "english": "Camerupt",
+      "japanese": "バクーダ",
+      "chinese": "喷火驼"
+    },
+    "type": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "id": 324,
+    "name": {
+      "english": "Torkoal",
+      "japanese": "コータス",
+      "chinese": "煤炭龟"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 325,
+    "name": {
+      "english": "Spoink",
+      "japanese": "バネブー",
+      "chinese": "跳跳猪"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 326,
+    "name": {
+      "english": "Grumpig",
+      "japanese": "ブーピッグ",
+      "chinese": "噗噗猪"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 327,
+    "name": {
+      "english": "Spinda",
+      "japanese": "パッチール",
+      "chinese": "晃晃斑"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 328,
+    "name": {
+      "english": "Trapinch",
+      "japanese": "ナックラー",
+      "chinese": "大颚蚁"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 329,
+    "name": {
+      "english": "Vibrava",
+      "japanese": "ビブラーバ",
+      "chinese": "超音波幼虫"
+    },
+    "type": [
+      "Ground",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 330,
+    "name": {
+      "english": "Flygon",
+      "japanese": "フライゴン",
+      "chinese": "沙漠蜻蜓"
+    },
+    "type": [
+      "Ground",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 331,
+    "name": {
+      "english": "Cacnea",
+      "japanese": "サボネア",
+      "chinese": "刺球仙人掌"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 332,
+    "name": {
+      "english": "Cacturne",
+      "japanese": "ノクタス",
+      "chinese": "梦歌仙人掌"
+    },
+    "type": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "id": 333,
+    "name": {
+      "english": "Swablu",
+      "japanese": "チルット",
+      "chinese": "青绵鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 334,
+    "name": {
+      "english": "Altaria",
+      "japanese": "チルタリス",
+      "chinese": "七夕青鸟"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "id": 335,
+    "name": {
+      "english": "Zangoose",
+      "japanese": "ザングース",
+      "chinese": "猫鼬斩"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 336,
+    "name": {
+      "english": "Seviper",
+      "japanese": "ハブネーク",
+      "chinese": "饭匙蛇"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 337,
+    "name": {
+      "english": "Lunatone",
+      "japanese": "ルナトーン",
+      "chinese": "月石"
+    },
+    "type": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 338,
+    "name": {
+      "english": "Solrock",
+      "japanese": "ソルロック",
+      "chinese": "太阳岩"
+    },
+    "type": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 339,
+    "name": {
+      "english": "Barboach",
+      "japanese": "ドジョッチ",
+      "chinese": "泥泥鳅"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 340,
+    "name": {
+      "english": "Whiscash",
+      "japanese": "ナマズン",
+      "chinese": "鲶鱼王"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 341,
+    "name": {
+      "english": "Corphish",
+      "japanese": "ヘイガニ",
+      "chinese": "龙虾小兵"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 342,
+    "name": {
+      "english": "Crawdaunt",
+      "japanese": "シザリガー",
+      "chinese": "铁螯龙虾"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "id": 343,
+    "name": {
+      "english": "Baltoy",
+      "japanese": "ヤジロン",
+      "chinese": "天秤偶"
+    },
+    "type": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 344,
+    "name": {
+      "english": "Claydol",
+      "japanese": "ネンドール",
+      "chinese": "念力土偶"
+    },
+    "type": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 345,
+    "name": {
+      "english": "Lileep",
+      "japanese": "リリーラ",
+      "chinese": "触手百合"
+    },
+    "type": [
+      "Rock",
+      "Grass"
+    ]
+  },
+  {
+    "id": 346,
+    "name": {
+      "english": "Cradily",
+      "japanese": "ユレイドル",
+      "chinese": "摇篮百合"
+    },
+    "type": [
+      "Rock",
+      "Grass"
+    ]
+  },
+  {
+    "id": 347,
+    "name": {
+      "english": "Anorith",
+      "japanese": "アノプス",
+      "chinese": "太古羽虫"
+    },
+    "type": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "id": 348,
+    "name": {
+      "english": "Armaldo",
+      "japanese": "アーマルド",
+      "chinese": "太古盔甲"
+    },
+    "type": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "id": 349,
+    "name": {
+      "english": "Feebas",
+      "japanese": "ヒンバス",
+      "chinese": "丑丑鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 350,
+    "name": {
+      "english": "Milotic",
+      "japanese": "ミロカロス",
+      "chinese": "美纳斯"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 351,
+    "name": {
+      "english": "Castform",
+      "japanese": "ポワルン",
+      "chinese": "飘浮泡泡"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 352,
+    "name": {
+      "english": "Kecleon",
+      "japanese": "カクレオン",
+      "chinese": "变隐龙"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 353,
+    "name": {
+      "english": "Shuppet",
+      "japanese": "カゲボウズ",
+      "chinese": "怨影娃娃"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 354,
+    "name": {
+      "english": "Banette",
+      "japanese": "ジュペッタ",
+      "chinese": "诅咒娃娃"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 355,
+    "name": {
+      "english": "Duskull",
+      "japanese": "ヨマワル",
+      "chinese": "夜巡灵"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 356,
+    "name": {
+      "english": "Dusclops",
+      "japanese": "サマヨール",
+      "chinese": "彷徨夜灵"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 357,
+    "name": {
+      "english": "Tropius",
+      "japanese": "トロピウス",
+      "chinese": "热带龙"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 358,
+    "name": {
+      "english": "Chimecho",
+      "japanese": "チリーン",
+      "chinese": "风铃铃"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 359,
+    "name": {
+      "english": "Absol",
+      "japanese": "アブソル",
+      "chinese": "阿勃梭鲁"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 360,
+    "name": {
+      "english": "Wynaut",
+      "japanese": "ソーナノ",
+      "chinese": "小果然"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 361,
+    "name": {
+      "english": "Snorunt",
+      "japanese": "ユキワラシ",
+      "chinese": "雪童子"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 362,
+    "name": {
+      "english": "Glalie",
+      "japanese": "オニゴーリ",
+      "chinese": "冰鬼护"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 363,
+    "name": {
+      "english": "Spheal",
+      "japanese": "タマザラシ",
+      "chinese": "海豹球"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "id": 364,
+    "name": {
+      "english": "Sealeo",
+      "japanese": "トドグラー",
+      "chinese": "海魔狮"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "id": 365,
+    "name": {
+      "english": "Walrein",
+      "japanese": "トドゼルガ",
+      "chinese": "帝牙海狮"
+    },
+    "type": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "id": 366,
+    "name": {
+      "english": "Clamperl",
+      "japanese": "パールル",
+      "chinese": "珍珠贝"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 367,
+    "name": {
+      "english": "Huntail",
+      "japanese": "ハンテール",
+      "chinese": "猎斑鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 368,
+    "name": {
+      "english": "Gorebyss",
+      "japanese": "サクラビス",
+      "chinese": "樱花鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 369,
+    "name": {
+      "english": "Relicanth",
+      "japanese": "ジーランス",
+      "chinese": "古空棘鱼"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "id": 370,
+    "name": {
+      "english": "Luvdisc",
+      "japanese": "ラブカス",
+      "chinese": "爱心鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 371,
+    "name": {
+      "english": "Bagon",
+      "japanese": "タツベイ",
+      "chinese": "宝贝龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 372,
+    "name": {
+      "english": "Shelgon",
+      "japanese": "コモルー",
+      "chinese": "甲壳龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 373,
+    "name": {
+      "english": "Salamence",
+      "japanese": "ボーマンダ",
+      "chinese": "暴飞龙"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "id": 374,
+    "name": {
+      "english": "Beldum",
+      "japanese": "ダンバル",
+      "chinese": "铁哑铃"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 375,
+    "name": {
+      "english": "Metang",
+      "japanese": "メタング",
+      "chinese": "金属怪"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 376,
+    "name": {
+      "english": "Metagross",
+      "japanese": "メタグロス",
+      "chinese": "巨金怪"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 377,
+    "name": {
+      "english": "Regirock",
+      "japanese": "レジロック",
+      "chinese": "雷吉洛克"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 378,
+    "name": {
+      "english": "Regice",
+      "japanese": "レジアイス",
+      "chinese": "雷吉艾斯"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 379,
+    "name": {
+      "english": "Registeel",
+      "japanese": "レジスチル",
+      "chinese": "雷吉斯奇鲁"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 380,
+    "name": {
+      "english": "Latias",
+      "japanese": "ラティアス",
+      "chinese": "拉帝亚斯"
+    },
+    "type": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 381,
+    "name": {
+      "english": "Latios",
+      "japanese": "ラティオス",
+      "chinese": "拉帝欧斯"
+    },
+    "type": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 382,
+    "name": {
+      "english": "Kyogre",
+      "japanese": "カイオーガ",
+      "chinese": "盖欧卡"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 383,
+    "name": {
+      "english": "Groudon",
+      "japanese": "グラードン",
+      "chinese": "固拉多"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 384,
+    "name": {
+      "english": "Rayquaza",
+      "japanese": "レックウザ",
+      "chinese": "烈空坐"
+    },
+    "type": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "id": 385,
+    "name": {
+      "english": "Jirachi",
+      "japanese": "ジラーチ",
+      "chinese": "基拉祈"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 386,
+    "name": {
+      "english": "Deoxys",
+      "japanese": "デオキシス",
+      "chinese": "代欧奇希斯"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 387,
+    "name": {
+      "english": "Turtwig",
+      "japanese": "ナエトル",
+      "chinese": "草苗龟"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 388,
+    "name": {
+      "english": "Grotle",
+      "japanese": "ハヤシガメ",
+      "chinese": "树林龟"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 389,
+    "name": {
+      "english": "Torterra",
+      "japanese": "ドダイトス",
+      "chinese": "土台龟"
+    },
+    "type": [
+      "Grass",
+      "Ground"
+    ]
+  },
+  {
+    "id": 390,
+    "name": {
+      "english": "Chimchar",
+      "japanese": "ヒコザル",
+      "chinese": "小火焰猴"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 391,
+    "name": {
+      "english": "Monferno",
+      "japanese": "モウカザル",
+      "chinese": "猛火猴"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 392,
+    "name": {
+      "english": "Infernape",
+      "japanese": "ゴウカザル",
+      "chinese": "烈焰猴"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 393,
+    "name": {
+      "english": "Piplup",
+      "japanese": "ポッチャマ",
+      "chinese": "波加曼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 394,
+    "name": {
+      "english": "Prinplup",
+      "japanese": "ポッタイシ",
+      "chinese": "波皇子"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 395,
+    "name": {
+      "english": "Empoleon",
+      "japanese": "エンペルト",
+      "chinese": "帝王拿波"
+    },
+    "type": [
+      "Water",
+      "Steel"
+    ]
+  },
+  {
+    "id": 396,
+    "name": {
+      "english": "Starly",
+      "japanese": "ムックル",
+      "chinese": "姆克儿"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 397,
+    "name": {
+      "english": "Staravia",
+      "japanese": "ムクバード",
+      "chinese": "姆克鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 398,
+    "name": {
+      "english": "Staraptor",
+      "japanese": "ムクホーク",
+      "chinese": "姆克鹰"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 399,
+    "name": {
+      "english": "Bidoof",
+      "japanese": "ビッパ",
+      "chinese": "大牙狸"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 400,
+    "name": {
+      "english": "Bibarel",
+      "japanese": "ビーダル",
+      "chinese": "大尾狸"
+    },
+    "type": [
+      "Normal",
+      "Water"
+    ]
+  },
+  {
+    "id": 401,
+    "name": {
+      "english": "Kricketot",
+      "japanese": "コロボーシ",
+      "chinese": "圆法师"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 402,
+    "name": {
+      "english": "Kricketune",
+      "japanese": "コロトック",
+      "chinese": "音箱蟀"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 403,
+    "name": {
+      "english": "Shinx",
+      "japanese": "コリンク",
+      "chinese": "小猫怪"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 404,
+    "name": {
+      "english": "Luxio",
+      "japanese": "ルクシオ",
+      "chinese": "勒克猫"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 405,
+    "name": {
+      "english": "Luxray",
+      "japanese": "レントラー",
+      "chinese": "伦琴猫"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 406,
+    "name": {
+      "english": "Budew",
+      "japanese": "スボミー",
+      "chinese": "含羞苞"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 407,
+    "name": {
+      "english": "Roserade",
+      "japanese": "ロズレイド",
+      "chinese": "罗丝雷朵"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 408,
+    "name": {
+      "english": "Cranidos",
+      "japanese": "ズガイドス",
+      "chinese": "头盖龙"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 409,
+    "name": {
+      "english": "Rampardos",
+      "japanese": "ラムパルド",
+      "chinese": "战槌龙"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 410,
+    "name": {
+      "english": "Shieldon",
+      "japanese": "タテトプス",
+      "chinese": "盾甲龙"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "id": 411,
+    "name": {
+      "english": "Bastiodon",
+      "japanese": "トリデプス",
+      "chinese": "护城龙"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "id": 412,
+    "name": {
+      "english": "Burmy",
+      "japanese": "ミノムッチ",
+      "chinese": "结草儿"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 413,
+    "name": {
+      "english": "Wormadam",
+      "japanese": "ミノマダム",
+      "chinese": "结草贵妇"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 414,
+    "name": {
+      "english": "Mothim",
+      "japanese": "ガーメイル",
+      "chinese": "绅士蛾"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 415,
+    "name": {
+      "english": "Combee",
+      "japanese": "ミツハニー",
+      "chinese": "三蜜蜂"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 416,
+    "name": {
+      "english": "Vespiquen",
+      "japanese": "ビークイン",
+      "chinese": "蜂女王"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 417,
+    "name": {
+      "english": "Pachirisu",
+      "japanese": "パチリス",
+      "chinese": "帕奇利兹"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 418,
+    "name": {
+      "english": "Buizel",
+      "japanese": "ブイゼル",
+      "chinese": "泳圈鼬"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 419,
+    "name": {
+      "english": "Floatzel",
+      "japanese": "フローゼル",
+      "chinese": "浮潜鼬"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 420,
+    "name": {
+      "english": "Cherubi",
+      "japanese": "チェリンボ",
+      "chinese": "樱花宝"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 421,
+    "name": {
+      "english": "Cherrim",
+      "japanese": "チェリム",
+      "chinese": "樱花儿"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 422,
+    "name": {
+      "english": "Shellos",
+      "japanese": "カラナクシ",
+      "chinese": "无壳海兔"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 423,
+    "name": {
+      "english": "Gastrodon",
+      "japanese": "トリトドン",
+      "chinese": "海兔兽"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 424,
+    "name": {
+      "english": "Ambipom",
+      "japanese": "エテボース",
+      "chinese": "双尾怪手"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 425,
+    "name": {
+      "english": "Drifloon",
+      "japanese": "フワンテ",
+      "chinese": "飘飘球"
+    },
+    "type": [
+      "Ghost",
+      "Flying"
+    ]
+  },
+  {
+    "id": 426,
+    "name": {
+      "english": "Drifblim",
+      "japanese": "フワライド",
+      "chinese": "随风球"
+    },
+    "type": [
+      "Ghost",
+      "Flying"
+    ]
+  },
+  {
+    "id": 427,
+    "name": {
+      "english": "Buneary",
+      "japanese": "ミミロル",
+      "chinese": "卷卷耳"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 428,
+    "name": {
+      "english": "Lopunny",
+      "japanese": "ミミロップ",
+      "chinese": "长耳兔"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 429,
+    "name": {
+      "english": "Mismagius",
+      "japanese": "ムウマージ",
+      "chinese": "梦妖魔"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 430,
+    "name": {
+      "english": "Honchkrow",
+      "japanese": "ドンカラス",
+      "chinese": "乌鸦头头"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "id": 431,
+    "name": {
+      "english": "Glameow",
+      "japanese": "ニャルマー",
+      "chinese": "魅力喵"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 432,
+    "name": {
+      "english": "Purugly",
+      "japanese": "ブニャット",
+      "chinese": "东施喵"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 433,
+    "name": {
+      "english": "Chingling",
+      "japanese": "リーシャン",
+      "chinese": "铃铛响"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 434,
+    "name": {
+      "english": "Stunky",
+      "japanese": "スカンプー",
+      "chinese": "臭鼬噗"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "id": 435,
+    "name": {
+      "english": "Skuntank",
+      "japanese": "スカタンク",
+      "chinese": "坦克臭鼬"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "id": 436,
+    "name": {
+      "english": "Bronzor",
+      "japanese": "ドーミラー",
+      "chinese": "铜镜怪"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 437,
+    "name": {
+      "english": "Bronzong",
+      "japanese": "ドータクン",
+      "chinese": "青铜钟"
+    },
+    "type": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 438,
+    "name": {
+      "english": "Bonsly",
+      "japanese": "ウソハチ",
+      "chinese": "盆才怪"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 439,
+    "name": {
+      "english": "Mime Jr.",
+      "japanese": "マネネ",
+      "chinese": "魔尼尼"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 440,
+    "name": {
+      "english": "Happiny",
+      "japanese": "ピンプク",
+      "chinese": "小福蛋"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 441,
+    "name": {
+      "english": "Chatot",
+      "japanese": "ペラップ",
+      "chinese": "聒噪鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 442,
+    "name": {
+      "english": "Spiritomb",
+      "japanese": "ミカルゲ",
+      "chinese": "花岩怪"
+    },
+    "type": [
+      "Ghost",
+      "Dark"
+    ]
+  },
+  {
+    "id": 443,
+    "name": {
+      "english": "Gible",
+      "japanese": "フカマル",
+      "chinese": "圆陆鲨"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "id": 444,
+    "name": {
+      "english": "Gabite",
+      "japanese": "ガバイト",
+      "chinese": "尖牙陆鲨"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "id": 445,
+    "name": {
+      "english": "Garchomp",
+      "japanese": "ガブリアス",
+      "chinese": "烈咬陆鲨"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "id": 446,
+    "name": {
+      "english": "Munchlax",
+      "japanese": "ゴンベ",
+      "chinese": "小卡比兽"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 447,
+    "name": {
+      "english": "Riolu",
+      "japanese": "リオル",
+      "chinese": "利欧路"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 448,
+    "name": {
+      "english": "Lucario",
+      "japanese": "ルカリオ",
+      "chinese": "路卡利欧"
+    },
+    "type": [
+      "Fighting",
+      "Steel"
+    ]
+  },
+  {
+    "id": 449,
+    "name": {
+      "english": "Hippopotas",
+      "japanese": "ヒポポタス",
+      "chinese": "沙河马"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 450,
+    "name": {
+      "english": "Hippowdon",
+      "japanese": "カバルドン",
+      "chinese": "河马兽"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 451,
+    "name": {
+      "english": "Skorupi",
+      "japanese": "スコルピ",
+      "chinese": "钳尾蝎"
+    },
+    "type": [
+      "Poison",
+      "Bug"
+    ]
+  },
+  {
+    "id": 452,
+    "name": {
+      "english": "Drapion",
+      "japanese": "ドラピオン",
+      "chinese": "龙王蝎"
+    },
+    "type": [
+      "Poison",
+      "Dark"
+    ]
+  },
+  {
+    "id": 453,
+    "name": {
+      "english": "Croagunk",
+      "japanese": "グレッグル",
+      "chinese": "不良蛙"
+    },
+    "type": [
+      "Poison",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 454,
+    "name": {
+      "english": "Toxicroak",
+      "japanese": "ドクロッグ",
+      "chinese": "毒骷蛙"
+    },
+    "type": [
+      "Poison",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 455,
+    "name": {
+      "english": "Carnivine",
+      "japanese": "マスキッパ",
+      "chinese": "尖牙笼"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 456,
+    "name": {
+      "english": "Finneon",
+      "japanese": "ケイコウオ",
+      "chinese": "荧光鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 457,
+    "name": {
+      "english": "Lumineon",
+      "japanese": "ネオラント",
+      "chinese": "霓虹鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 458,
+    "name": {
+      "english": "Mantyke",
+      "japanese": "タマンタ",
+      "chinese": "小球飞鱼"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 459,
+    "name": {
+      "english": "Snover",
+      "japanese": "ユキカブリ",
+      "chinese": "雪笠怪"
+    },
+    "type": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 460,
+    "name": {
+      "english": "Abomasnow",
+      "japanese": "ユキノオー",
+      "chinese": "暴雪王"
+    },
+    "type": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 461,
+    "name": {
+      "english": "Weavile",
+      "japanese": "マニューラ",
+      "chinese": "玛狃拉"
+    },
+    "type": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  {
+    "id": 462,
+    "name": {
+      "english": "Magnezone",
+      "japanese": "ジバコイル",
+      "chinese": "自爆磁怪"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": 463,
+    "name": {
+      "english": "Lickilicky",
+      "japanese": "ベロベルト",
+      "chinese": "大舌舔"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 464,
+    "name": {
+      "english": "Rhyperior",
+      "japanese": "ドサイドン",
+      "chinese": "超甲狂犀"
+    },
+    "type": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 465,
+    "name": {
+      "english": "Tangrowth",
+      "japanese": "モジャンボ",
+      "chinese": "巨蔓藤"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 466,
+    "name": {
+      "english": "Electivire",
+      "japanese": "エレキブル",
+      "chinese": "电击魔兽"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 467,
+    "name": {
+      "english": "Magmortar",
+      "japanese": "ブーバーン",
+      "chinese": "鸭嘴炎兽"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 468,
+    "name": {
+      "english": "Togekiss",
+      "japanese": "トゲキッス",
+      "chinese": "波克基斯"
+    },
+    "type": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "id": 469,
+    "name": {
+      "english": "Yanmega",
+      "japanese": "メガヤンマ",
+      "chinese": "远古巨蜓"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 470,
+    "name": {
+      "english": "Leafeon",
+      "japanese": "リーフィア",
+      "chinese": "叶伊布"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 471,
+    "name": {
+      "english": "Glaceon",
+      "japanese": "グレイシア",
+      "chinese": "冰伊布"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 472,
+    "name": {
+      "english": "Gliscor",
+      "japanese": "グライオン",
+      "chinese": "天蝎王"
+    },
+    "type": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "id": 473,
+    "name": {
+      "english": "Mamoswine",
+      "japanese": "マンムー",
+      "chinese": "象牙猪"
+    },
+    "type": [
+      "Ice",
+      "Ground"
+    ]
+  },
+  {
+    "id": 474,
+    "name": {
+      "english": "Porygon-Z",
+      "japanese": "ポリゴンＺ",
+      "chinese": "多边兽Ｚ"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 475,
+    "name": {
+      "english": "Gallade",
+      "japanese": "エルレイド",
+      "chinese": "艾路雷朵"
+    },
+    "type": [
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 476,
+    "name": {
+      "english": "Probopass",
+      "japanese": "ダイノーズ",
+      "chinese": "大朝北鼻"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "id": 477,
+    "name": {
+      "english": "Dusknoir",
+      "japanese": "ヨノワール",
+      "chinese": "黑夜魔灵"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 478,
+    "name": {
+      "english": "Froslass",
+      "japanese": "ユキメノコ",
+      "chinese": "雪妖女"
+    },
+    "type": [
+      "Ice",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 479,
+    "name": {
+      "english": "Rotom",
+      "japanese": "ロトム",
+      "chinese": "洛托姆"
+    },
+    "type": [
+      "Electric",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 480,
+    "name": {
+      "english": "Uxie",
+      "japanese": "ユクシー",
+      "chinese": "由克希"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 481,
+    "name": {
+      "english": "Mesprit",
+      "japanese": "エムリット",
+      "chinese": "艾姆利多"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 482,
+    "name": {
+      "english": "Azelf",
+      "japanese": "アグノム",
+      "chinese": "亚克诺姆"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 483,
+    "name": {
+      "english": "Dialga",
+      "japanese": "ディアルガ",
+      "chinese": "帝牙卢卡"
+    },
+    "type": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 484,
+    "name": {
+      "english": "Palkia",
+      "japanese": "パルキア",
+      "chinese": "帕路奇亚"
+    },
+    "type": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 485,
+    "name": {
+      "english": "Heatran",
+      "japanese": "ヒードラン",
+      "chinese": "席多蓝恩"
+    },
+    "type": [
+      "Fire",
+      "Steel"
+    ]
+  },
+  {
+    "id": 486,
+    "name": {
+      "english": "Regigigas",
+      "japanese": "レジギガス",
+      "chinese": "雷吉奇卡斯"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 487,
+    "name": {
+      "english": "Giratina",
+      "japanese": "ギラティナ",
+      "chinese": "骑拉帝纳"
+    },
+    "type": [
+      "Ghost",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 488,
+    "name": {
+      "english": "Cresselia",
+      "japanese": "クレセリア",
+      "chinese": "克雷色利亚"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 489,
+    "name": {
+      "english": "Phione",
+      "japanese": "フィオネ",
+      "chinese": "霏欧纳"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 490,
+    "name": {
+      "english": "Manaphy",
+      "japanese": "マナフィ",
+      "chinese": "玛纳霏"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 491,
+    "name": {
+      "english": "Darkrai",
+      "japanese": "ダークライ",
+      "chinese": "达克莱伊"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 492,
+    "name": {
+      "english": "Shaymin",
+      "japanese": "シェイミ",
+      "chinese": "谢米"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 493,
+    "name": {
+      "english": "Arceus",
+      "japanese": "アルセウス",
+      "chinese": "阿尔宙斯"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 494,
+    "name": {
+      "english": "Victini",
+      "japanese": "ビクティニ",
+      "chinese": "比克提尼"
+    },
+    "type": [
+      "Psychic",
+      "Fire"
+    ]
+  },
+  {
+    "id": 495,
+    "name": {
+      "english": "Snivy",
+      "japanese": "ツタージャ",
+      "chinese": "藤藤蛇"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 496,
+    "name": {
+      "english": "Servine",
+      "japanese": "ジャノビー",
+      "chinese": "青藤蛇"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 497,
+    "name": {
+      "english": "Serperior",
+      "japanese": "ジャローダ",
+      "chinese": "君主蛇"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 498,
+    "name": {
+      "english": "Tepig",
+      "japanese": "ポカブ",
+      "chinese": "暖暖猪"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 499,
+    "name": {
+      "english": "Pignite",
+      "japanese": "チャオブー",
+      "chinese": "炒炒猪"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 500,
+    "name": {
+      "english": "Emboar",
+      "japanese": "エンブオー",
+      "chinese": "炎武王"
+    },
+    "type": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 501,
+    "name": {
+      "english": "Oshawott",
+      "japanese": "ミジュマル",
+      "chinese": "水水獭"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 502,
+    "name": {
+      "english": "Dewott",
+      "japanese": "フタチマル",
+      "chinese": "双刃丸"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 503,
+    "name": {
+      "english": "Samurott",
+      "japanese": "ダイケンキ",
+      "chinese": "大剑鬼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 504,
+    "name": {
+      "english": "Patrat",
+      "japanese": "ミネズミ",
+      "chinese": "探探鼠"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 505,
+    "name": {
+      "english": "Watchog",
+      "japanese": "ミルホッグ",
+      "chinese": "步哨鼠"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 506,
+    "name": {
+      "english": "Lillipup",
+      "japanese": "ヨーテリー",
+      "chinese": "小约克"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 507,
+    "name": {
+      "english": "Herdier",
+      "japanese": "ハーデリア",
+      "chinese": "哈约克"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 508,
+    "name": {
+      "english": "Stoutland",
+      "japanese": "ムーランド",
+      "chinese": "长毛狗"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 509,
+    "name": {
+      "english": "Purrloin",
+      "japanese": "チョロネコ",
+      "chinese": "扒手猫"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 510,
+    "name": {
+      "english": "Liepard",
+      "japanese": "レパルダス",
+      "chinese": "酷豹"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 511,
+    "name": {
+      "english": "Pansage",
+      "japanese": "ヤナップ",
+      "chinese": "花椰猴"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 512,
+    "name": {
+      "english": "Simisage",
+      "japanese": "ヤナッキー",
+      "chinese": "花椰猿"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 513,
+    "name": {
+      "english": "Pansear",
+      "japanese": "バオップ",
+      "chinese": "爆香猴"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 514,
+    "name": {
+      "english": "Simisear",
+      "japanese": "バオッキー",
+      "chinese": "爆香猿"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 515,
+    "name": {
+      "english": "Panpour",
+      "japanese": "ヒヤップ",
+      "chinese": "冷水猴"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 516,
+    "name": {
+      "english": "Simipour",
+      "japanese": "ヒヤッキー",
+      "chinese": "冷水猿"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 517,
+    "name": {
+      "english": "Munna",
+      "japanese": "ムンナ",
+      "chinese": "食梦梦"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 518,
+    "name": {
+      "english": "Musharna",
+      "japanese": "ムシャーナ",
+      "chinese": "梦梦蚀"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 519,
+    "name": {
+      "english": "Pidove",
+      "japanese": "マメパト",
+      "chinese": "豆豆鸽"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 520,
+    "name": {
+      "english": "Tranquill",
+      "japanese": "ハトーボー",
+      "chinese": "咕咕鸽"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 521,
+    "name": {
+      "english": "Unfezant",
+      "japanese": "ケンホロウ",
+      "chinese": "高傲雉鸡"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 522,
+    "name": {
+      "english": "Blitzle",
+      "japanese": "シママ",
+      "chinese": "斑斑马"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 523,
+    "name": {
+      "english": "Zebstrika",
+      "japanese": "ゼブライカ",
+      "chinese": "雷电斑马"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 524,
+    "name": {
+      "english": "Roggenrola",
+      "japanese": "ダンゴロ",
+      "chinese": "石丸子"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 525,
+    "name": {
+      "english": "Boldore",
+      "japanese": "ガントル",
+      "chinese": "地幔岩"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 526,
+    "name": {
+      "english": "Gigalith",
+      "japanese": "ギガイアス",
+      "chinese": "庞岩怪"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 527,
+    "name": {
+      "english": "Woobat",
+      "japanese": "コロモリ",
+      "chinese": "滚滚蝙蝠"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 528,
+    "name": {
+      "english": "Swoobat",
+      "japanese": "ココロモリ",
+      "chinese": "心蝙蝠"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 529,
+    "name": {
+      "english": "Drilbur",
+      "japanese": "モグリュー",
+      "chinese": "螺钉地鼠"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 530,
+    "name": {
+      "english": "Excadrill",
+      "japanese": "ドリュウズ",
+      "chinese": "龙头地鼠"
+    },
+    "type": [
+      "Ground",
+      "Steel"
+    ]
+  },
+  {
+    "id": 531,
+    "name": {
+      "english": "Audino",
+      "japanese": "タブンネ",
+      "chinese": "差不多娃娃"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 532,
+    "name": {
+      "english": "Timburr",
+      "japanese": "ドッコラー",
+      "chinese": "搬运小匠"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 533,
+    "name": {
+      "english": "Gurdurr",
+      "japanese": "ドテッコツ",
+      "chinese": "铁骨土人"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 534,
+    "name": {
+      "english": "Conkeldurr",
+      "japanese": "ローブシン",
+      "chinese": "修建老匠"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 535,
+    "name": {
+      "english": "Tympole",
+      "japanese": "オタマロ",
+      "chinese": "圆蝌蚪"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 536,
+    "name": {
+      "english": "Palpitoad",
+      "japanese": "ガマガル",
+      "chinese": "蓝蟾蜍"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 537,
+    "name": {
+      "english": "Seismitoad",
+      "japanese": "ガマゲロゲ",
+      "chinese": "蟾蜍王"
+    },
+    "type": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "id": 538,
+    "name": {
+      "english": "Throh",
+      "japanese": "ナゲキ",
+      "chinese": "投摔鬼"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 539,
+    "name": {
+      "english": "Sawk",
+      "japanese": "ダゲキ",
+      "chinese": "打击鬼"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 540,
+    "name": {
+      "english": "Sewaddle",
+      "japanese": "クルミル",
+      "chinese": "虫宝包"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 541,
+    "name": {
+      "english": "Swadloon",
+      "japanese": "クルマユ",
+      "chinese": "宝包茧"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 542,
+    "name": {
+      "english": "Leavanny",
+      "japanese": "ハハコモリ",
+      "chinese": "保姆虫"
+    },
+    "type": [
+      "Bug",
+      "Grass"
+    ]
+  },
+  {
+    "id": 543,
+    "name": {
+      "english": "Venipede",
+      "japanese": "フシデ",
+      "chinese": "百足蜈蚣"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 544,
+    "name": {
+      "english": "Whirlipede",
+      "japanese": "ホイーガ",
+      "chinese": "车轮球"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 545,
+    "name": {
+      "english": "Scolipede",
+      "japanese": "ペンドラー",
+      "chinese": "蜈蚣王"
+    },
+    "type": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "id": 546,
+    "name": {
+      "english": "Cottonee",
+      "japanese": "モンメン",
+      "chinese": "木棉球"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 547,
+    "name": {
+      "english": "Whimsicott",
+      "japanese": "エルフーン",
+      "chinese": "风妖精"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 548,
+    "name": {
+      "english": "Petilil",
+      "japanese": "チュリネ",
+      "chinese": "百合根娃娃"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 549,
+    "name": {
+      "english": "Lilligant",
+      "japanese": "ドレディア",
+      "chinese": "裙儿小姐"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 550,
+    "name": {
+      "english": "Basculin",
+      "japanese": "バスラオ",
+      "chinese": "野蛮鲈鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 551,
+    "name": {
+      "english": "Sandile",
+      "japanese": "メグロコ",
+      "chinese": "黑眼鳄"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "id": 552,
+    "name": {
+      "english": "Krokorok",
+      "japanese": "ワルビル",
+      "chinese": "混混鳄"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "id": 553,
+    "name": {
+      "english": "Krookodile",
+      "japanese": "ワルビアル",
+      "chinese": "流氓鳄"
+    },
+    "type": [
+      "Ground",
+      "Dark"
+    ]
+  },
+  {
+    "id": 554,
+    "name": {
+      "english": "Darumaka",
+      "japanese": "ダルマッカ",
+      "chinese": "火红不倒翁"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 555,
+    "name": {
+      "english": "Darmanitan",
+      "japanese": "ヒヒダルマ",
+      "chinese": "达摩狒狒"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 556,
+    "name": {
+      "english": "Maractus",
+      "japanese": "マラカッチ",
+      "chinese": "沙铃仙人掌"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 557,
+    "name": {
+      "english": "Dwebble",
+      "japanese": "イシズマイ",
+      "chinese": "石居蟹"
+    },
+    "type": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "id": 558,
+    "name": {
+      "english": "Crustle",
+      "japanese": "イワパレス",
+      "chinese": "岩殿居蟹"
+    },
+    "type": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "id": 559,
+    "name": {
+      "english": "Scraggy",
+      "japanese": "ズルッグ",
+      "chinese": "滑滑小子"
+    },
+    "type": [
+      "Dark",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 560,
+    "name": {
+      "english": "Scrafty",
+      "japanese": "ズルズキン",
+      "chinese": "头巾混混"
+    },
+    "type": [
+      "Dark",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 561,
+    "name": {
+      "english": "Sigilyph",
+      "japanese": "シンボラー",
+      "chinese": "象征鸟"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
+    "id": 562,
+    "name": {
+      "english": "Yamask",
+      "japanese": "デスマス",
+      "chinese": "哭哭面具"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 563,
+    "name": {
+      "english": "Cofagrigus",
+      "japanese": "デスカーン",
+      "chinese": "死神棺"
+    },
+    "type": [
+      "Ghost"
+    ]
+  },
+  {
+    "id": 564,
+    "name": {
+      "english": "Tirtouga",
+      "japanese": "プロトーガ",
+      "chinese": "原盖海龟"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "id": 565,
+    "name": {
+      "english": "Carracosta",
+      "japanese": "アバゴーラ",
+      "chinese": "肋骨海龟"
+    },
+    "type": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "id": 566,
+    "name": {
+      "english": "Archen",
+      "japanese": "アーケン",
+      "chinese": "始祖小鸟"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "id": 567,
+    "name": {
+      "english": "Archeops",
+      "japanese": "アーケオス",
+      "chinese": "始祖大鸟"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "id": 568,
+    "name": {
+      "english": "Trubbish",
+      "japanese": "ヤブクロン",
+      "chinese": "破破袋"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 569,
+    "name": {
+      "english": "Garbodor",
+      "japanese": "ダストダス",
+      "chinese": "灰尘山"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 570,
+    "name": {
+      "english": "Zorua",
+      "japanese": "ゾロア",
+      "chinese": "索罗亚"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 571,
+    "name": {
+      "english": "Zoroark",
+      "japanese": "ゾロアーク",
+      "chinese": "索罗亚克"
+    },
+    "type": [
+      "Dark"
+    ]
+  },
+  {
+    "id": 572,
+    "name": {
+      "english": "Minccino",
+      "japanese": "チラーミィ",
+      "chinese": "泡沫栗鼠"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 573,
+    "name": {
+      "english": "Cinccino",
+      "japanese": "チラチーノ",
+      "chinese": "奇诺栗鼠"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 574,
+    "name": {
+      "english": "Gothita",
+      "japanese": "ゴチム",
+      "chinese": "哥德宝宝"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 575,
+    "name": {
+      "english": "Gothorita",
+      "japanese": "ゴチミル",
+      "chinese": "哥德小童"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 576,
+    "name": {
+      "english": "Gothitelle",
+      "japanese": "ゴチルゼル",
+      "chinese": "哥德小姐"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 577,
+    "name": {
+      "english": "Solosis",
+      "japanese": "ユニラン",
+      "chinese": "单卵细胞球"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 578,
+    "name": {
+      "english": "Duosion",
+      "japanese": "ダブラン",
+      "chinese": "双卵细胞球"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 579,
+    "name": {
+      "english": "Reuniclus",
+      "japanese": "ランクルス",
+      "chinese": "人造细胞卵"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 580,
+    "name": {
+      "english": "Ducklett",
+      "japanese": "コアルヒー",
+      "chinese": "鸭宝宝"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 581,
+    "name": {
+      "english": "Swanna",
+      "japanese": "スワンナ",
+      "chinese": "舞天鹅"
+    },
+    "type": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "id": 582,
+    "name": {
+      "english": "Vanillite",
+      "japanese": "バニプッチ",
+      "chinese": "迷你冰"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 583,
+    "name": {
+      "english": "Vanillish",
+      "japanese": "バニリッチ",
+      "chinese": "多多冰"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 584,
+    "name": {
+      "english": "Vanilluxe",
+      "japanese": "バイバニラ",
+      "chinese": "双倍多多冰"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 585,
+    "name": {
+      "english": "Deerling",
+      "japanese": "シキジカ",
+      "chinese": "四季鹿"
+    },
+    "type": [
+      "Normal",
+      "Grass"
+    ]
+  },
+  {
+    "id": 586,
+    "name": {
+      "english": "Sawsbuck",
+      "japanese": "メブキジカ",
+      "chinese": "萌芽鹿"
+    },
+    "type": [
+      "Normal",
+      "Grass"
+    ]
+  },
+  {
+    "id": 587,
+    "name": {
+      "english": "Emolga",
+      "japanese": "エモンガ",
+      "chinese": "电飞鼠"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "id": 588,
+    "name": {
+      "english": "Karrablast",
+      "japanese": "カブルモ",
+      "chinese": "盖盖虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 589,
+    "name": {
+      "english": "Escavalier",
+      "japanese": "シュバルゴ",
+      "chinese": "骑士蜗牛"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "id": 590,
+    "name": {
+      "english": "Foongus",
+      "japanese": "タマゲタケ",
+      "chinese": "哎呀球菇"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 591,
+    "name": {
+      "english": "Amoonguss",
+      "japanese": "モロバレル",
+      "chinese": "败露球菇"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "id": 592,
+    "name": {
+      "english": "Frillish",
+      "japanese": "プルリル",
+      "chinese": "轻飘飘"
+    },
+    "type": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 593,
+    "name": {
+      "english": "Jellicent",
+      "japanese": "ブルンゲル",
+      "chinese": "胖嘟嘟"
+    },
+    "type": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 594,
+    "name": {
+      "english": "Alomomola",
+      "japanese": "ママンボウ",
+      "chinese": "保姆曼波"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 595,
+    "name": {
+      "english": "Joltik",
+      "japanese": "バチュル",
+      "chinese": "电电虫"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "id": 596,
+    "name": {
+      "english": "Galvantula",
+      "japanese": "デンチュラ",
+      "chinese": "电蜘蛛"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "id": 597,
+    "name": {
+      "english": "Ferroseed",
+      "japanese": "テッシード",
+      "chinese": "种子铁球"
+    },
+    "type": [
+      "Grass",
+      "Steel"
+    ]
+  },
+  {
+    "id": 598,
+    "name": {
+      "english": "Ferrothorn",
+      "japanese": "ナットレイ",
+      "chinese": "坚果哑铃"
+    },
+    "type": [
+      "Grass",
+      "Steel"
+    ]
+  },
+  {
+    "id": 599,
+    "name": {
+      "english": "Klink",
+      "japanese": "ギアル",
+      "chinese": "齿轮儿"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 600,
+    "name": {
+      "english": "Klang",
+      "japanese": "ギギアル",
+      "chinese": "齿轮组"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 601,
+    "name": {
+      "english": "Klinklang",
+      "japanese": "ギギギアル",
+      "chinese": "齿轮怪"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 602,
+    "name": {
+      "english": "Tynamo",
+      "japanese": "シビシラス",
+      "chinese": "麻麻小鱼"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 603,
+    "name": {
+      "english": "Eelektrik",
+      "japanese": "シビビール",
+      "chinese": "麻麻鳗"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 604,
+    "name": {
+      "english": "Eelektross",
+      "japanese": "シビルドン",
+      "chinese": "麻麻鳗鱼王"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 605,
+    "name": {
+      "english": "Elgyem",
+      "japanese": "リグレー",
+      "chinese": "小灰怪"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 606,
+    "name": {
+      "english": "Beheeyem",
+      "japanese": "オーベム",
+      "chinese": "大宇怪"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 607,
+    "name": {
+      "english": "Litwick",
+      "japanese": "ヒトモシ",
+      "chinese": "烛光灵"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "id": 608,
+    "name": {
+      "english": "Lampent",
+      "japanese": "ランプラー",
+      "chinese": "灯火幽灵"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "id": 609,
+    "name": {
+      "english": "Chandelure",
+      "japanese": "シャンデラ",
+      "chinese": "水晶灯火灵"
+    },
+    "type": [
+      "Ghost",
+      "Fire"
+    ]
+  },
+  {
+    "id": 610,
+    "name": {
+      "english": "Axew",
+      "japanese": "キバゴ",
+      "chinese": "牙牙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 611,
+    "name": {
+      "english": "Fraxure",
+      "japanese": "オノンド",
+      "chinese": "斧牙龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 612,
+    "name": {
+      "english": "Haxorus",
+      "japanese": "オノノクス",
+      "chinese": "双斧战龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 613,
+    "name": {
+      "english": "Cubchoo",
+      "japanese": "クマシュン",
+      "chinese": "喷嚏熊"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 614,
+    "name": {
+      "english": "Beartic",
+      "japanese": "ツンベアー",
+      "chinese": "冻原熊"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 615,
+    "name": {
+      "english": "Cryogonal",
+      "japanese": "フリージオ",
+      "chinese": "几何雪花"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 616,
+    "name": {
+      "english": "Shelmet",
+      "japanese": "チョボマキ",
+      "chinese": "小嘴蜗"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 617,
+    "name": {
+      "english": "Accelgor",
+      "japanese": "アギルダー",
+      "chinese": "敏捷虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 618,
+    "name": {
+      "english": "Stunfisk",
+      "japanese": "マッギョ",
+      "chinese": "泥巴鱼"
+    },
+    "type": [
+      "Ground",
+      "Electric"
+    ]
+  },
+  {
+    "id": 619,
+    "name": {
+      "english": "Mienfoo",
+      "japanese": "コジョフー",
+      "chinese": "功夫鼬"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 620,
+    "name": {
+      "english": "Mienshao",
+      "japanese": "コジョンド",
+      "chinese": "师父鼬"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 621,
+    "name": {
+      "english": "Druddigon",
+      "japanese": "クリムガン",
+      "chinese": "赤面龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 622,
+    "name": {
+      "english": "Golett",
+      "japanese": "ゴビット",
+      "chinese": "泥偶小人"
+    },
+    "type": [
+      "Ground",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 623,
+    "name": {
+      "english": "Golurk",
+      "japanese": "ゴルーグ",
+      "chinese": "泥偶巨人"
+    },
+    "type": [
+      "Ground",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 624,
+    "name": {
+      "english": "Pawniard",
+      "japanese": "コマタナ",
+      "chinese": "驹刀小兵"
+    },
+    "type": [
+      "Dark",
+      "Steel"
+    ]
+  },
+  {
+    "id": 625,
+    "name": {
+      "english": "Bisharp",
+      "japanese": "キリキザン",
+      "chinese": "劈斩司令"
+    },
+    "type": [
+      "Dark",
+      "Steel"
+    ]
+  },
+  {
+    "id": 626,
+    "name": {
+      "english": "Bouffalant",
+      "japanese": "バッフロン",
+      "chinese": "爆炸头水牛"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 627,
+    "name": {
+      "english": "Rufflet",
+      "japanese": "ワシボン",
+      "chinese": "毛头小鹰"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 628,
+    "name": {
+      "english": "Braviary",
+      "japanese": "ウォーグル",
+      "chinese": "勇士雄鹰"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 629,
+    "name": {
+      "english": "Vullaby",
+      "japanese": "バルチャイ",
+      "chinese": "秃鹰丫头"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "id": 630,
+    "name": {
+      "english": "Mandibuzz",
+      "japanese": "バルジーナ",
+      "chinese": "秃鹰娜"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "id": 631,
+    "name": {
+      "english": "Heatmor",
+      "japanese": "クイタラン",
+      "chinese": "熔蚁兽"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 632,
+    "name": {
+      "english": "Durant",
+      "japanese": "アイアント",
+      "chinese": "铁蚁"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "id": 633,
+    "name": {
+      "english": "Deino",
+      "japanese": "モノズ",
+      "chinese": "单首龙"
+    },
+    "type": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 634,
+    "name": {
+      "english": "Zweilous",
+      "japanese": "ジヘッド",
+      "chinese": "双首暴龙"
+    },
+    "type": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 635,
+    "name": {
+      "english": "Hydreigon",
+      "japanese": "サザンドラ",
+      "chinese": "三首恶龙"
+    },
+    "type": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 636,
+    "name": {
+      "english": "Larvesta",
+      "japanese": "メラルバ",
+      "chinese": "燃烧虫"
+    },
+    "type": [
+      "Bug",
+      "Fire"
+    ]
+  },
+  {
+    "id": 637,
+    "name": {
+      "english": "Volcarona",
+      "japanese": "ウルガモス",
+      "chinese": "火神蛾"
+    },
+    "type": [
+      "Bug",
+      "Fire"
+    ]
+  },
+  {
+    "id": 638,
+    "name": {
+      "english": "Cobalion",
+      "japanese": "コバルオン",
+      "chinese": "勾帕路翁"
+    },
+    "type": [
+      "Steel",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 639,
+    "name": {
+      "english": "Terrakion",
+      "japanese": "テラキオン",
+      "chinese": "代拉基翁"
+    },
+    "type": [
+      "Rock",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 640,
+    "name": {
+      "english": "Virizion",
+      "japanese": "ビリジオン",
+      "chinese": "毕力吉翁"
+    },
+    "type": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 641,
+    "name": {
+      "english": "Tornadus",
+      "japanese": "トルネロス",
+      "chinese": "龙卷云"
+    },
+    "type": [
+      "Flying"
+    ]
+  },
+  {
+    "id": 642,
+    "name": {
+      "english": "Thundurus",
+      "japanese": "ボルトロス",
+      "chinese": "雷电云"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "id": 643,
+    "name": {
+      "english": "Reshiram",
+      "japanese": "レシラム",
+      "chinese": "莱希拉姆"
+    },
+    "type": [
+      "Dragon",
+      "Fire"
+    ]
+  },
+  {
+    "id": 644,
+    "name": {
+      "english": "Zekrom ",
+      "japanese": "ゼクロム",
+      "chinese": "捷克罗姆"
+    },
+    "type": [
+      "Dragon",
+      "Electric"
+    ]
+  },
+  {
+    "id": 645,
+    "name": {
+      "english": "Landorus",
+      "japanese": "ランドロス",
+      "chinese": "土地云"
+    },
+    "type": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  {
+    "id": 646,
+    "name": {
+      "english": "Kyurem",
+      "japanese": "キュレム",
+      "chinese": "酋雷姆"
+    },
+    "type": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "id": 647,
+    "name": {
+      "english": "Keldeo",
+      "japanese": "ケルディオ",
+      "chinese": "凯路迪欧"
+    },
+    "type": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 648,
+    "name": {
+      "english": "Meloetta",
+      "japanese": "メロエッタ",
+      "chinese": "美洛耶塔"
+    },
+    "type": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 649,
+    "name": {
+      "english": "Genesect",
+      "japanese": "ゲノセクト",
+      "chinese": "盖诺赛克特"
+    },
+    "type": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "id": 650,
+    "name": {
+      "english": "Chespin",
+      "japanese": "ハリマロン",
+      "chinese": "哈力栗"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 651,
+    "name": {
+      "english": "Quilladin",
+      "japanese": "ハリボーグ",
+      "chinese": "胖胖哈力"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 652,
+    "name": {
+      "english": "Chesnaught",
+      "japanese": "ブリガロン",
+      "chinese": "布里卡隆"
+    },
+    "type": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 653,
+    "name": {
+      "english": "Fennekin",
+      "japanese": "フォッコ",
+      "chinese": "火狐狸"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 654,
+    "name": {
+      "english": "Braixen",
+      "japanese": "テールナー",
+      "chinese": "长尾火狐"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 655,
+    "name": {
+      "english": "Delphox",
+      "japanese": "マフォクシー",
+      "chinese": "妖火红狐"
+    },
+    "type": [
+      "Fire",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 656,
+    "name": {
+      "english": "Froakie",
+      "japanese": "ケロマツ",
+      "chinese": "呱呱泡蛙"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 657,
+    "name": {
+      "english": "Frogadier",
+      "japanese": "ゲコガシラ",
+      "chinese": "呱头蛙"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 658,
+    "name": {
+      "english": "Greninja",
+      "japanese": "ゲッコウガ",
+      "chinese": "甲贺忍蛙"
+    },
+    "type": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "id": 659,
+    "name": {
+      "english": "Bunnelby",
+      "japanese": "ホルビー",
+      "chinese": "掘掘兔"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 660,
+    "name": {
+      "english": "Diggersby",
+      "japanese": "ホルード",
+      "chinese": "掘地兔"
+    },
+    "type": [
+      "Normal",
+      "Ground"
+    ]
+  },
+  {
+    "id": 661,
+    "name": {
+      "english": "Fletchling",
+      "japanese": "ヤヤコマ",
+      "chinese": "小箭雀"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 662,
+    "name": {
+      "english": "Fletchinder",
+      "japanese": "ヒノヤコマ",
+      "chinese": "火箭雀"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 663,
+    "name": {
+      "english": "Talonflame",
+      "japanese": "ファイアロー",
+      "chinese": "烈箭鹰"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 664,
+    "name": {
+      "english": "Scatterbug",
+      "japanese": "コフキムシ",
+      "chinese": "粉蝶虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 665,
+    "name": {
+      "english": "Spewpa",
+      "japanese": "コフーライ",
+      "chinese": "粉蝶蛹"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 666,
+    "name": {
+      "english": "Vivillon",
+      "japanese": "ビビヨン",
+      "chinese": "彩粉蝶"
+    },
+    "type": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "id": 667,
+    "name": {
+      "english": "Litleo",
+      "japanese": "シシコ",
+      "chinese": "小狮狮"
+    },
+    "type": [
+      "Fire",
+      "Normal"
+    ]
+  },
+  {
+    "id": 668,
+    "name": {
+      "english": "Pyroar",
+      "japanese": "カエンジシ",
+      "chinese": "火炎狮"
+    },
+    "type": [
+      "Fire",
+      "Normal"
+    ]
+  },
+  {
+    "id": 669,
+    "name": {
+      "english": "Flabébé",
+      "japanese": "フラベベ",
+      "chinese": "花蓓蓓"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 670,
+    "name": {
+      "english": "Floette",
+      "japanese": "フラエッテ",
+      "chinese": "花叶蒂"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 671,
+    "name": {
+      "english": "Florges",
+      "japanese": "フラージェス",
+      "chinese": "花洁夫人"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 672,
+    "name": {
+      "english": "Skiddo",
+      "japanese": "メェークル",
+      "chinese": "坐骑小羊"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 673,
+    "name": {
+      "english": "Gogoat",
+      "japanese": "ゴーゴート",
+      "chinese": "坐骑山羊"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 674,
+    "name": {
+      "english": "Pancham",
+      "japanese": "ヤンチャム",
+      "chinese": "顽皮熊猫"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 675,
+    "name": {
+      "english": "Pangoro",
+      "japanese": "ゴロンダ",
+      "chinese": "流氓熊猫"
+    },
+    "type": [
+      "Fighting",
+      "Dark"
+    ]
+  },
+  {
+    "id": 676,
+    "name": {
+      "english": "Furfrou",
+      "japanese": "トリミアン",
+      "chinese": "多丽米亚"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 677,
+    "name": {
+      "english": "Espurr",
+      "japanese": "ニャスパー",
+      "chinese": "妙喵"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 678,
+    "name": {
+      "english": "Meowstic",
+      "japanese": "ニャオニクス",
+      "chinese": "超能妙喵"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 679,
+    "name": {
+      "english": "Honedge",
+      "japanese": "ヒトツキ",
+      "chinese": "独剑鞘"
+    },
+    "type": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 680,
+    "name": {
+      "english": "Doublade",
+      "japanese": "ニダンギル",
+      "chinese": "双剑鞘"
+    },
+    "type": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 681,
+    "name": {
+      "english": "Aegislash",
+      "japanese": "ギルガルド",
+      "chinese": "坚盾剑怪"
+    },
+    "type": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 682,
+    "name": {
+      "english": "Spritzee",
+      "japanese": "シュシュプ",
+      "chinese": "粉香香"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 683,
+    "name": {
+      "english": "Aromatisse",
+      "japanese": "フレフワン",
+      "chinese": "芳香精"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 684,
+    "name": {
+      "english": "Swirlix",
+      "japanese": "ペロッパフ",
+      "chinese": "绵绵泡芙"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 685,
+    "name": {
+      "english": "Slurpuff",
+      "japanese": "ペロリーム",
+      "chinese": "胖甜妮"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 686,
+    "name": {
+      "english": "Inkay",
+      "japanese": "マーイーカ",
+      "chinese": "好啦鱿"
+    },
+    "type": [
+      "Dark",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 687,
+    "name": {
+      "english": "Malamar",
+      "japanese": "カラマネロ",
+      "chinese": "乌贼王"
+    },
+    "type": [
+      "Dark",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 688,
+    "name": {
+      "english": "Binacle",
+      "japanese": "カメテテ",
+      "chinese": "龟脚脚"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 689,
+    "name": {
+      "english": "Barbaracle",
+      "japanese": "ガメノデス",
+      "chinese": "龟足巨铠"
+    },
+    "type": [
+      "Rock",
+      "Water"
+    ]
+  },
+  {
+    "id": 690,
+    "name": {
+      "english": "Skrelp",
+      "japanese": "クズモー",
+      "chinese": "垃垃藻"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "id": 691,
+    "name": {
+      "english": "Dragalge",
+      "japanese": "ドラミドロ",
+      "chinese": "毒藻龙"
+    },
+    "type": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 692,
+    "name": {
+      "english": "Clauncher",
+      "japanese": "ウデッポウ",
+      "chinese": "铁臂枪虾"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 693,
+    "name": {
+      "english": "Clawitzer",
+      "japanese": "ブロスター",
+      "chinese": "钢炮臂虾"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 694,
+    "name": {
+      "english": "Helioptile",
+      "japanese": "エリキテル",
+      "chinese": "伞电蜥"
+    },
+    "type": [
+      "Electric",
+      "Normal"
+    ]
+  },
+  {
+    "id": 695,
+    "name": {
+      "english": "Heliolisk",
+      "japanese": "エレザード",
+      "chinese": "光电伞蜥"
+    },
+    "type": [
+      "Electric",
+      "Normal"
+    ]
+  },
+  {
+    "id": 696,
+    "name": {
+      "english": "Tyrunt",
+      "japanese": "チゴラス",
+      "chinese": "宝宝暴龙"
+    },
+    "type": [
+      "Rock",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 697,
+    "name": {
+      "english": "Tyrantrum",
+      "japanese": "ガチゴラス",
+      "chinese": "怪颚龙"
+    },
+    "type": [
+      "Rock",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 698,
+    "name": {
+      "english": "Amaura",
+      "japanese": "アマルス",
+      "chinese": "冰雪龙"
+    },
+    "type": [
+      "Rock",
+      "Ice"
+    ]
+  },
+  {
+    "id": 699,
+    "name": {
+      "english": "Aurorus",
+      "japanese": "アマルルガ",
+      "chinese": "冰雪巨龙"
+    },
+    "type": [
+      "Rock",
+      "Ice"
+    ]
+  },
+  {
+    "id": 700,
+    "name": {
+      "english": "Sylveon",
+      "japanese": "ニンフィア",
+      "chinese": "仙子伊布"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 701,
+    "name": {
+      "english": "Hawlucha",
+      "japanese": "ルチャブル",
+      "chinese": "摔角鹰人"
+    },
+    "type": [
+      "Fighting",
+      "Flying"
+    ]
+  },
+  {
+    "id": 702,
+    "name": {
+      "english": "Dedenne",
+      "japanese": "デデンネ",
+      "chinese": "咚咚鼠"
+    },
+    "type": [
+      "Electric",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 703,
+    "name": {
+      "english": "Carbink",
+      "japanese": "メレシー",
+      "chinese": "小碎钻"
+    },
+    "type": [
+      "Rock",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 704,
+    "name": {
+      "english": "Goomy",
+      "japanese": "ヌメラ",
+      "chinese": "黏黏宝"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 705,
+    "name": {
+      "english": "Sliggoo",
+      "japanese": "ヌメイル",
+      "chinese": "黏美儿"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 706,
+    "name": {
+      "english": "Goodra",
+      "japanese": "ヌメルゴン",
+      "chinese": "黏美龙"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 707,
+    "name": {
+      "english": "Klefki",
+      "japanese": "クレッフィ",
+      "chinese": "钥圈儿"
+    },
+    "type": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 708,
+    "name": {
+      "english": "Phantump",
+      "japanese": "ボクレー",
+      "chinese": "小木灵"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "id": 709,
+    "name": {
+      "english": "Trevenant",
+      "japanese": "オーロット",
+      "chinese": "朽木妖"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "id": 710,
+    "name": {
+      "english": "Pumpkaboo",
+      "japanese": "バケッチャ",
+      "chinese": "南瓜精"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "id": 711,
+    "name": {
+      "english": "Gourgeist",
+      "japanese": "パンプジン",
+      "chinese": "南瓜怪人"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "id": 712,
+    "name": {
+      "english": "Bergmite",
+      "japanese": "カチコール",
+      "chinese": "冰宝"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 713,
+    "name": {
+      "english": "Avalugg",
+      "japanese": "クレベース",
+      "chinese": "冰岩怪"
+    },
+    "type": [
+      "Ice"
+    ]
+  },
+  {
+    "id": 714,
+    "name": {
+      "english": "Noibat",
+      "japanese": "オンバット",
+      "chinese": "嗡蝠"
+    },
+    "type": [
+      "Flying",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 715,
+    "name": {
+      "english": "Noivern",
+      "japanese": "オンバーン",
+      "chinese": "音波龙"
+    },
+    "type": [
+      "Flying",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 716,
+    "name": {
+      "english": "Xerneas",
+      "japanese": "ゼルネアス",
+      "chinese": "哲尔尼亚斯"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 717,
+    "name": {
+      "english": "Yveltal",
+      "japanese": "イベルタル",
+      "chinese": "伊裴尔塔尔"
+    },
+    "type": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "id": 718,
+    "name": {
+      "english": "Zygarde",
+      "japanese": "ジガルデ",
+      "chinese": "基格尔德"
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  {
+    "id": 719,
+    "name": {
+      "english": "Diancie",
+      "japanese": "ディアンシー",
+      "chinese": "蒂安希"
+    },
+    "type": [
+      "Rock",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 720,
+    "name": {
+      "english": "Hoopa",
+      "japanese": "フーパ",
+      "chinese": "胡帕"
+    },
+    "type": [
+      "Psychic",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 721,
+    "name": {
+      "english": "Volcanion",
+      "japanese": "ボルケニオン",
+      "chinese": "波尔凯尼恩"
+    },
+    "type": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "id": 722,
+    "name": {
+      "english": "Rowlet",
+      "japanese": "モクロー",
+      "chinese": "木木枭"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 723,
+    "name": {
+      "english": "Dartrix",
+      "japanese": "フクスロー",
+      "chinese": "投羽枭"
+    },
+    "type": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "id": 724,
+    "name": {
+      "english": "Decidueye",
+      "japanese": "ジュナイパー",
+      "chinese": "狙射树枭"
+    },
+    "type": [
+      "Grass",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 725,
+    "name": {
+      "english": "Litten",
+      "japanese": "ニャビー",
+      "chinese": "火斑喵"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 726,
+    "name": {
+      "english": "Torracat",
+      "japanese": "ニャヒート",
+      "chinese": "炎热喵"
+    },
+    "type": [
+      "Fire"
+    ]
+  },
+  {
+    "id": 727,
+    "name": {
+      "english": "Incineroar",
+      "japanese": "ガオガエン",
+      "chinese": "炽焰咆哮虎"
+    },
+    "type": [
+      "Fire",
+      "Dark"
+    ]
+  },
+  {
+    "id": 728,
+    "name": {
+      "english": "Popplio",
+      "japanese": "アシマリ",
+      "chinese": "球球海狮"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 729,
+    "name": {
+      "english": "Brionne",
+      "japanese": "オシャマリ",
+      "chinese": "花漾海狮"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 730,
+    "name": {
+      "english": "Primarina",
+      "japanese": "アシレーヌ",
+      "chinese": "西狮海壬"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 731,
+    "name": {
+      "english": "Pikipek",
+      "japanese": "ツツケラ",
+      "chinese": "小笃儿"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 732,
+    "name": {
+      "english": "Trumbeak",
+      "japanese": "ケララッパ",
+      "chinese": "喇叭啄鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 733,
+    "name": {
+      "english": "Toucannon",
+      "japanese": "ドデカバシ",
+      "chinese": "铳嘴大鸟"
+    },
+    "type": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "id": 734,
+    "name": {
+      "english": "Yungoos",
+      "japanese": "ヤングース",
+      "chinese": "猫鼬少"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 735,
+    "name": {
+      "english": "Gumshoos",
+      "japanese": "デカグース",
+      "chinese": "猫鼬探长"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 736,
+    "name": {
+      "english": "Grubbin",
+      "japanese": "アゴジムシ",
+      "chinese": "强颚鸡母虫"
+    },
+    "type": [
+      "Bug"
+    ]
+  },
+  {
+    "id": 737,
+    "name": {
+      "english": "Charjabug",
+      "japanese": "デンヂムシ",
+      "chinese": "虫电宝"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "id": 738,
+    "name": {
+      "english": "Vikavolt",
+      "japanese": "クワガノン",
+      "chinese": "锹农炮虫"
+    },
+    "type": [
+      "Bug",
+      "Electric"
+    ]
+  },
+  {
+    "id": 739,
+    "name": {
+      "english": "Crabrawler",
+      "japanese": "マケンカニ",
+      "chinese": "好胜蟹"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 740,
+    "name": {
+      "english": "Crabominable",
+      "japanese": "ケケンカニ",
+      "chinese": "好胜毛蟹"
+    },
+    "type": [
+      "Fighting",
+      "Ice"
+    ]
+  },
+  {
+    "id": 741,
+    "name": {
+      "english": "Oricorio",
+      "japanese": "オドリドリ",
+      "chinese": "花舞鸟"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  {
+    "id": 742,
+    "name": {
+      "english": "Cutiefly",
+      "japanese": "アブリー",
+      "chinese": "萌虻"
+    },
+    "type": [
+      "Bug",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 743,
+    "name": {
+      "english": "Ribombee",
+      "japanese": "アブリボン",
+      "chinese": "蝶结萌虻"
+    },
+    "type": [
+      "Bug",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 744,
+    "name": {
+      "english": "Rockruff",
+      "japanese": "イワンコ",
+      "chinese": "岩狗狗"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 745,
+    "name": {
+      "english": "Lycanroc",
+      "japanese": "ルガルガン",
+      "chinese": "鬃岩狼人"
+    },
+    "type": [
+      "Rock"
+    ]
+  },
+  {
+    "id": 746,
+    "name": {
+      "english": "Wishiwashi",
+      "japanese": "ヨワシ",
+      "chinese": "弱丁鱼"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 747,
+    "name": {
+      "english": "Mareanie",
+      "japanese": "ヒドイデ",
+      "chinese": "好坏星"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "id": 748,
+    "name": {
+      "english": "Toxapex",
+      "japanese": "ドヒドイデ",
+      "chinese": "超坏星"
+    },
+    "type": [
+      "Poison",
+      "Water"
+    ]
+  },
+  {
+    "id": 749,
+    "name": {
+      "english": "Mudbray",
+      "japanese": "ドロバンコ",
+      "chinese": "泥驴仔"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 750,
+    "name": {
+      "english": "Mudsdale",
+      "japanese": "バンバドロ",
+      "chinese": "重泥挽马"
+    },
+    "type": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 751,
+    "name": {
+      "english": "Dewpider",
+      "japanese": "シズクモ",
+      "chinese": "滴蛛"
+    },
+    "type": [
+      "Water",
+      "Bug"
+    ]
+  },
+  {
+    "id": 752,
+    "name": {
+      "english": "Araquanid",
+      "japanese": "オニシズクモ",
+      "chinese": "滴蛛霸"
+    },
+    "type": [
+      "Water",
+      "Bug"
+    ]
+  },
+  {
+    "id": 753,
+    "name": {
+      "english": "Fomantis",
+      "japanese": "カリキリ",
+      "chinese": "伪螳草"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 754,
+    "name": {
+      "english": "Lurantis",
+      "japanese": "ラランテス",
+      "chinese": "兰螳花"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 755,
+    "name": {
+      "english": "Morelull",
+      "japanese": "ネマシュ",
+      "chinese": "睡睡菇"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 756,
+    "name": {
+      "english": "Shiinotic",
+      "japanese": "マシェード",
+      "chinese": "灯罩夜菇"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 757,
+    "name": {
+      "english": "Salandit",
+      "japanese": "ヤトウモリ",
+      "chinese": "夜盗火蜥"
+    },
+    "type": [
+      "Poison",
+      "Fire"
+    ]
+  },
+  {
+    "id": 758,
+    "name": {
+      "english": "Salazzle",
+      "japanese": "エンニュート",
+      "chinese": "焰后蜥"
+    },
+    "type": [
+      "Poison",
+      "Fire"
+    ]
+  },
+  {
+    "id": 759,
+    "name": {
+      "english": "Stufful",
+      "japanese": "ヌイコグマ",
+      "chinese": "童偶熊"
+    },
+    "type": [
+      "Normal",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 760,
+    "name": {
+      "english": "Bewear",
+      "japanese": "キテルグマ",
+      "chinese": "穿着熊"
+    },
+    "type": [
+      "Normal",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 761,
+    "name": {
+      "english": "Bounsweet",
+      "japanese": "アマカジ",
+      "chinese": "甜竹竹"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 762,
+    "name": {
+      "english": "Steenee",
+      "japanese": "アママイコ",
+      "chinese": "甜舞妮"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 763,
+    "name": {
+      "english": "Tsareena",
+      "japanese": "アマージョ",
+      "chinese": "甜冷美后"
+    },
+    "type": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 764,
+    "name": {
+      "english": "Comfey",
+      "japanese": "キュワワー",
+      "chinese": "花疗环环"
+    },
+    "type": [
+      "Fairy"
+    ]
+  },
+  {
+    "id": 765,
+    "name": {
+      "english": "Oranguru",
+      "japanese": "ヤレユータン",
+      "chinese": "智挥猩"
+    },
+    "type": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 766,
+    "name": {
+      "english": "Passimian",
+      "japanese": "ナゲツケサル",
+      "chinese": "投掷猴"
+    },
+    "type": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 767,
+    "name": {
+      "english": "Wimpod",
+      "japanese": "コソクムシ",
+      "chinese": "胆小虫"
+    },
+    "type": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "id": 768,
+    "name": {
+      "english": "Golisopod",
+      "japanese": "グソクムシャ",
+      "chinese": "具甲武者"
+    },
+    "type": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "id": 769,
+    "name": {
+      "english": "Sandygast",
+      "japanese": "スナバァ",
+      "chinese": "沙丘娃"
+    },
+    "type": [
+      "Ghost",
+      "Ground"
+    ]
+  },
+  {
+    "id": 770,
+    "name": {
+      "english": "Palossand",
+      "japanese": "シロデスナ",
+      "chinese": "噬沙堡爷"
+    },
+    "type": [
+      "Ghost",
+      "Ground"
+    ]
+  },
+  {
+    "id": 771,
+    "name": {
+      "english": "Pyukumuku",
+      "japanese": "ナマコブシ",
+      "chinese": "拳海参"
+    },
+    "type": [
+      "Water"
+    ]
+  },
+  {
+    "id": 772,
+    "name": {
+      "english": "Type: Null",
+      "japanese": "タイプ：ヌル",
+      "chinese": "属性：空"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 773,
+    "name": {
+      "english": "Silvally",
+      "japanese": "シルヴァディ",
+      "chinese": "银伴战兽"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 774,
+    "name": {
+      "english": "Minior",
+      "japanese": "メテノ",
+      "chinese": "小陨星"
+    },
+    "type": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  {
+    "id": 775,
+    "name": {
+      "english": "Komala",
+      "japanese": "ネッコアラ",
+      "chinese": "树枕尾熊"
+    },
+    "type": [
+      "Normal"
+    ]
+  },
+  {
+    "id": 776,
+    "name": {
+      "english": "Turtonator",
+      "japanese": "バクガメス",
+      "chinese": "爆焰龟兽"
+    },
+    "type": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 777,
+    "name": {
+      "english": "Togedemaru",
+      "japanese": "トゲデマル",
+      "chinese": "托戈德玛尔"
+    },
+    "type": [
+      "Electric",
+      "Steel"
+    ]
+  },
+  {
+    "id": 778,
+    "name": {
+      "english": "Mimikyu",
+      "japanese": "ミミッキュ",
+      "chinese": "谜拟Ｑ"
+    },
+    "type": [
+      "Ghost",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 779,
+    "name": {
+      "english": "Bruxish",
+      "japanese": "ハギギシリ",
+      "chinese": "磨牙彩皮鱼"
+    },
+    "type": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 780,
+    "name": {
+      "english": "Drampa",
+      "japanese": "ジジーロン",
+      "chinese": "老翁龙"
+    },
+    "type": [
+      "Normal",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 781,
+    "name": {
+      "english": "Dhelmise",
+      "japanese": "ダダリン",
+      "chinese": "破破舵轮"
+    },
+    "type": [
+      "Ghost",
+      "Grass"
+    ]
+  },
+  {
+    "id": 782,
+    "name": {
+      "english": "Jangmo-o",
+      "japanese": "ジャラコ",
+      "chinese": "心鳞宝"
+    },
+    "type": [
+      "Dragon"
+    ]
+  },
+  {
+    "id": 783,
+    "name": {
+      "english": "Hakamo-o",
+      "japanese": "ジャランゴ",
+      "chinese": "鳞甲龙"
+    },
+    "type": [
+      "Dragon",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 784,
+    "name": {
+      "english": "Kommo-o",
+      "japanese": "ジャラランガ",
+      "chinese": "杖尾鳞甲龙"
+    },
+    "type": [
+      "Dragon",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 785,
+    "name": {
+      "english": "Tapu Koko",
+      "japanese": "カプ・コケコ",
+      "chinese": "卡璞・鸣鸣"
+    },
+    "type": [
+      "Electric",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 786,
+    "name": {
+      "english": "Tapu Lele",
+      "japanese": "カプ・テテフ",
+      "chinese": "卡璞・蝶蝶"
+    },
+    "type": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 787,
+    "name": {
+      "english": "Tapu Bulu",
+      "japanese": "カプ・ブルル",
+      "chinese": "卡璞・哞哞"
+    },
+    "type": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 788,
+    "name": {
+      "english": "Tapu Fini",
+      "japanese": "カプ・レヒレ",
+      "chinese": "卡璞・鳍鳍"
+    },
+    "type": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 789,
+    "name": {
+      "english": "Cosmog",
+      "japanese": "コスモッグ",
+      "chinese": "科斯莫古"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 790,
+    "name": {
+      "english": "Cosmoem",
+      "japanese": "コスモウム",
+      "chinese": "科斯莫姆"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 791,
+    "name": {
+      "english": "Solgaleo",
+      "japanese": "ソルガレオ",
+      "chinese": "索尔迦雷欧"
+    },
+    "type": [
+      "Psychic",
+      "Steel"
+    ]
+  },
+  {
+    "id": 792,
+    "name": {
+      "english": "Lunala",
+      "japanese": "ルナアーラ",
+      "chinese": "露奈雅拉"
+    },
+    "type": [
+      "Psychic",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 793,
+    "name": {
+      "english": "Nihilego",
+      "japanese": "ウツロイド",
+      "chinese": "虚吾伊德"
+    },
+    "type": [
+      "Rock",
+      "Poison"
+    ]
+  },
+  {
+    "id": 794,
+    "name": {
+      "english": "Buzzwole",
+      "japanese": "マッシブーン",
+      "chinese": "爆肌蚊"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 795,
+    "name": {
+      "english": "Pheromosa",
+      "japanese": "フェローチェ",
+      "chinese": "费洛美螂"
+    },
+    "type": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "id": 796,
+    "name": {
+      "english": "Xurkitree",
+      "japanese": "デンジュモク",
+      "chinese": "电束木"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 797,
+    "name": {
+      "english": "Celesteela",
+      "japanese": "テッカグヤ",
+      "chinese": "铁火辉夜"
+    },
+    "type": [
+      "Steel",
+      "Flying"
+    ]
+  },
+  {
+    "id": 798,
+    "name": {
+      "english": "Kartana",
+      "japanese": "カミツルギ",
+      "chinese": "纸御剑"
+    },
+    "type": [
+      "Grass",
+      "Steel"
+    ]
+  },
+  {
+    "id": 799,
+    "name": {
+      "english": "Guzzlord",
+      "japanese": "アクジキング",
+      "chinese": "恶食大王"
+    },
+    "type": [
+      "Dark",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 800,
+    "name": {
+      "english": "Necrozma",
+      "japanese": "ネクロズマ",
+      "chinese": "奈克洛兹玛"
+    },
+    "type": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": 801,
+    "name": {
+      "english": "Magearna",
+      "japanese": "マギアナ",
+      "chinese": "玛机雅娜"
+    },
+    "type": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 802,
+    "name": {
+      "english": "Marshadow",
+      "japanese": "マーシャドー",
+      "chinese": "玛夏多"
+    },
+    "type": [
+      "Fighting",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 803,
+    "name": {
+      "english": "Poipole",
+      "japanese": "ベベノム",
+      "chinese": "毒贝比"
+    },
+    "type": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 804,
+    "name": {
+      "english": "Naganadel",
+      "japanese": "アーゴヨン",
+      "chinese": "四颚针龙"
+    },
+    "type": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 805,
+    "name": {
+      "english": "Stakataka",
+      "japanese": "ツンデツンデ",
+      "chinese": "垒磊石"
+    },
+    "type": [
+      "Rock",
+      "Steel"
+    ]
+  },
+  {
+    "id": 806,
+    "name": {
+      "english": "Blacephalon",
+      "japanese": "ズガドーン",
+      "chinese": "砰头小丑"
+    },
+    "type": [
+      "Fire",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 807,
+    "name": {
+      "english": "Zeraora",
+      "japanese": "ゼラオラ",
+      "chinese": "捷拉奥拉"
+    },
+    "type": [
+      "Electric"
+    ]
+  },
+  {
+    "id": 808,
+    "name": {
+      "english": "Meltan",
+      "japanese": "メルタン",
+      "chinese": "美录坦"
+    },
+    "type": [
+      "Steel"
+    ]
+  },
+  {
+    "id": 809,
+    "name": {
+      "english": "Melmetal",
+      "japanese": "メルメタル",
+      "chinese": "美录梅塔"
+    },
+    "type": [
+      "Steel"
+    ]
+  }
+]

@@ -8,7 +8,7 @@
         "jname": "\u306f\u305f\u304f", 
         "power": 40, 
         "pp": 35, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -19,7 +19,7 @@
         "jname": "\u304b\u3089\u3066\u30c1\u30e7\u30c3\u30d7", 
         "power": 50, 
         "pp": 25, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -30,7 +30,7 @@
         "jname": "\u304a\u3046\u3075\u304f\u30d3\u30f3\u30bf", 
         "power": 15, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -41,7 +41,7 @@
         "jname": "\u308c\u3093\u305e\u304f\u30d1\u30f3\u30c1", 
         "power": 18, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -52,7 +52,7 @@
         "jname": "\u30e1\u30ac\u30c8\u30f3\u30d1\u30f3\u30c1", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -63,7 +63,7 @@
         "jname": "\u30cd\u30b3\u306b\u3053\u3070\u3093", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -74,7 +74,7 @@
         "jname": "\u307b\u306e\u304a\u306e\u30d1\u30f3\u30c1", 
         "power": 75, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -85,7 +85,7 @@
         "jname": "\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1", 
         "power": 75, 
         "pp": 15, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -96,7 +96,7 @@
         "jname": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1", 
         "power": 75, 
         "pp": 15, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -107,7 +107,7 @@
         "jname": "\u3072\u3063\u304b\u304f", 
         "power": 40, 
         "pp": 35, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -118,7 +118,7 @@
         "jname": "\u306f\u3055\u3080", 
         "power": 55, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 30, 
@@ -129,7 +129,7 @@
         "jname": "\u30cf\u30b5\u30df\u30ae\u30ed\u30c1\u30f3", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -140,7 +140,7 @@
         "jname": "\u304b\u307e\u3044\u305f\u3061", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -152,7 +152,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 75, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -163,7 +163,7 @@
         "jname": "\u3044\u3042\u3044\u304e\u308a", 
         "power": 50, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -174,7 +174,7 @@
         "jname": "\u304b\u305c\u304a\u3053\u3057", 
         "power": 40, 
         "pp": 35, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -185,7 +185,7 @@
         "jname": "\u3064\u3070\u3055\u3067\u3046\u3064", 
         "power": 60, 
         "pp": 35, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -196,7 +196,7 @@
         "jname": "\u3075\u304d\u3068\u3070\u3057", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -207,7 +207,7 @@
         "jname": "\u305d\u3089\u3092\u3068\u3076", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -218,7 +218,7 @@
         "jname": "\u3057\u3081\u3064\u3051\u308b", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 75, 
@@ -229,7 +229,7 @@
         "jname": "\u305f\u305f\u304d\u3064\u3051\u308b", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -240,7 +240,7 @@
         "jname": "\u3064\u308b\u306e\u30e0\u30c1", 
         "power": 45, 
         "pp": 25, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -251,7 +251,7 @@
         "jname": "\u3075\u307f\u3064\u3051", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -262,7 +262,7 @@
         "jname": "\u306b\u3069\u3052\u308a", 
         "power": 30, 
         "pp": 30, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 75, 
@@ -273,7 +273,7 @@
         "jname": "\u30e1\u30ac\u30c8\u30f3\u30ad\u30c3\u30af", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -284,7 +284,7 @@
         "jname": "\u3068\u3073\u3052\u308a", 
         "power": 130, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -295,7 +295,7 @@
         "jname": "\u307e\u308f\u3057\u3052\u308a", 
         "power": 60, 
         "pp": 15, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -306,7 +306,7 @@
         "jname": "\u3059\u306a\u304b\u3051", 
         "power": null, 
         "pp": 15, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 100, 
@@ -317,7 +317,7 @@
         "jname": "\u305a\u3064\u304d", 
         "power": 70, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -328,7 +328,7 @@
         "jname": "\u3064\u306e\u3067\u3064\u304f", 
         "power": 65, 
         "pp": 25, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -339,7 +339,7 @@
         "jname": "\u307f\u3060\u308c\u3065\u304d", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 30, 
@@ -350,7 +350,7 @@
         "jname": "\u3064\u306e\u30c9\u30ea\u30eb", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -361,7 +361,7 @@
         "jname": "\u305f\u3044\u3042\u305f\u308a", 
         "power": 50, 
         "pp": 35, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -372,7 +372,7 @@
         "jname": "\u306e\u3057\u304b\u304b\u308a", 
         "power": 85, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -383,7 +383,7 @@
         "jname": "\u307e\u304d\u3064\u304f", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -394,7 +394,7 @@
         "jname": "\u3068\u3063\u3057\u3093", 
         "power": 90, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -405,7 +405,7 @@
         "jname": "\u3042\u3070\u308c\u308b", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -416,7 +416,7 @@
         "jname": "\u3059\u3066\u307f\u30bf\u30c3\u30af\u30eb", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -427,7 +427,7 @@
         "jname": "\u3057\u3063\u307d\u3092\u3075\u308b", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -438,7 +438,7 @@
         "jname": "\u3069\u304f\u3070\u308a", 
         "power": 15, 
         "pp": 35, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -449,7 +449,7 @@
         "jname": "\u30c0\u30d6\u30eb\u30cb\u30fc\u30c9\u30eb", 
         "power": 25, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 95, 
@@ -460,7 +460,7 @@
         "jname": "\u30df\u30b5\u30a4\u30eb\u3070\u308a", 
         "power": 25, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -471,7 +471,7 @@
         "jname": "\u306b\u3089\u307f\u3064\u3051\u308b", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -482,7 +482,7 @@
         "jname": "\u304b\u307f\u3064\u304f", 
         "power": 60, 
         "pp": 25, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -493,7 +493,7 @@
         "jname": "\u306a\u304d\u3054\u3048", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -505,7 +505,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 55, 
@@ -516,7 +516,7 @@
         "jname": "\u3046\u305f\u3046", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 55, 
@@ -527,7 +527,7 @@
         "jname": "\u3061\u3087\u3046\u304a\u3093\u3071", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -538,7 +538,7 @@
         "jname": "\u30bd\u30cb\u30c3\u30af\u30d6\u30fc\u30e0", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -549,7 +549,7 @@
         "jname": "\u304b\u306a\u3057\u3070\u308a", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -560,7 +560,7 @@
         "jname": "\u3088\u3046\u304b\u3044\u3048\u304d", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -571,7 +571,7 @@
         "jname": "\u3072\u306e\u3053", 
         "power": 40, 
         "pp": 25, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -583,7 +583,7 @@
         "power": 90, 
         "pp": 15, 
         "tm": 35, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -594,7 +594,7 @@
         "jname": "\u3057\u308d\u3044\u304d\u308a", 
         "power": null, 
         "pp": 30, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -605,7 +605,7 @@
         "jname": "\u307f\u305a\u3067\u3063\u307d\u3046", 
         "power": 40, 
         "pp": 25, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 80, 
@@ -616,7 +616,7 @@
         "jname": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7", 
         "power": 110, 
         "pp": 5, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -627,7 +627,7 @@
         "jname": "\u306a\u307f\u306e\u308a", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -639,7 +639,7 @@
         "power": 90, 
         "pp": 10, 
         "tm": 13, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 70, 
@@ -651,7 +651,7 @@
         "power": 110, 
         "pp": 5, 
         "tm": 14, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -662,7 +662,7 @@
         "jname": "\u30b5\u30a4\u30b1\u3053\u3046\u305b\u3093", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -673,7 +673,7 @@
         "jname": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -684,7 +684,7 @@
         "jname": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 90, 
@@ -696,7 +696,7 @@
         "power": 150, 
         "pp": 5, 
         "tm": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -707,7 +707,7 @@
         "jname": "\u3064\u3064\u304f", 
         "power": 35, 
         "pp": 35, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -718,7 +718,7 @@
         "jname": "\u30c9\u30ea\u30eb\u304f\u3061\u3070\u3057", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 80, 
@@ -729,7 +729,7 @@
         "jname": "\u3058\u3054\u304f\u3050\u308b\u307e", 
         "power": 80, 
         "pp": 25, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -740,7 +740,7 @@
         "jname": "\u3051\u305f\u3050\u308a", 
         "power": null, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -751,7 +751,7 @@
         "jname": "\u30ab\u30a6\u30f3\u30bf\u30fc", 
         "power": null, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -762,7 +762,7 @@
         "jname": "\u3061\u304d\u3085\u3046\u306a\u3052", 
         "power": null, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -773,7 +773,7 @@
         "jname": "\u304b\u3044\u308a\u304d", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -784,7 +784,7 @@
         "jname": "\u3059\u3044\u3068\u308b", 
         "power": 20, 
         "pp": 25, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -795,7 +795,7 @@
         "jname": "\u30e1\u30ac\u30c9\u30ec\u30a4\u30f3", 
         "power": 40, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 90, 
@@ -806,7 +806,7 @@
         "jname": "\u3084\u3069\u308a\u304e\u306e\u30bf\u30cd", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -817,7 +817,7 @@
         "jname": "\u305b\u3044\u3061\u3087\u3046", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -828,7 +828,7 @@
         "jname": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc", 
         "power": 55, 
         "pp": 25, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -840,7 +840,7 @@
         "power": 120, 
         "pp": 10, 
         "tm": 22, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 75, 
@@ -851,7 +851,7 @@
         "jname": "\u3069\u304f\u306e\u3053\u306a", 
         "power": null, 
         "pp": 35, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 75, 
@@ -862,7 +862,7 @@
         "jname": "\u3057\u3073\u308c\u3054\u306a", 
         "power": null, 
         "pp": 30, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 75, 
@@ -873,7 +873,7 @@
         "jname": "\u306d\u3080\u308a\u3054\u306a", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -884,7 +884,7 @@
         "jname": "\u306f\u306a\u3073\u3089\u306e\u307e\u3044", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 95, 
@@ -895,7 +895,7 @@
         "jname": "\u3044\u3068\u3092\u306f\u304f", 
         "power": null, 
         "pp": 40, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -906,7 +906,7 @@
         "jname": "\u308a\u3085\u3046\u306e\u3044\u304b\u308a", 
         "power": null, 
         "pp": 10, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 85, 
@@ -917,7 +917,7 @@
         "jname": "\u307b\u306e\u304a\u306e\u3046\u305a", 
         "power": 35, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -928,7 +928,7 @@
         "jname": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -940,7 +940,7 @@
         "power": 90, 
         "pp": 15, 
         "tm": 24, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -952,7 +952,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 73, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 70, 
@@ -964,7 +964,7 @@
         "power": 110, 
         "pp": 10, 
         "tm": 25, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 90, 
@@ -975,7 +975,7 @@
         "jname": "\u3044\u308f\u304a\u3068\u3057", 
         "power": 50, 
         "pp": 15, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -987,7 +987,7 @@
         "power": 100, 
         "pp": 10, 
         "tm": 26, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 30, 
@@ -998,7 +998,7 @@
         "jname": "\u3058\u308f\u308c", 
         "power": null, 
         "pp": 5, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 100, 
@@ -1010,7 +1010,7 @@
         "power": 80, 
         "pp": 10, 
         "tm": 28, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 90, 
@@ -1022,7 +1022,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 6, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -1033,7 +1033,7 @@
         "jname": "\u306d\u3093\u308a\u304d", 
         "power": 50, 
         "pp": 25, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -1045,7 +1045,7 @@
         "power": 90, 
         "pp": 10, 
         "tm": 29, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 60, 
@@ -1056,7 +1056,7 @@
         "jname": "\u3055\u3044\u307f\u3093\u3058\u3085\u3064", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1067,7 +1067,7 @@
         "jname": "\u30e8\u30ac\u306e\u30dd\u30fc\u30ba", 
         "power": null, 
         "pp": 40, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1078,7 +1078,7 @@
         "jname": "\u3053\u3046\u305d\u304f\u3044\u3069\u3046", 
         "power": null, 
         "pp": 30, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -1089,7 +1089,7 @@
         "jname": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1100,7 +1100,7 @@
         "jname": "\u3044\u304b\u308a", 
         "power": 20, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1111,7 +1111,7 @@
         "jname": "\u30c6\u30ec\u30dd\u30fc\u30c8", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -1122,7 +1122,7 @@
         "jname": "\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9", 
         "power": null, 
         "pp": 15, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": null, 
@@ -1133,7 +1133,7 @@
         "jname": "\u3082\u306e\u307e\u306d", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -1144,7 +1144,7 @@
         "jname": "\u3044\u3084\u306a\u304a\u3068", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1156,7 +1156,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 32, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1167,7 +1167,7 @@
         "jname": "\u3058\u3053\u3055\u3044\u305b\u3044", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1178,7 +1178,7 @@
         "jname": "\u304b\u305f\u304f\u306a\u308b", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1189,7 +1189,7 @@
         "jname": "\u3061\u3044\u3055\u304f\u306a\u308b", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1200,7 +1200,7 @@
         "jname": "\u3048\u3093\u307e\u304f", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1211,7 +1211,7 @@
         "jname": "\u3042\u3084\u3057\u3044\u3072\u304b\u308a", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": null, 
@@ -1222,7 +1222,7 @@
         "jname": "\u304b\u3089\u306b\u3053\u3082\u308b", 
         "power": null, 
         "pp": 40, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -1233,7 +1233,7 @@
         "jname": "\u307e\u308b\u304f\u306a\u308b", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1244,7 +1244,7 @@
         "jname": "\u30d0\u30ea\u30a2\u30fc", 
         "power": null, 
         "pp": 30, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1256,7 +1256,7 @@
         "power": null, 
         "pp": 30, 
         "tm": 16, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1267,7 +1267,7 @@
         "jname": "\u304f\u308d\u3044\u304d\u308a", 
         "power": null, 
         "pp": 30, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": null, 
@@ -1279,7 +1279,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 33, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1290,7 +1290,7 @@
         "jname": "\u304d\u3042\u3044\u3060\u3081", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1301,7 +1301,7 @@
         "jname": "\u304c\u307e\u3093", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1312,7 +1312,7 @@
         "jname": "\u3086\u3073\u3092\u3075\u308b", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1323,7 +1323,7 @@
         "jname": "\u30aa\u30a6\u30e0\u304c\u3048\u3057", 
         "power": null, 
         "pp": 20, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -1334,7 +1334,7 @@
         "jname": "\u3058\u3070\u304f", 
         "power": 200, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 75, 
@@ -1345,7 +1345,7 @@
         "jname": "\u30bf\u30de\u30b4\u3070\u304f\u3060\u3093", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1356,7 +1356,7 @@
         "jname": "\u3057\u305f\u3067\u306a\u3081\u308b", 
         "power": 30, 
         "pp": 30, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 70, 
@@ -1367,7 +1367,7 @@
         "jname": "\u30b9\u30e2\u30c3\u30b0", 
         "power": 30, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -1378,7 +1378,7 @@
         "jname": "\u30d8\u30c9\u30ed\u3053\u3046\u3052\u304d", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 85, 
@@ -1389,7 +1389,7 @@
         "jname": "\u30db\u30cd\u3053\u3093\u307c\u3046", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 85, 
@@ -1401,7 +1401,7 @@
         "power": 110, 
         "pp": 5, 
         "tm": 38, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -1412,7 +1412,7 @@
         "jname": "\u305f\u304d\u306e\u307c\u308a", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 85, 
@@ -1423,7 +1423,7 @@
         "jname": "\u304b\u3089\u3067\u306f\u3055\u3080", 
         "power": 35, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -1434,7 +1434,7 @@
         "jname": "\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1445,7 +1445,7 @@
         "jname": "\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d", 
         "power": 130, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1456,7 +1456,7 @@
         "jname": "\u3068\u3052\u30ad\u30e3\u30ce\u30f3", 
         "power": 20, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1467,7 +1467,7 @@
         "jname": "\u304b\u3089\u307f\u3064\u304f", 
         "power": 10, 
         "pp": 35, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1478,7 +1478,7 @@
         "jname": "\u30c9\u308f\u3059\u308c", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 80, 
@@ -1489,7 +1489,7 @@
         "jname": "\u30b9\u30d7\u30fc\u30f3\u307e\u3052", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1500,7 +1500,7 @@
         "jname": "\u30bf\u30de\u30b4\u3046\u307f", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -1511,7 +1511,7 @@
         "jname": "\u3068\u3073\u3072\u3056\u3052\u308a", 
         "power": 130, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -1522,7 +1522,7 @@
         "jname": "\u3078\u3073\u306b\u3089\u307f", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1534,7 +1534,7 @@
         "power": 100, 
         "pp": 15, 
         "tm": 85, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 90, 
@@ -1545,7 +1545,7 @@
         "jname": "\u3069\u304f\u30ac\u30b9", 
         "power": null, 
         "pp": 40, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 85, 
@@ -1556,7 +1556,7 @@
         "jname": "\u305f\u307e\u306a\u3052", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1567,7 +1567,7 @@
         "jname": "\u304d\u3085\u3046\u3051\u3064", 
         "power": 20, 
         "pp": 15, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 75, 
@@ -1578,7 +1578,7 @@
         "jname": "\u3042\u304f\u307e\u306e\u30ad\u30c3\u30b9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -1589,7 +1589,7 @@
         "jname": "\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -1600,7 +1600,7 @@
         "jname": "\u3078\u3093\u3057\u3093", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1611,7 +1611,7 @@
         "jname": "\u3042\u308f", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -1622,7 +1622,7 @@
         "jname": "\u30d4\u30e8\u30d4\u30e8\u30d1\u30f3\u30c1", 
         "power": 70, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1633,7 +1633,7 @@
         "jname": "\u30ad\u30ce\u30b3\u306e\u307b\u3046\u3057", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -1645,7 +1645,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 70, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1656,7 +1656,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30a6\u30a7\u30fc\u30d6", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -1667,7 +1667,7 @@
         "jname": "\u306f\u306d\u308b", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1678,7 +1678,7 @@
         "jname": "\u3068\u3051\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 90, 
@@ -1689,7 +1689,7 @@
         "jname": "\u30af\u30e9\u30d6\u30cf\u30f3\u30de\u30fc", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -1701,7 +1701,7 @@
         "power": 250, 
         "pp": 5, 
         "tm": 64, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 80, 
@@ -1712,7 +1712,7 @@
         "jname": "\u307f\u3060\u308c\u3072\u3063\u304b\u304d", 
         "power": 18, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -1723,7 +1723,7 @@
         "jname": "\u30db\u30cd\u30d6\u30fc\u30e1\u30e9\u30f3", 
         "power": 50, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": null, 
@@ -1735,7 +1735,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 44, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 90, 
@@ -1747,7 +1747,7 @@
         "power": 75, 
         "pp": 10, 
         "tm": 80, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 90, 
@@ -1758,7 +1758,7 @@
         "jname": "\u3072\u3063\u3055\u3064\u307e\u3048\u3070", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1769,7 +1769,7 @@
         "jname": "\u304b\u304f\u3070\u308b", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1780,7 +1780,7 @@
         "jname": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1791,7 +1791,7 @@
         "jname": "\u30c8\u30e9\u30a4\u30a2\u30bf\u30c3\u30af", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -1802,7 +1802,7 @@
         "jname": "\u3044\u304b\u308a\u306e\u307e\u3048\u3070", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1813,7 +1813,7 @@
         "jname": "\u304d\u308a\u3055\u304f", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1825,7 +1825,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 90, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1836,7 +1836,7 @@
         "jname": "\u308f\u308b\u3042\u304c\u304d", 
         "power": 50, 
         "pp": null, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1847,7 +1847,7 @@
         "jname": "\u30b9\u30b1\u30c3\u30c1", 
         "power": null, 
         "pp": 1, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -1858,7 +1858,7 @@
         "jname": "\u30c8\u30ea\u30d7\u30eb\u30ad\u30c3\u30af", 
         "power": 10, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -1870,7 +1870,7 @@
         "power": 60, 
         "pp": 10, 
         "tm": 46, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": null, 
@@ -1881,7 +1881,7 @@
         "jname": "\u30af\u30e2\u306e\u3059", 
         "power": null, 
         "pp": 10, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -1892,7 +1892,7 @@
         "jname": "\u3053\u3053\u308d\u306e\u3081", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -1903,7 +1903,7 @@
         "jname": "\u3042\u304f\u3080", 
         "power": null, 
         "pp": 15, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -1914,7 +1914,7 @@
         "jname": "\u304b\u3048\u3093\u3050\u308b\u307e", 
         "power": 60, 
         "pp": 25, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -1925,7 +1925,7 @@
         "jname": "\u3044\u3073\u304d", 
         "power": 50, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1936,7 +1936,7 @@
         "jname": "\u306e\u308d\u3044", 
         "power": null, 
         "pp": null, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -1947,7 +1947,7 @@
         "jname": "\u3058\u305f\u3070\u305f", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -1958,7 +1958,7 @@
         "jname": "\u30c6\u30af\u30b9\u30c1\u30e3\u30fc\uff12", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -1969,7 +1969,7 @@
         "jname": "\u30a8\u30a2\u30ed\u30d6\u30e9\u30b9\u30c8", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -1980,7 +1980,7 @@
         "jname": "\u308f\u305f\u307b\u3046\u3057", 
         "power": null, 
         "pp": 40, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -1991,7 +1991,7 @@
         "jname": "\u304d\u3057\u304b\u3044\u305b\u3044", 
         "power": null, 
         "pp": 15, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -2002,7 +2002,7 @@
         "jname": "\u3046\u3089\u307f", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -2013,7 +2013,7 @@
         "jname": "\u3053\u306a\u3086\u304d", 
         "power": 40, 
         "pp": 25, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": null, 
@@ -2025,7 +2025,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 17, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2036,7 +2036,7 @@
         "jname": "\u30de\u30c3\u30cf\u30d1\u30f3\u30c1", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -2047,7 +2047,7 @@
         "jname": "\u3053\u308f\u3044\u304b\u304a", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2058,7 +2058,7 @@
         "jname": "\u3060\u307e\u3057\u3046\u3061", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 75, 
@@ -2069,7 +2069,7 @@
         "jname": "\u3066\u3093\u3057\u306e\u30ad\u30c3\u30b9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -2080,7 +2080,7 @@
         "jname": "\u306f\u3089\u3060\u3044\u3053", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2092,7 +2092,7 @@
         "power": 90, 
         "pp": 10, 
         "tm": 36, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -2103,7 +2103,7 @@
         "jname": "\u3069\u308d\u304b\u3051", 
         "power": 20, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 85, 
@@ -2114,7 +2114,7 @@
         "jname": "\u30aa\u30af\u30bf\u30f3\u307b\u3046", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -2125,7 +2125,7 @@
         "jname": "\u307e\u304d\u3073\u3057", 
         "power": null, 
         "pp": 20, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 50, 
@@ -2136,7 +2136,7 @@
         "jname": "\u3067\u3093\u3058\u307b\u3046", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": null, 
@@ -2147,7 +2147,7 @@
         "jname": "\u307f\u3084\u3076\u308b", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2158,7 +2158,7 @@
         "jname": "\u307f\u3061\u3065\u308c", 
         "power": null, 
         "pp": 5, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": null, 
@@ -2169,7 +2169,7 @@
         "jname": "\u307b\u308d\u3073\u306e\u3046\u305f", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -2180,7 +2180,7 @@
         "jname": "\u3053\u3054\u3048\u308b\u304b\u305c", 
         "power": 55, 
         "pp": 15, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": null, 
@@ -2191,7 +2191,7 @@
         "jname": "\u307f\u304d\u308a", 
         "power": null, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 80, 
@@ -2202,7 +2202,7 @@
         "jname": "\u30dc\u30fc\u30f3\u30e9\u30c3\u30b7\u30e5", 
         "power": 25, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": null, 
@@ -2213,7 +2213,7 @@
         "jname": "\u30ed\u30c3\u30af\u30aa\u30f3", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2224,7 +2224,7 @@
         "jname": "\u3052\u304d\u308a\u3093", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": null, 
@@ -2236,7 +2236,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 37, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -2247,7 +2247,7 @@
         "jname": "\u30ae\u30ac\u30c9\u30ec\u30a4\u30f3", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -2258,7 +2258,7 @@
         "jname": "\u3053\u3089\u3048\u308b", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2269,7 +2269,7 @@
         "jname": "\u3042\u307e\u3048\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 90, 
@@ -2280,7 +2280,7 @@
         "jname": "\u3053\u308d\u304c\u308b", 
         "power": 30, 
         "pp": 20, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -2292,7 +2292,7 @@
         "power": 40, 
         "pp": 40, 
         "tm": 54, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -2304,7 +2304,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 87, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2315,7 +2315,7 @@
         "jname": "\u30df\u30eb\u30af\u306e\u307f", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2326,7 +2326,7 @@
         "jname": "\u30b9\u30d1\u30fc\u30af", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 95, 
@@ -2337,7 +2337,7 @@
         "jname": "\u308c\u3093\u305e\u304f\u304e\u308a", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 90, 
@@ -2349,7 +2349,7 @@
         "power": 70, 
         "pp": 25, 
         "tm": 51, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -2360,7 +2360,7 @@
         "jname": "\u304f\u308d\u3044\u307e\u306a\u3056\u3057", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2372,7 +2372,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 45, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2384,7 +2384,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 88, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2395,7 +2395,7 @@
         "jname": "\u3044\u3084\u3057\u306e\u3059\u305a", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2407,7 +2407,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 27, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -2418,7 +2418,7 @@
         "jname": "\u30d7\u30ec\u30bc\u30f3\u30c8", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2430,7 +2430,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 21, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2442,7 +2442,7 @@
         "power": null, 
         "pp": 25, 
         "tm": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2453,7 +2453,7 @@
         "jname": "\u3044\u305f\u307f\u308f\u3051", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -2464,7 +2464,7 @@
         "jname": "\u305b\u3044\u306a\u308b\u307b\u306e\u304a", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -2475,7 +2475,7 @@
         "jname": "\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c9", 
         "power": null, 
         "pp": 30, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 50, 
@@ -2486,7 +2486,7 @@
         "jname": "\u3070\u304f\u308c\u3064\u30d1\u30f3\u30c1", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -2497,7 +2497,7 @@
         "jname": "\u30e1\u30ac\u30db\u30fc\u30f3", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -2508,7 +2508,7 @@
         "jname": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": null, 
@@ -2519,7 +2519,7 @@
         "jname": "\u30d0\u30c8\u30f3\u30bf\u30c3\u30c1", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2530,7 +2530,7 @@
         "jname": "\u30a2\u30f3\u30b3\u30fc\u30eb", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2541,7 +2541,7 @@
         "jname": "\u304a\u3044\u3046\u3061", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -2552,7 +2552,7 @@
         "jname": "\u3053\u3046\u305d\u304f\u30b9\u30d4\u30f3", 
         "power": 20, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2563,7 +2563,7 @@
         "jname": "\u3042\u307e\u3044\u304b\u304a\u308a", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 75, 
@@ -2574,7 +2574,7 @@
         "jname": "\u30a2\u30a4\u30a2\u30f3\u30c6\u30fc\u30eb", 
         "power": 100, 
         "pp": 15, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 95, 
@@ -2585,7 +2585,7 @@
         "jname": "\u30e1\u30bf\u30eb\u30af\u30ed\u30fc", 
         "power": 50, 
         "pp": 35, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -2596,7 +2596,7 @@
         "jname": "\u3042\u3066\u307f\u306a\u3052", 
         "power": 70, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -2607,7 +2607,7 @@
         "jname": "\u3042\u3055\u306e\u3072\u3056\u3057", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2618,7 +2618,7 @@
         "jname": "\u3053\u3046\u3054\u3046\u305b\u3044", 
         "power": null, 
         "pp": 5, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -2629,7 +2629,7 @@
         "jname": "\u3064\u304d\u306e\u3072\u304b\u308a", 
         "power": null, 
         "pp": 5, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -2641,7 +2641,7 @@
         "power": 60, 
         "pp": 15, 
         "tm": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 80, 
@@ -2652,7 +2652,7 @@
         "jname": "\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -2663,7 +2663,7 @@
         "jname": "\u305f\u3064\u307e\u304d", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": null, 
@@ -2675,7 +2675,7 @@
         "power": null, 
         "pp": 5, 
         "tm": 18, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -2687,7 +2687,7 @@
         "power": null, 
         "pp": 5, 
         "tm": 11, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -2698,7 +2698,7 @@
         "jname": "\u304b\u307f\u304f\u3060\u304f", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -2709,7 +2709,7 @@
         "jname": "\u30df\u30e9\u30fc\u30b3\u30fc\u30c8", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -2721,7 +2721,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 77, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2732,7 +2732,7 @@
         "jname": "\u3057\u3093\u305d\u304f", 
         "power": 80, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2743,7 +2743,7 @@
         "jname": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089", 
         "power": 60, 
         "pp": 5, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -2755,7 +2755,7 @@
         "power": 80, 
         "pp": 15, 
         "tm": 30, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -2766,7 +2766,7 @@
         "jname": "\u307f\u3089\u3044\u3088\u3061", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -2778,7 +2778,7 @@
         "power": 40, 
         "pp": 15, 
         "tm": 94, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -2789,7 +2789,7 @@
         "jname": "\u3046\u305a\u3057\u304a", 
         "power": 35, 
         "pp": 15, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -2800,7 +2800,7 @@
         "jname": "\u3075\u304f\u308d\u3060\u305f\u304d", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -2811,7 +2811,7 @@
         "jname": "\u306d\u3053\u3060\u307e\u3057", 
         "power": 40, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2822,7 +2822,7 @@
         "jname": "\u3055\u308f\u3050", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2833,7 +2833,7 @@
         "jname": "\u305f\u304f\u308f\u3048\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2844,7 +2844,7 @@
         "jname": "\u306f\u304d\u3060\u3059", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2855,7 +2855,7 @@
         "jname": "\u306e\u307f\u3053\u3080", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -2866,7 +2866,7 @@
         "jname": "\u306d\u3063\u3077\u3046", 
         "power": 95, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -2878,7 +2878,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 7, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -2890,7 +2890,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 41, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -2901,7 +2901,7 @@
         "jname": "\u304a\u3060\u3066\u308b", 
         "power": null, 
         "pp": 15, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 85, 
@@ -2913,7 +2913,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 61, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -2924,7 +2924,7 @@
         "jname": "\u304a\u304d\u307f\u3084\u3052", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -2936,7 +2936,7 @@
         "power": 70, 
         "pp": 20, 
         "tm": 42, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -2947,7 +2947,7 @@
         "jname": "\u304d\u3042\u3044\u30d1\u30f3\u30c1", 
         "power": 150, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -2958,7 +2958,7 @@
         "jname": "\u304d\u3064\u3051", 
         "power": 70, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2969,7 +2969,7 @@
         "jname": "\u3053\u306e\u3086\u3073\u3068\u307e\u308c", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2981,7 +2981,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 96, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -2992,7 +2992,7 @@
         "jname": "\u3058\u3085\u3046\u3067\u3093", 
         "power": null, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -3004,7 +3004,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 12, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": null, 
@@ -3015,7 +3015,7 @@
         "jname": "\u3066\u3060\u3059\u3051", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3026,7 +3026,7 @@
         "jname": "\u30c8\u30ea\u30c3\u30af", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3037,7 +3037,7 @@
         "jname": "\u306a\u308a\u304d\u308a", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3048,7 +3048,7 @@
         "jname": "\u306d\u304c\u3044\u3054\u3068", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3059,7 +3059,7 @@
         "jname": "\u306d\u3053\u306e\u3066", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3070,7 +3070,7 @@
         "jname": "\u306d\u3092\u306f\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -3081,7 +3081,7 @@
         "jname": "\u3070\u304b\u3062\u304b\u3089", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -3092,7 +3092,7 @@
         "jname": "\u30de\u30b8\u30c3\u30af\u30b3\u30fc\u30c8", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3103,7 +3103,7 @@
         "jname": "\u30ea\u30b5\u30a4\u30af\u30eb", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3114,7 +3114,7 @@
         "jname": "\u30ea\u30d9\u30f3\u30b8", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -3126,7 +3126,7 @@
         "power": 75, 
         "pp": 15, 
         "tm": 31, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -3137,7 +3137,7 @@
         "jname": "\u3042\u304f\u3073", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3148,7 +3148,7 @@
         "jname": "\u306f\u305f\u304d\u304a\u3068\u3059", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -3159,7 +3159,7 @@
         "jname": "\u304c\u3080\u3057\u3083\u3089", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3170,7 +3170,7 @@
         "jname": "\u3075\u3093\u304b", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -3181,7 +3181,7 @@
         "jname": "\u30b9\u30ad\u30eb\u30b9\u30ef\u30c3\u30d7", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3192,7 +3192,7 @@
         "jname": "\u3075\u3046\u3044\u3093", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3203,7 +3203,7 @@
         "jname": "\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3214,7 +3214,7 @@
         "jname": "\u304a\u3093\u306d\u3093", 
         "power": null, 
         "pp": 5, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": null, 
@@ -3225,7 +3225,7 @@
         "jname": "\u3088\u3053\u3069\u308a", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -3236,7 +3236,7 @@
         "jname": "\u3072\u307f\u3064\u306e\u3061\u304b\u3089", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3247,7 +3247,7 @@
         "jname": "\u30c0\u30a4\u30d3\u30f3\u30b0", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -3258,7 +3258,7 @@
         "jname": "\u3064\u3063\u3071\u308a", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -3269,7 +3269,7 @@
         "jname": "\u307b\u3054\u3057\u3087\u304f", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3280,7 +3280,7 @@
         "jname": "\u307b\u305f\u308b\u3073", 
         "power": null, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -3291,7 +3291,7 @@
         "jname": "\u30e9\u30b9\u30bf\u30fc\u30d1\u30fc\u30b8", 
         "power": 70, 
         "pp": 5, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -3302,7 +3302,7 @@
         "jname": "\u30df\u30b9\u30c8\u30dc\u30fc\u30eb", 
         "power": 70, 
         "pp": 5, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -3313,7 +3313,7 @@
         "jname": "\u30d5\u30a7\u30b6\u30fc\u30c0\u30f3\u30b9", 
         "power": null, 
         "pp": 15, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -3324,7 +3324,7 @@
         "jname": "\u30d5\u30e9\u30d5\u30e9\u30c0\u30f3\u30b9", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -3335,7 +3335,7 @@
         "jname": "\u30d6\u30ec\u30a4\u30ba\u30ad\u30c3\u30af", 
         "power": 85, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -3346,7 +3346,7 @@
         "jname": "\u3069\u308d\u3042\u305d\u3073", 
         "power": null, 
         "pp": 15, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 90, 
@@ -3357,7 +3357,7 @@
         "jname": "\u30a2\u30a4\u30b9\u30dc\u30fc\u30eb", 
         "power": 30, 
         "pp": 20, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -3368,7 +3368,7 @@
         "jname": "\u30cb\u30fc\u30c9\u30eb\u30a2\u30fc\u30e0", 
         "power": 60, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -3379,7 +3379,7 @@
         "jname": "\u306a\u307e\u3051\u308b", 
         "power": null, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3390,7 +3390,7 @@
         "jname": "\u30cf\u30a4\u30d1\u30fc\u30dc\u30a4\u30b9", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3401,7 +3401,7 @@
         "jname": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0", 
         "power": 50, 
         "pp": 15, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 95, 
@@ -3412,7 +3412,7 @@
         "jname": "\u30d6\u30ec\u30a4\u30af\u30af\u30ed\u30fc", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -3423,7 +3423,7 @@
         "jname": "\u30d6\u30e9\u30b9\u30c8\u30d0\u30fc\u30f3", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 90, 
@@ -3434,7 +3434,7 @@
         "jname": "\u30cf\u30a4\u30c9\u30ed\u30ab\u30ce\u30f3", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 90, 
@@ -3445,7 +3445,7 @@
         "jname": "\u30b3\u30e1\u30c3\u30c8\u30d1\u30f3\u30c1", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -3456,7 +3456,7 @@
         "jname": "\u304a\u3069\u308d\u304b\u3059", 
         "power": 30, 
         "pp": 15, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -3467,7 +3467,7 @@
         "jname": "\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb", 
         "power": 50, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3478,7 +3478,7 @@
         "jname": "\u30a2\u30ed\u30de\u30bb\u30e9\u30d4\u30fc", 
         "power": null, 
         "pp": 5, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -3489,7 +3489,7 @@
         "jname": "\u3046\u305d\u306a\u304d", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 95, 
@@ -3500,7 +3500,7 @@
         "jname": "\u30a8\u30a2\u30ab\u30c3\u30bf\u30fc", 
         "power": 60, 
         "pp": 25, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 90, 
@@ -3512,7 +3512,7 @@
         "power": 130, 
         "pp": 5, 
         "tm": 50, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -3523,7 +3523,7 @@
         "jname": "\u304b\u304e\u308f\u3051\u308b", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -3535,7 +3535,7 @@
         "power": 60, 
         "pp": 15, 
         "tm": 39, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -3546,7 +3546,7 @@
         "jname": "\u304e\u3093\u3044\u308d\u306e\u304b\u305c", 
         "power": 60, 
         "pp": 5, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 85, 
@@ -3557,7 +3557,7 @@
         "jname": "\u304d\u3093\u305e\u304f\u304a\u3093", 
         "power": null, 
         "pp": 40, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 55, 
@@ -3568,7 +3568,7 @@
         "jname": "\u304f\u3055\u3076\u3048", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -3579,7 +3579,7 @@
         "jname": "\u304f\u3059\u3050\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3590,7 +3590,7 @@
         "jname": "\u30b3\u30b9\u30e2\u30d1\u30ef\u30fc", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -3601,7 +3601,7 @@
         "jname": "\u3057\u304a\u3075\u304d", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -3612,7 +3612,7 @@
         "jname": "\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0", 
         "power": 75, 
         "pp": 15, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -3623,7 +3623,7 @@
         "jname": "\u30b7\u30e3\u30c9\u30fc\u30d1\u30f3\u30c1", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -3634,7 +3634,7 @@
         "jname": "\u3058\u3093\u3064\u3046\u308a\u304d", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 90, 
@@ -3645,7 +3645,7 @@
         "jname": "\u30b9\u30ab\u30a4\u30a2\u30c3\u30d1\u30fc", 
         "power": 85, 
         "pp": 15, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -3656,7 +3656,7 @@
         "jname": "\u3059\u306a\u3058\u3054\u304f", 
         "power": 35, 
         "pp": 15, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 30, 
@@ -3667,7 +3667,7 @@
         "jname": "\u305c\u3063\u305f\u3044\u308c\u3044\u3069", 
         "power": null, 
         "pp": 5, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 85, 
@@ -3678,7 +3678,7 @@
         "jname": "\u3060\u304f\u308a\u3085\u3046", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -3689,7 +3689,7 @@
         "jname": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3", 
         "power": 25, 
         "pp": 30, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -3701,7 +3701,7 @@
         "power": 60, 
         "pp": 20, 
         "tm": 40, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -3712,7 +3712,7 @@
         "jname": "\u3064\u3089\u3089\u3070\u308a", 
         "power": 25, 
         "pp": 30, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": null, 
@@ -3723,7 +3723,7 @@
         "jname": "\u3066\u3063\u307a\u304d", 
         "power": null, 
         "pp": 15, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -3734,7 +3734,7 @@
         "jname": "\u3068\u304a\u305b\u3093\u307c\u3046", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -3745,7 +3745,7 @@
         "jname": "\u3068\u304a\u307c\u3048", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3757,7 +3757,7 @@
         "power": 80, 
         "pp": 15, 
         "tm": 2, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 90, 
@@ -3768,7 +3768,7 @@
         "jname": "\u30cf\u30fc\u30c9\u30d7\u30e9\u30f3\u30c8", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -3780,7 +3780,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 8, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 85, 
@@ -3791,7 +3791,7 @@
         "jname": "\u3068\u3073\u306f\u306d\u308b", 
         "power": 85, 
         "pp": 5, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 95, 
@@ -3802,7 +3802,7 @@
         "jname": "\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8", 
         "power": 55, 
         "pp": 15, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 100, 
@@ -3813,7 +3813,7 @@
         "jname": "\u30dd\u30a4\u30ba\u30f3\u30c6\u30fc\u30eb", 
         "power": 50, 
         "pp": 25, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -3824,7 +3824,7 @@
         "jname": "\u307b\u3057\u304c\u308b", 
         "power": 60, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -3835,7 +3835,7 @@
         "jname": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": null, 
@@ -3846,7 +3846,7 @@
         "jname": "\u30de\u30b8\u30ab\u30eb\u30ea\u30fc\u30d5", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -3857,7 +3857,7 @@
         "jname": "\u307f\u305a\u3042\u305d\u3073", 
         "power": null, 
         "pp": 15, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -3869,7 +3869,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 4, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -3880,7 +3880,7 @@
         "jname": "\u30ea\u30fc\u30d5\u30d6\u30ec\u30fc\u30c9", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -3891,7 +3891,7 @@
         "jname": "\u308a\u3085\u3046\u306e\u307e\u3044", 
         "power": null, 
         "pp": 20, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 90, 
@@ -3902,7 +3902,7 @@
         "jname": "\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8", 
         "power": 25, 
         "pp": 10, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": null, 
@@ -3913,7 +3913,7 @@
         "jname": "\u3067\u3093\u3052\u304d\u306f", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -3924,7 +3924,7 @@
         "jname": "\u307f\u305a\u306e\u306f\u3069\u3046", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -3935,7 +3935,7 @@
         "jname": "\u306f\u3081\u3064\u306e\u306d\u304c\u3044", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 90, 
@@ -3946,7 +3946,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30d6\u30fc\u30b9\u30c8", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3958,7 +3958,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 19, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -3969,7 +3969,7 @@
         "jname": "\u3058\u3085\u3046\u308a\u3087\u304f", 
         "power": null, 
         "pp": 5, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -3980,7 +3980,7 @@
         "jname": "\u30df\u30e9\u30af\u30eb\u30a2\u30a4", 
         "power": null, 
         "pp": 40, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -3991,7 +3991,7 @@
         "jname": "\u3081\u3056\u307e\u3057\u30d3\u30f3\u30bf", 
         "power": 70, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 90, 
@@ -4002,7 +4002,7 @@
         "jname": "\u30a2\u30fc\u30e0\u30cf\u30f3\u30de\u30fc", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4014,7 +4014,7 @@
         "power": null, 
         "pp": 5, 
         "tm": 74, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -4025,7 +4025,7 @@
         "jname": "\u3044\u3084\u3057\u306e\u306d\u304c\u3044", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -4036,7 +4036,7 @@
         "jname": "\u3057\u304a\u307f\u305a", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -4047,7 +4047,7 @@
         "jname": "\u3057\u305c\u3093\u306e\u3081\u3050\u307f", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -4058,7 +4058,7 @@
         "jname": "\u30d5\u30a7\u30a4\u30f3\u30c8", 
         "power": 50, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -4069,7 +4069,7 @@
         "jname": "\u3064\u3044\u3070\u3080", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -4080,7 +4080,7 @@
         "jname": "\u304a\u3044\u304b\u305c", 
         "power": null, 
         "pp": 30, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -4091,7 +4091,7 @@
         "jname": "\u3064\u307c\u3092\u3064\u304f", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -4102,7 +4102,7 @@
         "jname": "\u30e1\u30bf\u30eb\u30d0\u30fc\u30b9\u30c8", 
         "power": null, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -4114,7 +4114,7 @@
         "power": 70, 
         "pp": 20, 
         "tm": 89, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -4125,7 +4125,7 @@
         "jname": "\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4137,7 +4137,7 @@
         "power": 50, 
         "pp": 10, 
         "tm": 66, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4148,7 +4148,7 @@
         "jname": "\u30c0\u30e1\u304a\u3057", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4160,7 +4160,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 63, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4172,7 +4172,7 @@
         "power": null, 
         "pp": 10, 
         "tm": 56, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4183,7 +4183,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30b7\u30d5\u30c8", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -4194,7 +4194,7 @@
         "jname": "\u304d\u308a\u3075\u3060", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -4205,7 +4205,7 @@
         "jname": "\u304b\u3044\u3075\u304f\u3075\u3046\u3058", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -4216,7 +4216,7 @@
         "jname": "\u3057\u307c\u308a\u3068\u308b", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4227,7 +4227,7 @@
         "jname": "\u30d1\u30ef\u30fc\u30c8\u30ea\u30c3\u30af", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -4238,7 +4238,7 @@
         "jname": "\u3044\u3048\u304d", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": null, 
@@ -4249,7 +4249,7 @@
         "jname": "\u304a\u307e\u3058\u306a\u3044", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4260,7 +4260,7 @@
         "jname": "\u3055\u304d\u3069\u308a", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4271,7 +4271,7 @@
         "jname": "\u307e\u306d\u3063\u3053", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4282,7 +4282,7 @@
         "jname": "\u30d1\u30ef\u30fc\u30b9\u30ef\u30c3\u30d7", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -4293,7 +4293,7 @@
         "jname": "\u30ac\u30fc\u30c9\u30b9\u30ef\u30c3\u30d7", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -4304,7 +4304,7 @@
         "jname": "\u304a\u3057\u304a\u304d", 
         "power": null, 
         "pp": 5, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4315,7 +4315,7 @@
         "jname": "\u3068\u3063\u3066\u304a\u304d", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -4326,7 +4326,7 @@
         "jname": "\u306a\u3084\u307f\u306e\u30bf\u30cd", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -4337,7 +4337,7 @@
         "jname": "\u3075\u3044\u3046\u3061", 
         "power": 80, 
         "pp": 5, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": null, 
@@ -4348,7 +4348,7 @@
         "jname": "\u3069\u304f\u3073\u3057", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": null, 
@@ -4359,7 +4359,7 @@
         "jname": "\u30cf\u30fc\u30c8\u30b9\u30ef\u30c3\u30d7", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -4370,7 +4370,7 @@
         "jname": "\u30a2\u30af\u30a2\u30ea\u30f3\u30b0", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -4381,7 +4381,7 @@
         "jname": "\u3067\u3093\u3058\u3075\u3086\u3046", 
         "power": null, 
         "pp": 10, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -4392,7 +4392,7 @@
         "jname": "\u30d5\u30ec\u30a2\u30c9\u30e9\u30a4\u30d6", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -4403,7 +4403,7 @@
         "jname": "\u306f\u3063\u3051\u3044", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -4414,7 +4414,7 @@
         "jname": "\u306f\u3069\u3046\u3060\u3093", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -4426,7 +4426,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 69, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -4438,7 +4438,7 @@
         "power": 80, 
         "pp": 20, 
         "tm": 84, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -4450,7 +4450,7 @@
         "power": 80, 
         "pp": 15, 
         "tm": 97, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4461,7 +4461,7 @@
         "jname": "\u3064\u3058\u304e\u308a", 
         "power": 70, 
         "pp": 15, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 90, 
@@ -4472,7 +4472,7 @@
         "jname": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -4483,7 +4483,7 @@
         "jname": "\u30bf\u30cd\u3070\u304f\u3060\u3093", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 95, 
@@ -4494,7 +4494,7 @@
         "jname": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5", 
         "power": 75, 
         "pp": 15, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4506,7 +4506,7 @@
         "power": 80, 
         "pp": 15, 
         "tm": 81, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -4517,7 +4517,7 @@
         "jname": "\u3080\u3057\u306e\u3055\u3056\u3081\u304d", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -4528,7 +4528,7 @@
         "jname": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046", 
         "power": 85, 
         "pp": 10, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 75, 
@@ -4539,7 +4539,7 @@
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30c0\u30a4\u30d6", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 100, 
@@ -4550,7 +4550,7 @@
         "jname": "\u30d1\u30ef\u30fc\u30b8\u30a7\u30e0", 
         "power": 80, 
         "pp": 20, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -4561,7 +4561,7 @@
         "jname": "\u30c9\u30ec\u30a4\u30f3\u30d1\u30f3\u30c1", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4572,7 +4572,7 @@
         "jname": "\u3057\u3093\u304f\u3046\u306f", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 70, 
@@ -4584,7 +4584,7 @@
         "power": 120, 
         "pp": 5, 
         "tm": 52, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4596,7 +4596,7 @@
         "power": 90, 
         "pp": 10, 
         "tm": 53, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -4607,7 +4607,7 @@
         "jname": "\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -4618,7 +4618,7 @@
         "jname": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 100, 
@@ -4629,7 +4629,7 @@
         "jname": "\u3059\u308a\u304b\u3048", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 90, 
@@ -4641,7 +4641,7 @@
         "power": 150, 
         "pp": 5, 
         "tm": 68, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4652,7 +4652,7 @@
         "jname": "\u308f\u308b\u3060\u304f\u307f", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -4663,7 +4663,7 @@
         "jname": "\u30d0\u30ec\u30c3\u30c8\u30d1\u30f3\u30c1", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -4674,7 +4674,7 @@
         "jname": "\u3086\u304d\u306a\u3060\u308c", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -4685,7 +4685,7 @@
         "jname": "\u3053\u304a\u308a\u306e\u3064\u3076\u3066", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 100, 
@@ -4697,7 +4697,7 @@
         "power": 70, 
         "pp": 15, 
         "tm": 65, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 95, 
@@ -4708,7 +4708,7 @@
         "jname": "\u304b\u307f\u306a\u308a\u306e\u30ad\u30d0", 
         "power": 65, 
         "pp": 15, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 95, 
@@ -4719,7 +4719,7 @@
         "jname": "\u3053\u304a\u308a\u306e\u30ad\u30d0", 
         "power": 65, 
         "pp": 15, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 95, 
@@ -4730,7 +4730,7 @@
         "jname": "\u307b\u306e\u304a\u306e\u30ad\u30d0", 
         "power": 65, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -4741,7 +4741,7 @@
         "jname": "\u304b\u3052\u3046\u3061", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 85, 
@@ -4752,7 +4752,7 @@
         "jname": "\u3069\u308d\u3070\u304f\u3060\u3093", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 100, 
@@ -4763,7 +4763,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30ab\u30c3\u30bf\u30fc", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 90, 
@@ -4774,7 +4774,7 @@
         "jname": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 85, 
@@ -4785,7 +4785,7 @@
         "jname": "\u30df\u30e9\u30fc\u30b7\u30e7\u30c3\u30c8", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -4797,7 +4797,7 @@
         "power": 80, 
         "pp": 10, 
         "tm": 91, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 85, 
@@ -4808,7 +4808,7 @@
         "jname": "\u30ed\u30c3\u30af\u30af\u30e9\u30a4\u30e0", 
         "power": 90, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4819,7 +4819,7 @@
         "jname": "\u304d\u308a\u3070\u3089\u3044", 
         "power": null, 
         "pp": 15, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -4831,7 +4831,7 @@
         "power": null, 
         "pp": 5, 
         "tm": 92, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 90, 
@@ -4842,7 +4842,7 @@
         "jname": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093", 
         "power": 130, 
         "pp": 5, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 100, 
@@ -4853,7 +4853,7 @@
         "jname": "\u307b\u3046\u3067\u3093", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -4864,7 +4864,7 @@
         "jname": "\u3075\u3093\u3048\u3093", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 90, 
@@ -4875,7 +4875,7 @@
         "jname": "\u30ea\u30fc\u30d5\u30b9\u30c8\u30fc\u30e0", 
         "power": 130, 
         "pp": 5, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 85, 
@@ -4886,7 +4886,7 @@
         "jname": "\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 90, 
@@ -4897,7 +4897,7 @@
         "jname": "\u304c\u3093\u305b\u304d\u307b\u3046", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -4908,7 +4908,7 @@
         "jname": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 80, 
@@ -4919,7 +4919,7 @@
         "jname": "\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -4930,7 +4930,7 @@
         "jname": "\u30a2\u30a4\u30a2\u30f3\u30d8\u30c3\u30c9", 
         "power": 80, 
         "pp": 15, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -4941,7 +4941,7 @@
         "jname": "\u30de\u30b0\u30cd\u30c3\u30c8\u30dc\u30e0", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 80, 
@@ -4953,7 +4953,7 @@
         "power": 100, 
         "pp": 5, 
         "tm": 71, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -4964,7 +4964,7 @@
         "jname": "\u3086\u3046\u308f\u304f", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -4975,7 +4975,7 @@
         "jname": "\u30b9\u30c6\u30eb\u30b9\u30ed\u30c3\u30af", 
         "power": null, 
         "pp": 20, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -4987,7 +4987,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 86, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -4998,7 +4998,7 @@
         "jname": "\u304a\u3057\u3083\u3079\u308a", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -5009,7 +5009,7 @@
         "jname": "\u3055\u3070\u304d\u306e\u3064\u3076\u3066", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5020,7 +5020,7 @@
         "jname": "\u3080\u3057\u304f\u3044", 
         "power": 60, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 90, 
@@ -5032,7 +5032,7 @@
         "power": 50, 
         "pp": 10, 
         "tm": 57, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -5043,7 +5043,7 @@
         "jname": "\u30a6\u30c3\u30c9\u30cf\u30f3\u30de\u30fc", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -5054,7 +5054,7 @@
         "jname": "\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -5065,7 +5065,7 @@
         "jname": "\u3053\u3046\u3052\u304d\u3057\u308c\u3044", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -5076,7 +5076,7 @@
         "jname": "\u307c\u3046\u304e\u3087\u3057\u308c\u3044", 
         "power": null, 
         "pp": 10, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -5087,7 +5087,7 @@
         "jname": "\u304b\u3044\u3075\u304f\u3057\u308c\u3044", 
         "power": null, 
         "pp": 10, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 80, 
@@ -5098,7 +5098,7 @@
         "jname": "\u3082\u308d\u306f\u306e\u305a\u3064\u304d", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 90, 
@@ -5109,7 +5109,7 @@
         "jname": "\u30c0\u30d6\u30eb\u30a2\u30bf\u30c3\u30af", 
         "power": 35, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 90, 
@@ -5120,7 +5120,7 @@
         "jname": "\u3068\u304d\u306e\u307b\u3046\u3053\u3046", 
         "power": 150, 
         "pp": 5, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 95, 
@@ -5131,7 +5131,7 @@
         "jname": "\u3042\u304f\u3046\u305b\u3064\u3060\u3093", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": null, 
@@ -5142,7 +5142,7 @@
         "jname": "\u307f\u304b\u3065\u304d\u306e\u307e\u3044", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5153,7 +5153,7 @@
         "jname": "\u306b\u304e\u308a\u3064\u3076\u3059", 
         "power": null, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 75, 
@@ -5164,7 +5164,7 @@
         "jname": "\u30de\u30b0\u30de\u30b9\u30c8\u30fc\u30e0", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 80, 
@@ -5175,7 +5175,7 @@
         "jname": "\u30c0\u30fc\u30af\u30db\u30fc\u30eb", 
         "power": null, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 85, 
@@ -5186,7 +5186,7 @@
         "jname": "\u30b7\u30fc\u30c9\u30d5\u30ec\u30a2", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -5197,7 +5197,7 @@
         "jname": "\u3042\u3084\u3057\u3044\u304b\u305c", 
         "power": 60, 
         "pp": 5, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -5208,7 +5208,7 @@
         "jname": "\u30b7\u30e3\u30c9\u30fc\u30c0\u30a4\u30d6", 
         "power": 120, 
         "pp": 5, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": null, 
@@ -5220,7 +5220,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 1, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": null, 
@@ -5231,7 +5231,7 @@
         "jname": "\u30ef\u30a4\u30c9\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": null, 
@@ -5242,7 +5242,7 @@
         "jname": "\u30ac\u30fc\u30c9\u30b7\u30a7\u30a2", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -5253,7 +5253,7 @@
         "jname": "\u30d1\u30ef\u30fc\u30b7\u30a7\u30a2", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -5264,7 +5264,7 @@
         "jname": "\u30ef\u30f3\u30c0\u30fc\u30eb\u30fc\u30e0", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5276,7 +5276,7 @@
         "power": 80, 
         "pp": 10, 
         "tm": 3, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5288,7 +5288,7 @@
         "power": 65, 
         "pp": 10, 
         "tm": 9, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": null, 
@@ -5299,7 +5299,7 @@
         "jname": "\u30dc\u30c7\u30a3\u30d1\u30fc\u30b8", 
         "power": null, 
         "pp": 15, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -5310,7 +5310,7 @@
         "jname": "\u3044\u304b\u308a\u306e\u3053\u306a", 
         "power": null, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -5321,7 +5321,7 @@
         "jname": "\u30c6\u30ec\u30ad\u30cd\u30b7\u30b9", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -5332,7 +5332,7 @@
         "jname": "\u30de\u30b8\u30c3\u30af\u30eb\u30fc\u30e0", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5344,7 +5344,7 @@
         "power": 50, 
         "pp": 15, 
         "tm": 23, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     }, 
     {
         "accuracy": 100, 
@@ -5355,7 +5355,7 @@
         "jname": "\u3084\u307e\u3042\u3089\u3057", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -5366,7 +5366,7 @@
         "jname": "\u306f\u3058\u3051\u308b\u307b\u306e\u304a", 
         "power": 70, 
         "pp": 15, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -5378,7 +5378,7 @@
         "power": 95, 
         "pp": 10, 
         "tm": 34, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": null, 
@@ -5389,7 +5389,7 @@
         "jname": "\u3061\u3087\u3046\u306e\u307e\u3044", 
         "power": null, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -5400,7 +5400,7 @@
         "jname": "\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc", 
         "power": null, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -5411,7 +5411,7 @@
         "jname": "\u30b7\u30f3\u30af\u30ed\u30ce\u30a4\u30ba", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5422,7 +5422,7 @@
         "jname": "\u30a8\u30ec\u30ad\u30dc\u30fc\u30eb", 
         "power": null, 
         "pp": 10, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -5433,7 +5433,7 @@
         "jname": "\u307f\u305a\u3073\u305f\u3057", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -5445,7 +5445,7 @@
         "power": 50, 
         "pp": 20, 
         "tm": 43, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -5456,7 +5456,7 @@
         "jname": "\u3068\u3050\u308d\u3092\u307e\u304f", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -5468,7 +5468,7 @@
         "power": 65, 
         "pp": 20, 
         "tm": 47, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -5479,7 +5479,7 @@
         "jname": "\u30a2\u30b7\u30c3\u30c9\u30dc\u30e0", 
         "power": 40, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -5490,7 +5490,7 @@
         "jname": "\u30a4\u30ab\u30b5\u30de", 
         "power": 95, 
         "pp": 15, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -5501,7 +5501,7 @@
         "jname": "\u30b7\u30f3\u30d7\u30eb\u30d3\u30fc\u30e0", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5512,7 +5512,7 @@
         "jname": "\u306a\u304b\u307e\u3065\u304f\u308a", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -5523,7 +5523,7 @@
         "jname": "\u304a\u3055\u304d\u306b\u3069\u3046\u305e", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5535,7 +5535,7 @@
         "power": 60, 
         "pp": 15, 
         "tm": 48, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5547,7 +5547,7 @@
         "power": 40, 
         "pp": 15, 
         "tm": 49, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5558,7 +5558,7 @@
         "jname": "\u306a\u3057\u304f\u305a\u3057", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -5569,7 +5569,7 @@
         "jname": "\u30af\u30ea\u30a2\u30b9\u30e2\u30c3\u30b0", 
         "power": 50, 
         "pp": 15, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -5580,7 +5580,7 @@
         "jname": "\u30a2\u30b7\u30b9\u30c8\u30d1\u30ef\u30fc", 
         "power": 20, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": null, 
@@ -5591,7 +5591,7 @@
         "jname": "\u30d5\u30a1\u30b9\u30c8\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 15, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -5602,7 +5602,7 @@
         "jname": "\u30b5\u30a4\u30c9\u30c1\u30a7\u30f3\u30b8", 
         "power": null, 
         "pp": 15, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5614,7 +5614,7 @@
         "power": 80, 
         "pp": 15, 
         "tm": 55, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": null, 
@@ -5625,7 +5625,7 @@
         "jname": "\u304b\u3089\u3092\u3084\u3076\u308b", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -5636,7 +5636,7 @@
         "jname": "\u3044\u3084\u3057\u306e\u306f\u3069\u3046", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5647,7 +5647,7 @@
         "jname": "\u305f\u305f\u308a\u3081", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -5659,7 +5659,7 @@
         "power": 60, 
         "pp": 10, 
         "tm": 58, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -5670,7 +5670,7 @@
         "jname": "\u30ae\u30a2\u30c1\u30a7\u30f3\u30b8", 
         "power": null, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 90, 
@@ -5681,7 +5681,7 @@
         "jname": "\u3068\u3082\u3048\u306a\u3052", 
         "power": 60, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -5693,7 +5693,7 @@
         "power": 60, 
         "pp": 15, 
         "tm": 59, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -5705,7 +5705,7 @@
         "power": null, 
         "pp": 15, 
         "tm": 60, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -5717,7 +5717,7 @@
         "power": 55, 
         "pp": 15, 
         "tm": 62, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -5728,7 +5728,7 @@
         "jname": "\u30df\u30e9\u30fc\u30bf\u30a4\u30d7", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5740,7 +5740,7 @@
         "power": 70, 
         "pp": 5, 
         "tm": 67, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -5751,7 +5751,7 @@
         "jname": "\u3044\u306e\u3061\u304c\u3051", 
         "power": null, 
         "pp": 5, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -5762,7 +5762,7 @@
         "jname": "\u30ae\u30d5\u30c8\u30d1\u30b9", 
         "power": null, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 50, 
@@ -5773,7 +5773,7 @@
         "jname": "\u308c\u3093\u3054\u304f", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -5784,7 +5784,7 @@
         "jname": "\u307f\u305a\u306e\u3061\u304b\u3044", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -5795,7 +5795,7 @@
         "jname": "\u307b\u306e\u304a\u306e\u3061\u304b\u3044", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -5806,7 +5806,7 @@
         "jname": "\u304f\u3055\u306e\u3061\u304b\u3044", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -5818,7 +5818,7 @@
         "power": 70, 
         "pp": 20, 
         "tm": 72, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -5830,7 +5830,7 @@
         "power": 50, 
         "pp": 20, 
         "tm": 76, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -5842,7 +5842,7 @@
         "power": 60, 
         "pp": 20, 
         "tm": 78, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 90, 
@@ -5854,7 +5854,7 @@
         "power": 60, 
         "pp": 10, 
         "tm": 79, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 90, 
@@ -5866,7 +5866,7 @@
         "power": 60, 
         "pp": 10, 
         "tm": 82, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": null, 
@@ -5877,7 +5877,7 @@
         "jname": "\u3075\u308b\u3044\u305f\u3066\u308b", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 95, 
@@ -5888,7 +5888,7 @@
         "jname": "\u30a8\u30ec\u30ad\u30cd\u30c3\u30c8", 
         "power": 55, 
         "pp": 15, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -5900,7 +5900,7 @@
         "power": 90, 
         "pp": 15, 
         "tm": 93, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 95, 
@@ -5911,7 +5911,7 @@
         "jname": "\u30c9\u30ea\u30eb\u30e9\u30a4\u30ca\u30fc", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": 90, 
@@ -5922,7 +5922,7 @@
         "jname": "\u30c0\u30d6\u30eb\u30c1\u30e7\u30c3\u30d7", 
         "power": 40, 
         "pp": 15, 
-        "type": "\u9f99"
+        "type": "Dragon"
     }, 
     {
         "accuracy": 100, 
@@ -5933,7 +5933,7 @@
         "jname": "\u30cf\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7", 
         "power": 60, 
         "pp": 25, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 100, 
@@ -5944,7 +5944,7 @@
         "jname": "\u30a6\u30c3\u30c9\u30db\u30fc\u30f3", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -5955,7 +5955,7 @@
         "jname": "\u305b\u3044\u306a\u308b\u3064\u308b\u304e", 
         "power": 90, 
         "pp": 20, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 95, 
@@ -5966,7 +5966,7 @@
         "jname": "\u30b7\u30a7\u30eb\u30d6\u30ec\u30fc\u30c9", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -5977,7 +5977,7 @@
         "jname": "\u30d2\u30fc\u30c8\u30b9\u30bf\u30f3\u30d7", 
         "power": null, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 90, 
@@ -5988,7 +5988,7 @@
         "jname": "\u30b0\u30e9\u30b9\u30df\u30ad\u30b5\u30fc", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -5999,7 +5999,7 @@
         "jname": "\u30cf\u30fc\u30c9\u30ed\u30fc\u30e9\u30fc", 
         "power": 65, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -6010,7 +6010,7 @@
         "jname": "\u30b3\u30c3\u30c8\u30f3\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 95, 
@@ -6021,7 +6021,7 @@
         "jname": "\u30ca\u30a4\u30c8\u30d0\u30fc\u30b9\u30c8", 
         "power": 85, 
         "pp": 10, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -6032,7 +6032,7 @@
         "jname": "\u30b5\u30a4\u30b3\u30d6\u30ec\u30a4\u30af", 
         "power": 100, 
         "pp": 10, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     }, 
     {
         "accuracy": 85, 
@@ -6043,7 +6043,7 @@
         "jname": "\u30b9\u30a4\u30fc\u30d7\u30d3\u30f3\u30bf", 
         "power": 25, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 70, 
@@ -6054,7 +6054,7 @@
         "jname": "\u307c\u3046\u3075\u3046", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u98de\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -6065,7 +6065,7 @@
         "jname": "\u30a2\u30d5\u30ed\u30d6\u30ec\u30a4\u30af", 
         "power": 120, 
         "pp": 15, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 85, 
@@ -6076,7 +6076,7 @@
         "jname": "\u30ae\u30a2\u30bd\u30fc\u30b5\u30fc", 
         "power": 50, 
         "pp": 15, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": 100, 
@@ -6087,7 +6087,7 @@
         "jname": "\u304b\u3048\u3093\u3060\u3093", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -6098,7 +6098,7 @@
         "jname": "\u30c6\u30af\u30ce\u30d0\u30b9\u30bf\u30fc", 
         "power": 85, 
         "pp": 5, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -6109,7 +6109,7 @@
         "jname": "\u3044\u306b\u3057\u3048\u306e\u3046\u305f", 
         "power": 75, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -6120,7 +6120,7 @@
         "jname": "\u3057\u3093\u3074\u306e\u3064\u308b\u304e", 
         "power": 85, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 95, 
@@ -6131,7 +6131,7 @@
         "jname": "\u3053\u3054\u3048\u308b\u305b\u304b\u3044", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 85, 
@@ -6142,7 +6142,7 @@
         "jname": "\u3089\u3044\u3052\u304d", 
         "power": 130, 
         "pp": 5, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 85, 
@@ -6153,7 +6153,7 @@
         "jname": "\u3042\u304a\u3044\u307b\u306e\u304a", 
         "power": 130, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -6164,7 +6164,7 @@
         "jname": "\u307b\u306e\u304a\u306e\u307e\u3044", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 90, 
@@ -6175,7 +6175,7 @@
         "jname": "\u30d5\u30ea\u30fc\u30ba\u30dc\u30eb\u30c8", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 90, 
@@ -6186,7 +6186,7 @@
         "jname": "\u30b3\u30fc\u30eb\u30c9\u30d5\u30ec\u30a2", 
         "power": 140, 
         "pp": 5, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 95, 
@@ -6198,7 +6198,7 @@
         "power": 55, 
         "pp": 15, 
         "tm": 95, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 90, 
@@ -6209,7 +6209,7 @@
         "jname": "\u3064\u3089\u3089\u304a\u3068\u3057", 
         "power": 85, 
         "pp": 10, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": 95, 
@@ -6220,7 +6220,7 @@
         "jname": "\uff36\u30b8\u30a7\u30cd\u30ec\u30fc\u30c8", 
         "power": 180, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -6231,7 +6231,7 @@
         "jname": "\u30af\u30ed\u30b9\u30d5\u30ec\u30a4\u30e0", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": 100, 
@@ -6242,7 +6242,7 @@
         "jname": "\u30af\u30ed\u30b9\u30b5\u30f3\u30c0\u30fc", 
         "power": 100, 
         "pp": 5, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 95, 
@@ -6253,7 +6253,7 @@
         "jname": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d7\u30ec\u30b9", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": null, 
@@ -6264,7 +6264,7 @@
         "jname": "\u305f\u305f\u307f\u304c\u3048\u3057", 
         "power": null, 
         "pp": 15, 
-        "type": "\u683c\u6597"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 90, 
@@ -6275,7 +6275,7 @@
         "jname": "\u30b2\u30c3\u30d7", 
         "power": 120, 
         "pp": 10, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": null, 
@@ -6286,7 +6286,7 @@
         "jname": "\u305f\u304c\u3084\u3059", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     }, 
     {
         "accuracy": null, 
@@ -6297,7 +6297,7 @@
         "jname": "\u306d\u3070\u306d\u3070\u30cd\u30c3\u30c8", 
         "power": null, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -6308,7 +6308,7 @@
         "jname": "\u3068\u3069\u3081\u3070\u308a", 
         "power": 30, 
         "pp": 25, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -6319,7 +6319,7 @@
         "jname": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u5e7d\u7075"
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -6329,8 +6329,8 @@
         "id": 567, 
         "jname": "\u30cf\u30ed\u30a6\u30a3\u30f3", 
         "power": null, 
-        "pp": 20, 
-        "type": "\u5e7d\u9748"
+        "pp": 20,
+        "type": "Ghost"
     }, 
     {
         "accuracy": 100, 
@@ -6341,7 +6341,7 @@
         "jname": "\u304a\u305f\u3051\u3073", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 25, 
@@ -6352,7 +6352,7 @@
         "jname": "\u30d7\u30e9\u30ba\u30de\u30b7\u30e3\u30ef\u30fc", 
         "power": null, 
         "pp": 25, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -6363,7 +6363,7 @@
         "jname": "\u30d1\u30e9\u30dc\u30e9\u30c1\u30e3\u30fc\u30b8", 
         "power": 50, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -6374,7 +6374,7 @@
         "jname": "\u3082\u308a\u306e\u306e\u308d\u3044", 
         "power": null, 
         "pp": 20, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -6385,7 +6385,7 @@
         "jname": "\u306f\u306a\u3075\u3076\u304d", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -6396,7 +6396,7 @@
         "jname": "\u30d5\u30ea\u30fc\u30ba\u30c9\u30e9\u30a4", 
         "power": 70, 
         "pp": 20, 
-        "type": "\u51b0"
+        "type": "Ice"
     }, 
     {
         "accuracy": null, 
@@ -6407,7 +6407,7 @@
         "jname": "\u30c1\u30e3\u30fc\u30e0\u30dc\u30a4\u30b9", 
         "power": 40, 
         "pp": 15, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6418,7 +6418,7 @@
         "jname": "\u3059\u3066\u30bc\u30ea\u30d5", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6076"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -6429,7 +6429,7 @@
         "jname": "\u3072\u3063\u304f\u308a\u304b\u3048\u3059", 
         "power": null, 
         "pp": 20, 
-        "type": "\u60e1"
+        "type": "Dark"
     }, 
     {
         "accuracy": 100, 
@@ -6440,7 +6440,7 @@
         "jname": "\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9", 
         "power": 50, 
         "pp": 20, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6451,7 +6451,7 @@
         "jname": "\u30c8\u30ea\u30c3\u30af\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6462,7 +6462,7 @@
         "jname": "\u30d5\u30e9\u30ef\u30fc\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6473,7 +6473,7 @@
         "jname": "\u30b0\u30e9\u30b9\u30d5\u30a3\u30fc\u30eb\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": null, 
@@ -6484,7 +6484,7 @@
         "jname": "\u30df\u30b9\u30c8\u30d5\u30a3\u30fc\u30eb\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6495,7 +6495,7 @@
         "jname": "\u305d\u3046\u3067\u3093", 
         "power": null, 
         "pp": 20, 
-        "type": "\u96fb"
+        "type": "Electric"
     }, 
     {
         "accuracy": 90, 
@@ -6506,7 +6506,7 @@
         "jname": "\u3058\u3083\u308c\u3064\u304f", 
         "power": 90, 
         "pp": 15, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6517,7 +6517,7 @@
         "jname": "\u3088\u3046\u305b\u3044\u306e\u304b\u305c", 
         "power": 40, 
         "pp": 30, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6528,7 +6528,7 @@
         "jname": "\u30e0\u30fc\u30f3\u30d5\u30a9\u30fc\u30b9", 
         "power": 95, 
         "pp": 15, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6539,7 +6539,7 @@
         "jname": "\u3070\u304f\u304a\u3093\u3071", 
         "power": 140, 
         "pp": 10, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -6550,7 +6550,7 @@
         "jname": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30ed\u30c3\u30af", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6561,7 +6561,7 @@
         "jname": "\u30ad\u30f3\u30b0\u30b7\u30fc\u30eb\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u94a2"
+        "type": "Steel"
     }, 
     {
         "accuracy": null, 
@@ -6572,7 +6572,7 @@
         "jname": "\u306a\u304b\u3088\u304f\u3059\u308b", 
         "power": null, 
         "pp": 20, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -6584,7 +6584,7 @@
         "power": null, 
         "pp": 20, 
         "tm": 100, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -6595,7 +6595,7 @@
         "jname": "\u307f\u305a\u3057\u3085\u308a\u3051\u3093", 
         "power": 15, 
         "pp": 20, 
-        "type": "\u6c34"
+        "type": "Water"
     }, 
     {
         "accuracy": 100, 
@@ -6606,7 +6606,7 @@
         "jname": "\u30de\u30b8\u30ab\u30eb\u30d5\u30ec\u30a4\u30e0", 
         "power": 65, 
         "pp": 10, 
-        "type": "\u708e"
+        "type": "Fire"
     }, 
     {
         "accuracy": null, 
@@ -6617,7 +6617,7 @@
         "jname": "\u30cb\u30fc\u30c9\u30eb\u30ac\u30fc\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u8349"
+        "type": "Grass"
     }, 
     {
         "accuracy": 100, 
@@ -6628,7 +6628,7 @@
         "jname": "\u30a2\u30ed\u30de\u30df\u30b9\u30c8", 
         "power": null, 
         "pp": 20, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6639,7 +6639,7 @@
         "jname": "\u304b\u3044\u3067\u3093\u3071", 
         "power": null, 
         "pp": 15, 
-        "type": "\u96fb"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -6650,7 +6650,7 @@
         "jname": "\u30d9\u30ce\u30e0\u30c8\u30e9\u30c3\u30d7", 
         "power": null, 
         "pp": 20, 
-        "type": "\u6bd2"
+        "type": "Poison"
     }, 
     {
         "accuracy": 100, 
@@ -6661,7 +6661,7 @@
         "jname": "\u3075\u3093\u3058\u3093", 
         "power": null, 
         "pp": 20, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": null, 
@@ -6672,7 +6672,7 @@
         "jname": "\u30b8\u30aa\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb", 
         "power": null, 
         "pp": 10, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6683,7 +6683,7 @@
         "jname": "\u3058\u3070\u305d\u3046\u3055", 
         "power": null, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": null, 
@@ -6694,7 +6694,7 @@
         "jname": "\u30cf\u30c3\u30d4\u30fc\u30bf\u30a4\u30e0", 
         "power": null, 
         "pp": 30, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": null, 
@@ -6705,7 +6705,7 @@
         "jname": "\u30a8\u30ec\u30ad\u30d5\u30a3\u30fc\u30eb\u30c9", 
         "power": null, 
         "pp": 10, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -6717,7 +6717,7 @@
         "power": 80, 
         "pp": 10, 
         "tm": 99, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": null, 
@@ -6728,7 +6728,7 @@
         "jname": "\u304a\u3044\u308f\u3044", 
         "power": null, 
         "pp": 40, 
-        "type": "\u4e00\u822c"
+        "type": "Normal"
     }, 
     {
         "accuracy": 100, 
@@ -6739,7 +6739,7 @@
         "jname": "\u3064\u3076\u3089\u306a\u3072\u3068\u307f", 
         "power": null, 
         "pp": 30, 
-        "type": "\u5996\u7cbe"
+        "type": "Fairy"
     }, 
     {
         "accuracy": 100, 
@@ -6750,7 +6750,7 @@
         "jname": "\u307b\u3063\u307a\u3059\u308a\u3059\u308a", 
         "power": 20, 
         "pp": 20, 
-        "type": "\u7535"
+        "type": "Electric"
     }, 
     {
         "accuracy": 100, 
@@ -6762,7 +6762,7 @@
         "power": 20, 
         "pp": 35, 
         "tm": 83, 
-        "type": "\u866b"
+        "type": "Bug"
     }, 
     {
         "accuracy": 100, 
@@ -6774,7 +6774,7 @@
         "power": 40, 
         "pp": 30, 
         "tm": 98, 
-        "type": "\u683c\u9b25"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -6785,7 +6785,7 @@
         "jname": "\u30c7\u30b9\u30a6\u30a4\u30f3\u30b0", 
         "power": 80, 
         "pp": 10, 
-        "type": "\u98db\u884c"
+        "type": "Fighting"
     }, 
     {
         "accuracy": 100, 
@@ -6796,7 +6796,7 @@
         "jname": "\u30b0\u30e9\u30f3\u30c9\u30d5\u30a9\u30fc\u30b9", 
         "power": 90, 
         "pp": 10, 
-        "type": "\u5730\u4e0a"
+        "type": "Ground"
     },
     {
         "accuracy": 95, 
@@ -6808,7 +6808,7 @@
         "power": 100, 
         "pp": 5,
         "max_pp": 8, 
-        "type": "\u5ca9\u77f3"
+        "type": "Rock"
     },
     {
         "accuracy": null, 
@@ -6820,7 +6820,7 @@
         "power": 80, 
         "pp": 5,
         "max_pp": 8, 
-        "type": "\u8d85\u80fd\u529b"
+        "type": "Psychic"
     },
     {
         "accuracy": 95, 
@@ -6832,6 +6832,6 @@
         "power": 110, 
         "pp": 5,
         "max_pp": 8, 
-        "type": "\u6c34"
+        "type": "Water"
     }
 ]
